@@ -1,0 +1,1184 @@
+﻿dataset,week,day,text,raw_reading,cleaned_reading,file,peak_after,rms_after,clipped_samples,duration_sec,pipeline
+goi,第1週,1日目,キッチン・台所,キッチン・だいどころ,キッチン だいどころ,第1週1日目-キッチン・台所.wav,24200,8217.22,0,1.465,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,冷蔵庫,れいぞうこ,れいぞうこ,第1週1日目-冷蔵庫.wav,24200,9870.51,0,0.991,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,ワイングラス,ワイングラス,ワイングラス,第1週1日目-ワイングラス.wav,24200,9772.11,0,1.154,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,電子レンジ,でんしレンジ,でんしレンジ,第1週1日目-電子レンジ.wav,24200,9677.43,0,1.122,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,コーヒーカップ,コーヒーカップ,コーヒーカップ,第1週1日目-コーヒーカップ.wav,24200,7866.99,0,1.271,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,"ガスレンジ, ガスコンロ","ガスレンジ, ガスコンロ",ガスレンジ ガスコンロ,第1週1日目-ガスレンジ・ ガスコンロ.wav,24200,9716.12,0,1.699,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,ガラスのコップ,ガラスのコップ,ガラスのコップ,第1週1日目-ガラスのコップ.wav,24200,8533.36,0,1.357,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,湯のみ(茶わん),ゆのみ(ちゃわん),ゆのみ ちゃわん,第1週1日目-湯のみ(茶わん).wav,24200,9489.52,0,1.123,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,茶わん,ちゃわん,ちゃわん,第1週1日目-茶わん.wav,24200,6128.49,0,0.753,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,居間・リビング,いま・リビング,いま リビング,第1週1日目-居間・リビング.wav,24200,9679.36,0,1.074,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,窓ガラス,まどガラス,まどガラス,第1週1日目-窓ガラス.wav,24200,7872.51,0,1.087,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,レバー,レバー,レバー,第1週1日目-レバー.wav,24200,7062.89,0,0.760,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,流し,ながし,ながし,第1週1日目-流し.wav,24200,6476.12,0,0.811,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,雨戸,あまど,あまど,第1週1日目-雨戸.wav,24200,6579.62,0,0.743,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,網戸,あみど,あみど,第1週1日目-網戸.wav,24200,6538.08,0,0.738,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,ヒーター,ヒーター,ヒーター,第1週1日目-ヒーター.wav,24200,7727.34,0,0.825,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,床,ゆか,ゆか,第1週1日目-床.wav,24200,5668.17,0,0.657,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,コンセント,コンセント,コンセント,第1週1日目-コンセント.wav,24200,6971.38,0,1.002,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,天井,てんじょう,てんじょう,第1週1日目-天井.wav,24200,8994.06,0,0.819,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,"じゅうたん, カーペット","じゅうたん, カーペット",じゅうたん カーペット,第1週1日目-じゅうたん・ カーペット.wav,24200,8741.01,0,1.497,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,エアコン,エアコン,エアコン,第1週1日目-エアコン.wav,24200,8232.24,0,0.823,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,コード,コード,コード,第1週1日目-コード.wav,24200,6929.43,0,0.687,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,水道の蛇口をひねる,すいどうのじゃぐちをひねる,すいどうのじゃぐちをひねる,第1週1日目-水道の蛇口をひねる.wav,24200,10538.47,0,1.872,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,水が凍る,みずがこおる,みずがこおる,第1週1日目-水が凍る.wav,24200,9469.31,0,1.151,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,氷になる,こおりになる,こおりになる,第1週1日目-氷になる.wav,24200,10593.42,0,1.131,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,冷凍して保存する,れいとうしてほぞんする,れいとうしてほぞんする,第1週1日目-冷凍して保存する.wav,24200,10527.97,0,1.702,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,残り物を温める,のこりものをあたためる,のこりものをあたためる,第1週1日目-残り物を温める.wav,24200,11460.81,0,1.722,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,ビールを冷やす,ビールをひやす,ビールをひやす,第1週1日目-ビールを冷やす.wav,24200,9380.88,0,1.313,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,ビールが冷えている,ビールがひえている,ビールがひえている,第1週1日目-ビールが冷えている.wav,24200,10232.82,0,1.445,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,エアコンのリモコン,エアコンのリモコン,エアコンのリモコン,第1週1日目-エアコンのリモコン.wav,24200,11326.50,0,1.464,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,スイッチ,スイッチ,スイッチ,第1週1日目-スイッチ.wav,24200,5836.83,0,0.859,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,電源を切る,でんげんをきる,でんげんをきる,第1週1日目-電源を切る.wav,24200,10861.98,0,1.200,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,電源を入れる,でんげんをいれる,でんげんをいれる,第1週1日目-電源を入れる.wav,24200,11748.14,0,1.299,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,じゅうたんを敷く,じゅうたんをしく,じゅうたんをしく,第1週1日目-じゅうたんを敷く.wav,24200,9626.28,0,1.301,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,部屋を暖める,へやをあたためる,へやをあたためる,第1週1日目-部屋を暖める.wav,24200,9905.59,0,1.409,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,暖房をつける,だんぼうをつける,だんぼうをつける,第1週1日目-暖房をつける.wav,24200,11078.27,0,1.357,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,冷房(クーラー)が効いている,れいぼう(クーラー)がきいている,れいぼう クーラー がきいている,第1週1日目-冷房(クーラー)が効いている.wav,24200,11361.99,0,1.941,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,日当たりがいい,ひあたりがいい,ひあたりがいい,第1週1日目-日当たりがいい.wav,24200,10856.18,0,1.205,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,1日目,日当たりが悪い,ひあたりがわるい,ひあたりがわるい,第1週1日目-日当たりが悪い.wav,24200,10961.73,0,1.314,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,大さじ,たいさじ,たいさじ,第1週2日目-大さじ.wav,24200,7288.28,0,0.876,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,小さじ,こさじ,こさじ,第1週2日目-小さじ.wav,24200,4852.62,0,0.839,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,1カップ,1カップ,1カップ,第1週2日目-1カップ.wav,23778,4389.35,0,1.068,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,1リットル,1りっとる,1りっとる,第1週2日目-1リットル.wav,24200,6987.71,0,1.074,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,秤,はかり,はかり,第1週2日目-秤.wav,24200,4621.62,0,0.696,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,包丁,ほうちょう,ほうちょう,第1週2日目-包丁.wav,24200,7560.38,0,0.886,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,まな板,まないた,まないた,第1週2日目-まな板.wav,24200,7596.61,0,0.856,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,酒,さけ,さけ,第1週2日目-酒.wav,24200,4374.98,0,0.693,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,酢,す,す,第1週2日目-酢.wav,3678,429.94,0,0.527,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,調味料,ちょうみりょう,ちょうみりょう,第1週2日目-調味料.wav,24200,9885.38,0,0.992,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,サラダ油,さらだあぶら,さらだあぶら,第1週2日目-サラダ油.wav,24200,8753.34,0,1.120,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,天ぷら油,てんぷらあぶら,てんぷらあぶら,第1週2日目-天ぷら油.wav,24200,10126.75,0,1.138,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,夕食のおかず,ゆうしょくのおかず,ゆうしょくのおかず,第1週2日目-夕食のおかず.wav,24200,9729.51,0,1.443,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,栄養のバランスを考える,えいようのばらんすをかんがえる,えいようのばらんすをかんがえる,第1週2日目-栄養のバランスを考える.wav,24200,12466.43,0,2.150,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,カロリーが高い食品,かろりーがたかいしょくひん,かろりーがたかいしょくひん,第1週2日目-カロリーが高い食品.wav,24200,9960.52,0,1.942,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,はかりで量る,はかりではかる,はかりではかる,第1週2日目-はかりで量る.wav,24200,8528.41,0,1.271,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,塩を少々入れる,しおをしょうしょういれる,しおをしょうしょういれる,第1週2日目-塩を少々入れる.wav,24200,11628.29,0,1.656,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,皮をむく,かわをむく,かわをむく,第1週2日目-皮をむく.wav,24200,9466.83,0,1.113,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,材料を刻む,ざいりょうをきざむ,ざいりょうをきざむ,第1週2日目-材料を刻む.wav,24200,11673.09,0,1.419,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,大きめに切る,おおきめにきる,おおきめにきる,第1週2日目-大きめに切る.wav,24200,9683.76,0,1.204,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,3センチ幅に切る,3せんちはばにきる,3せんちはばにきる,第1週2日目-3センチ幅に切る.wav,24200,9388.00,0,1.704,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,みそ汁がぬるくなる,みそしるがぬるくなる,みそしるがぬるくなる,第1週2日目-みそ汁がぬるくなる.wav,24200,9734.04,0,1.649,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,ラップでくるむ,ラップでくるむ,ラップでくるむ,第1週2日目-ラップでくるむ.wav,24200,8523.38,0,1.208,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,(アルミ)ホイル,(アルミ)ホイル,アルミ ホイル,第1週2日目-(アルミ)ホイル.wav,24200,9541.07,0,1.076,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,2日目,"ラップをかぶせる, かける","ラップをかぶせる, かける",ラップをかぶせる かける,第1週2日目-ラップをかぶせる・ かける.wav,24200,9659.71,0,1.799,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,鍋,なべ,なべ,第1週3日目-鍋.wav,24200,5641.88,0,0.654,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,蓋,ふた,ふた,第1週3日目-蓋.wav,24200,2560.02,0,0.644,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,お玉,おたま,おたま,第1週3日目-お玉.wav,24200,6742.24,0,0.687,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,フライパン,フライパン,フライパン,第1週3日目-フライパン.wav,24200,7612.47,0,0.957,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,フライ返し,フライかえし,フライかえし,第1週3日目-フライ返し.wav,24200,8808.78,0,1.155,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,炊飯器,すいはんき,すいはんき,第1週3日目-炊飯器.wav,24200,7342.05,0,1.018,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,しゃもじ,しゃもじ,しゃもじ,第1週3日目-しゃもじ.wav,24200,6871.51,0,0.817,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,(お)湯が沸く,(お)ゆがわく,お ゆがわく,第1週3日目-(お)湯が沸く.wav,24200,10408.36,0,1.116,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,(お)湯を沸かす,(お)ゆをわかす,お ゆをわかす,第1週3日目-(お)湯を沸かす.wav,24200,11443.46,0,1.264,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,(お)湯を冷ます,(お)ゆをさます,お ゆをさます,第1週3日目-(お)湯を冷ます.wav,24200,10934.70,0,1.271,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,(お)湯が冷める,(お)ゆがさめる,お ゆがさめる,第1週3日目-(お)湯が冷める.wav,24200,10264.26,0,1.153,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,なべを火にかける,なべをひにかける,なべをひにかける,第1週3日目-なべを火にかける.wav,24200,9767.50,0,1.417,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,ご飯を炊く,ごはんをたく,ごはんをたく,第1週3日目-ご飯を炊く.wav,24200,8594.54,0,1.208,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,油を熱する,あぶらをねっする,あぶらをねっする,第1週3日目-油を熱する.wav,24200,10086.71,0,1.330,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,油で揚げる,あぶらであげる,あぶらであげる,第1週3日目-油で揚げる.wav,24200,9105.02,0,1.200,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,水を切る,みずをきる,みずをきる,第1週3日目-水を切る.wav,24200,7603.69,0,0.979,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,煮る,にる,にる,第1週3日目-煮る.wav,24200,5821.59,0,0.571,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,茹でる,ゆでる,ゆでる,第1週3日目-茹でる.wav,24200,8227.50,0,0.739,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,蒸す,むす,むす,第1週3日目-蒸す.wav,24200,4945.09,0,0.710,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,炒める,いためる,いためる,第1週3日目-炒める.wav,24200,7025.78,0,0.826,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,混ぜる,まぜる,まぜる,第1週3日目-混ぜる.wav,24200,7003.08,0,0.738,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,焦げる,こげる,こげる,第1週3日目-焦げる.wav,24200,6896.83,0,0.740,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,"ひっくり返す, 裏返す","ひっくりかえす, うらかえす",ひっくりかえす うらかえす,第1週3日目-ひっくり返す・ 裏返す.wav,24200,8155.66,0,1.922,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,味をつける,あじをつける,あじをつける,第1週3日目-味をつける.wav,24200,8185.06,0,1.161,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,塩を加える,しおをくわえる,しおをくわえる,第1週3日目-塩を加える.wav,24200,10119.30,0,1.271,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,こしょうを振る,こしょうをふる,こしょうをふる,第1週3日目-こしょうを振る.wav,24200,10280.17,0,1.160,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,"味見をする, 味を見る","あじみをする, あじをみる",あじみをする あじをみる,第1週3日目-味見をする・ 味を見る.wav,24200,11071.30,0,1.794,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,味が濃い,あじがこい,あじがこい,第1週3日目-味が濃い.wav,24200,7773.91,0,1.034,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,味が薄い,あじがうすい,あじがうすい,第1週3日目-味が薄い.wav,24200,8284.03,0,1.129,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,辛い,からい,からい,第1週3日目-辛い.wav,24200,6097.40,0,0.686,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,塩からい,しおからい,しおからい,第1週3日目-塩からい.wav,24200,7945.86,0,0.983,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,酸っぱい,すっぱい,すっぱい,第1週3日目-酸っぱい.wav,24200,3432.22,0,0.859,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,3日目,"できあがる, できあがり","できあがる, できあがり",できあがる できあがり,第1週3日目-できあがる・ できあがり.wav,24200,10485.62,0,1.614,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,エプロン,エプロン,エプロン,第1週4日目-エプロン.wav,24200,7634.38,0,0.765,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,箒,ほうき,ほうき,第1週4日目-箒.wav,24200,5721.46,0,0.824,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,塵取り,ちりとり,ちりとり,第1週4日目-塵取り.wav,24200,6109.96,0,0.839,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,雑巾,ぞうきん,ぞうきん,第1週4日目-雑巾.wav,24200,8685.62,0,0.812,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,バケツ,バケツ,バケツ,第1週4日目-バケツ.wav,24200,5197.29,0,0.860,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,"エプロンをする, かける, つける","エプロンをする, かける, つける",エプロンをする かける つける,第1週4日目-エプロンをする・ かける・ つける.wav,24200,10412.96,0,2.024,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,ソファーをどける,ソファーをどける,ソファーをどける,第1週4日目-ソファーをどける.wav,24200,8580.20,0,1.394,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,（～が）どく,（～が）どく,～が どく,第1週4日目-（～が）どく.wav,24200,6102.05,0,0.819,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,部屋を散らかす,へやをちらかす,へやをちらかす,第1週4日目-部屋を散らかす.wav,24200,9035.96,0,1.425,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,部屋が散らかる,へやがちらかる,へやがちらかる,第1週4日目-部屋が散らかる.wav,24200,9366.81,0,1.307,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,部屋を片付ける,へやをかたづける,へやをかたづける,第1週4日目-部屋を片付ける.wav,24200,9482.39,0,1.417,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,部屋が片付く,へやがかたづく,へやがかたづく,第1週4日目-部屋が片付く.wav,24200,8871.82,0,1.398,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,ジュースをこぼす,ジュースをこぼす,ジュースをこぼす,第1週4日目-ジュースをこぼす.wav,24200,8216.85,0,1.414,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,こぼれる,こぼれる,こぼれる,第1週4日目-こぼれる.wav,24200,8490.72,0,0.868,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,埃が積もる,ほこりがつもる,ほこりがつもる,第1週4日目-埃が積もる.wav,24200,9209.49,0,1.302,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,埃がたまる,ほこりがたまる,ほこりがたまる,第1週4日目-埃がたまる.wav,24200,9400.43,0,1.266,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,埃を取る,ほこりをとる,ほこりをとる,第1週4日目-埃を取る.wav,24200,10466.39,0,1.116,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,掃除機をかける,そうじきをかける,そうじきをかける,第1週4日目-掃除機をかける.wav,24200,9626.23,0,1.410,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,ほうきで掃く,ほうきではく,ほうきではく,第1週4日目-ほうきで掃く.wav,24200,8258.71,0,1.200,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,水をくむ,みずをくむ,みずをくむ,第1週4日目-水をくむ.wav,24200,8269.04,0,0.988,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,ぞうきんをしぼる,ぞうきんをしぼる,ぞうきんをしぼる,第1週4日目-ぞうきんをしぼる.wav,24200,9756.35,0,1.398,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,ぬらす,ぬらす,ぬらす,第1週4日目-ぬらす.wav,24200,6198.26,0,0.818,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,床をふく,ゆかをふく,ゆかをふく,第1週4日目-床をふく.wav,24200,8414.87,0,1.076,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,ふきんで食器をふく,ふきんでしょっきをふく,ふきんでしょっきをふく,第1週4日目-ふきんで食器をふく.wav,24200,8824.23,0,1.646,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,台ふきんでテーブルをふく,だいふきんでテーブルをふく,だいふきんでテーブルをふく,第1週4日目-台ふきんでテーブルをふく.wav,24200,11429.16,0,1.923,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,家具をみがく,かぐをみがく,かぐをみがく,第1週4日目-家具をみがく.wav,24200,9622.79,0,1.248,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,ブラシでこする,ブラシでこする,ブラシでこする,第1週4日目-ブラシでこする.wav,24200,8361.57,0,1.296,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,ゴミを分ける,ゴミをわける,ゴミをわける,第1週4日目-ゴミを分ける.wav,24200,10451.35,0,1.245,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,"面倒くさい, 面倒だ","めんどうくさい, めんどうだ",めんどうくさい めんどうだ,第1週4日目-面倒くさい・ 面倒だ.wav,24200,10844.64,0,1.729,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,スリッパをそろえる,スリッパをそろえる,スリッパをそろえる,第1週4日目-スリッパをそろえる.wav,24200,8751.52,0,1.519,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,物置にしまう,ものおきにしまう,ものおきにしまう,第1週4日目-物置にしまう.wav,24200,10034.22,0,1.410,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,生ゴミ,なまゴミ,なまゴミ,第1週4日目-生ゴミ.wav,24200,9185.27,0,0.906,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,燃えるゴミ,もえるゴミ,もえるゴミ,第1週4日目-燃えるゴミ.wav,24200,10381.94,0,0.983,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,4日目,燃えないゴミ,もえないゴミ,もえないゴミ,第1週4日目-燃えないゴミ.wav,24200,11567.81,0,1.153,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,5日目,溜まる,たまる,たまる,第1週5日目-溜まる.wav,24200,6740.58,0,0.741,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,5日目,溜める,ためる,ためる,第1週5日目-溜める.wav,24200,6854.84,0,0.741,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,5日目,ぬれている,ぬれている,ぬれている,第1週5日目-ぬれている.wav,24200,9613.19,0,0.930,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,5日目,しめっている,しめっている,しめっている,第1週5日目-しめっている.wav,24200,6989.62,0,1.076,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,5日目,ぬらす,ぬらす,ぬらす,第1週5日目-ぬらす.wav,24200,6198.26,0,0.818,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,5日目,乾く,かわく,かわく,第1週5日目-乾く.wav,24200,6798.69,0,0.828,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,5日目,真っ白に仕上がる,まっしろにしあがる,まっしろにしあがる,第1週5日目-真っ白に仕上がる.wav,24200,8782.97,0,1.518,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,5日目,干す,ほす,ほす,第1週5日目-干す.wav,24200,3632.28,0,0.741,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,5日目,洗濯機で乾かす,せんたくきでかわかす,せんたくきでかわかす,第1週5日目-洗濯機で乾かす.wav,24200,8655.99,0,1.836,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,5日目,畳む,たたむ,たたむ,第1週5日目-畳む.wav,24200,6163.54,0,0.738,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,5日目,服を汚す,ふくをよごす,ふくをよごす,第1週5日目-服を汚す.wav,24200,7651.76,0,1.238,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,5日目,汚れ,よごれ,よごれ,第1週5日目-汚れ.wav,24200,7934.20,0,0.739,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,5日目,そでが真っ黒に汚れる,そでがまっくろによごれる,そでがまっくろによごれる,第1週5日目-そでが真っ黒に汚れる.wav,24200,10868.68,0,1.883,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,5日目,"(洗濯用, 台所用)洗剤を入れる","(せんたくよう, だいどころよう)せんざいをいれる",せんたくよう だいどころよう せんざいをいれる,第1週5日目-(洗濯用・ 台所用)洗剤を入れる.wav,24200,12707.15,0,2.988,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,5日目,スーツをクリーニングに出す,スーツをクリーニングにだす,スーツをクリーニングにだす,第1週5日目-スーツをクリーニングに出す.wav,24200,9273.86,0,2.070,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,5日目,コインランドリーで洗濯をする,コインランドリーでせんたくをする,コインランドリーでせんたくをする,第1週5日目-コインランドリーで洗濯をする.wav,24200,11287.97,0,2.323,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,5日目,タオルを干す,タオルをほす,タオルをほす,第1週5日目-タオルを干す.wav,24200,8995.28,0,1.248,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,5日目,服をつるす,ふくをつるす,ふくをつるす,第1週5日目-服をつるす.wav,24200,6640.75,0,1.208,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,5日目,ワイシャツにアイロンをかける,ワイシャツにアイロンをかける,ワイシャツにアイロンをかける,第1週5日目-ワイシャツにアイロンをかける.wav,24200,10780.41,0,2.021,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,5日目,しわを伸ばす,しわをのばす,しわをのばす,第1週5日目-しわを伸ばす.wav,24200,9369.85,0,1.269,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,5日目,しわが伸びる,しわがのびる,しわがのびる,第1週5日目-しわが伸びる.wav,24200,9342.98,0,1.149,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,5日目,ウールのセーターが縮む,ウールのセーターがちぢむ,ウールのセーターがちぢむ,第1週5日目-ウールのセーターが縮む.wav,24200,11049.17,0,1.850,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,5日目,ジーンズの色が落ちる,ジーンズのいろがおちる,ジーンズのいろがおちる,第1週5日目-ジーンズの色が落ちる.wav,24200,10372.65,0,1.729,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,かわいらしい,かわいらしい,かわいらしい,第1週6日目-かわいらしい.wav,24200,8638.97,0,1.157,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,かわいそうな,かわいそうな,かわいそうな,第1週6日目-かわいそうな.wav,24200,9729.20,0,1.090,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,行儀がいい,ぎょうぎがいい,ぎょうぎがいい,第1週6日目-行儀がいい.wav,24200,10742.85,0,1.106,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,"利口な, かしこい","りこうな, かしこい",りこうな かしこい,第1週6日目-利口な・ かしこい.wav,24200,9124.60,0,1.397,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,人懐っこい,ひとなつっこい,ひとなつっこい,第1週6日目-人懐っこい.wav,24200,7008.31,0,1.205,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,わがままな,わがままな,わがままな,第1週6日目-わがままな.wav,24200,9798.87,0,1.042,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,生意気な,なまいきな,なまいきな,第1週6日目-生意気な.wav,24200,9826.83,0,0.949,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,生意気な態度,なまいきなたいど,なまいきなたいど,第1週6日目-生意気な態度.wav,24200,10705.79,0,1.349,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,吠える,ほえる,ほえる,第1週6日目-吠える.wav,24200,8089.45,0,0.669,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,尻尾をふる,しっぽをふる,しっぽをふる,第1週6日目-尻尾をふる.wav,24200,7992.71,0,1.153,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,人になれる,ひとになれる,ひとになれる,第1週6日目-人になれる.wav,24200,8244.14,0,1.120,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,唸る,うなる,うなる,第1週6日目-唸る.wav,24200,8309.52,0,0.677,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,穴を掘る,あなをほる,あなをほる,第1週6日目-穴を掘る.wav,24200,8734.91,0,1.073,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,穴を埋める,あなをうめる,あなをうめる,第1週6日目-穴を埋める.wav,24200,10451.25,0,1.137,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,甘やかす,あまやかす,あまやかす,第1週6日目-甘やかす.wav,24200,8408.34,0,1.157,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,かわいがる,かわいがる,かわいがる,第1週6日目-かわいがる.wav,24200,8669.85,0,0.988,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,抱っこする,だっこする,だっこする,第1週6日目-抱っこする.wav,24200,5514.32,0,0.982,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,腕に抱く,うでにだく,うでにだく,第1週6日目-腕に抱く.wav,24200,8018.35,0,1.025,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,"育児, 子育て","いくじ, こそだて",いくじ こそだて,第1週6日目-育児・ 子育て.wav,24200,7045.09,0,1.354,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,えらい,えらい,えらい,第1週6日目-えらい.wav,24200,6809.31,0,0.667,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,"幼児, おさない子ども","ようじ, おさないこども",ようじ おさないこども,第1週6日目-幼児・ おさない子ども.wav,24200,11492.39,0,1.729,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,子どもが成長する,こどもがせいちょうする,こどもがせいちょうする,第1週6日目-子どもが成長する.wav,24200,10267.83,0,1.766,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,わがままに育つ,わがままにそだつ,わがままにそだつ,第1週6日目-わがままに育つ.wav,24200,10271.96,0,1.555,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,頭をなでる,あたまをなでる,あたまをなでる,第1週6日目-頭をなでる.wav,24200,9865.24,0,1.248,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,"お尻をたたく, ぶつ","おしりをたたく, ぶつ",おしりをたたく ぶつ,第1週6日目-お尻をたたく・ ぶつ.wav,24200,9005.49,0,1.642,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,悪戯をする,いたずらをする,いたずらをする,第1週6日目-悪戯をする.wav,24200,8592.73,0,1.248,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,悪戯な,いたずらな,いたずらな,第1週6日目-悪戯な.wav,24200,8397.17,0,0.953,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,手をつなぐ,てをつなぐ,てをつなぐ,第1週6日目-手をつなぐ.wav,24200,8405.82,0,1.085,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,手をはなす,てをはなす,てをはなす,第1週6日目-手をはなす.wav,24200,7987.57,0,1.105,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,子どもが迷子になる,こどもがまいごになる,こどもがまいごになる,第1週6日目-子どもが迷子になる.wav,24200,11093.97,0,1.654,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,子どもが母親の後をついていく,こどもがははおやのあとをついていく,こどもがははおやのあとをついていく,第1週6日目-子どもが母親の後をついていく.wav,24200,11753.37,0,2.558,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,犬を飼う,いぬをかう,いぬをかう,第1週6日目-犬を飼う.wav,24200,9042.35,0,0.981,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,散歩に連れていく,さんぽにつれていく,さんぽにつれていく,第1週6日目-散歩に連れていく.wav,24200,9054.10,0,1.638,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第1週,6日目,"えさをやる, 与える","えさをやる, あたえる",えさをやる あたえる,第1週6日目-えさをやる・ 与える.wav,24200,10898.05,0,1.547,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,昨日,きのう,きのう,第2週1日目-昨日.wav,24200,6419.04,0,0.685,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,今日,きょう,きょう,第2週1日目-今日.wav,24200,5689.51,0,0.605,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,明日,あした,あした,第2週1日目-明日.wav,24200,3726.30,0,0.819,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,一昨日,いっさくじつ,いっさくじつ,第2週1日目-一昨日.wav,24200,5887.81,0,1.201,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,さきおととい,さきおととい,さきおととい,第2週1日目-さきおととい.wav,24200,7492.32,0,1.117,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,あさって,あさって,あさって,第2週1日目-あさって.wav,24200,5513.11,0,0.977,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,しあさって,しあさって,しあさって,第2週1日目-しあさって.wav,24200,7013.51,0,1.121,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,"元日, 元旦","がんじつ, がんたん",がんじつ がんたん,第2週1日目-元日・ 元旦.wav,24200,8316.76,0,1.411,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,"上旬, 初旬","じょうじゅん, しょじゅん",じょうじゅん しょじゅん,第2週1日目-上旬・ 初旬.wav,24200,9882.91,0,1.245,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,中旬,ちゅうじゅん,ちゅうじゅん,第2週1日目-中旬.wav,24200,8214.32,0,0.852,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,下旬,げじゅん,げじゅん,第2週1日目-下旬.wav,24200,7463.76,0,0.762,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,月始め,つきはじめ,つきはじめ,第2週1日目-月始め.wav,24200,5472.75,0,1.071,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,月末,げつまつ,げつまつ,第2週1日目-月末.wav,24200,6055.49,0,1.071,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,平日,へいじつ,へいじつ,第2週1日目-平日.wav,24200,7021.88,0,0.947,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,"祝日, 祭日","しゅくじつ, さいじつ",しゅくじつ さいじつ,第2週1日目-祝日・ 祭日.wav,24200,5818.62,0,1.555,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,"昨年, 一昨年","さくねん, いっさくねん",さくねん いっさくねん,第2週1日目-昨年・ 一昨年.wav,24200,9205.27,0,1.586,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,再来年,さらいねん,さらいねん,第2週1日目-再来年.wav,24200,7703.88,0,0.984,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,"先月, 先々月","せんげつ, せんせんげつ",せんげつ せんせんげつ,第2週1日目-先月・ 先々月.wav,24200,8424.12,0,1.788,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,再来月,さらいげつ,さらいげつ,第2週1日目-再来月.wav,24200,7026.60,0,1.104,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,"先週, 先々週","せんしゅう, せんせんしゅう",せんしゅう せんせんしゅう,第2週1日目-先週・ 先々週.wav,24200,9249.02,0,1.643,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,再来週,さらいしゅう,さらいしゅう,第2週1日目-再来週.wav,24200,7989.22,0,1.042,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,先日,せんじつ,せんじつ,第2週1日目-先日.wav,24200,6930.92,0,0.979,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,年末年始,ねんまつねんし,ねんまつねんし,第2週1日目-年末年始.wav,24200,10130.11,0,1.300,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,年の暮れ,ねんのくれ,ねんのくれ,第2週1日目-年の暮れ.wav,24200,10373.17,0,0.982,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,休暇,きゅうか,きゅうか,第2週1日目-休暇.wav,24200,6887.35,0,0.820,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,予定,よてい,よてい,第2週1日目-予定.wav,23886,5617.67,0,0.676,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,日にち,ひにち,ひにち,第2週1日目-日にち.wav,24200,6283.63,0,0.831,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,日程,にってい,にってい,第2週1日目-日程.wav,24200,5903.05,0,0.751,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,スケジュール,スケジュール,スケジュール,第2週1日目-スケジュール.wav,24200,7862.85,0,0.961,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,調整する,ちょうせいする,ちょうせいする,第2週1日目-調整する.wav,24200,9104.75,0,1.205,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,変更する,へんこうする,へんこうする,第2週1日目-変更する.wav,24200,8557.09,0,1.091,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,ずらす,ずらす,ずらす,第2週1日目-ずらす.wav,24200,6101.71,0,0.860,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,旅行会社に申し込む,りょこうがいしゃにもうしこむ,りょこうがいしゃにもうしこむ,第2週1日目-旅行会社に申し込む.wav,24200,10590.74,0,1.918,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,荷物をつめる,にもつをつめる,にもつをつめる,第2週1日目-荷物をつめる.wav,24200,9311.88,0,1.303,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,海外旅行,かいがいりょこう,かいがいりょこう,第2週1日目-海外旅行.wav,24200,10608.49,0,1.200,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,国内旅行,こくないりょこう,こくないりょこう,第2週1日目-国内旅行.wav,24200,10075.98,0,1.237,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,温泉,おんせん,おんせん,第2週1日目-温泉.wav,24200,7522.88,0,0.820,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,2泊3日,2はく3にち,2はく3にち,第2週1日目-2泊3日.wav,24200,7761.82,0,1.478,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,日帰り,ひがえり,ひがえり,第2週1日目-日帰り.wav,24200,6692.26,0,0.840,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,旅館,りょかん,りょかん,第2週1日目-旅館.wav,24200,6295.69,0,0.748,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,1日目,宿泊する,しゅくはくする,しゅくはくする,第2週1日目-宿泊する.wav,24200,4879.80,0,1.163,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,"階段を上る, 上がる","かいだんをのぼる, あがる",かいだんをのぼる あがる,第2週2日目-階段を上る・ 上がる.wav,24200,11602.77,0,1.764,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,"階段を下る, 下りる","かいだんをくだる, おりる",かいだんをくだる おりる,第2週2日目-階段を下る・ 下りる.wav,24200,11717.53,0,1.649,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,上りエスカレーター,のぼりエスカレーター,のぼりエスカレーター,第2週2日目-上りエスカレーター.wav,24200,10932.94,0,1.663,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,下りエスカレーター,くだりエスカレーター,くだりエスカレーター,第2週2日目-下りエスカレーター.wav,24200,10071.20,0,1.663,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,上り電車,のぼりでんしゃ,のぼりでんしゃ,第2週2日目-上り電車.wav,24200,9639.94,0,1.135,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,青森方面行き,あおもりほうめんいき,あおもりほうめんいき,第2週2日目-青森方面行き.wav,24200,11572.21,0,1.616,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,下り電車,くだりでんしゃ,くだりでんしゃ,第2週2日目-下り電車.wav,24200,8149.62,0,1.187,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,東京方面行き,とうきょうほうめんいき,とうきょうほうめんいき,第2週2日目-東京方面行き.wav,24200,11663.77,0,1.669,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,列車の時刻を調べる,れっしゃのじこくをしらべる,れっしゃのじこくをしらべる,第2週2日目-列車の時刻を調べる.wav,24200,10514.73,0,1.984,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,時刻表,じこくひょう,じこくひょう,第2週2日目-時刻表.wav,24200,6799.07,0,1.043,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,東京発横浜行き,とうきょうはつよこはまいき,とうきょうはつよこはまいき,第2週2日目-東京発横浜行き.wav,24200,10248.39,0,2.000,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,座席を指定する,ざせきをしていする,ざせきをしていする,第2週2日目-座席を指定する.wav,24200,8957.06,0,1.548,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,指定席,していせき,していせき,第2週2日目-指定席.wav,24200,5838.69,0,1.107,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,特急券,とっきゅうけん,とっきゅうけん,第2週2日目-特急券.wav,24200,7815.67,0,1.089,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,自由席,じゆうせき,じゆうせき,第2週2日目-自由席.wav,24200,7812.58,0,1.025,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,窓側,まどがわ,まどがわ,第2週2日目-窓側.wav,24200,7392.30,0,0.895,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,通路側,つうろがわ,つうろがわ,第2週2日目-通路側.wav,24200,8653.04,0,1.068,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,特急料金,とっきゅうりょうきん,とっきゅうりょうきん,第2週2日目-特急料金.wav,24200,9700.52,0,1.258,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,回数券,かいすうけん,かいすうけん,第2週2日目-回数券.wav,24200,7532.03,0,1.070,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,片道,かたみち,かたみち,第2週2日目-片道.wav,24200,6202.96,0,1.004,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,往復,おうふく,おうふく,第2週2日目-往復.wav,24200,8797.02,0,0.830,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,乗車券,じょうしゃけん,じょうしゃけん,第2週2日目-乗車券.wav,24200,8564.98,0,0.978,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,定期券,ていきけん,ていきけん,第2週2日目-定期券.wav,24200,7313.26,0,0.873,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,改札口を通る,かいさつぐちをとおる,かいさつぐちをとおる,第2週2日目-改札口を通る.wav,24200,9828.73,0,1.698,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,切符を払い戻す,きっぷをはらいもどす,きっぷをはらいもどす,第2週2日目-切符を払い戻す.wav,24200,9262.61,0,1.682,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,2日目,払い戻し,はらいもどし,はらいもどし,第2週2日目-払い戻し.wav,24200,8649.66,0,1.153,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,(プラット) ホームが混雑している,(プラット) ホームがこんざつしている,プラット ホームがこんざつしている,第2週3日目-(プラット) ホームが混雑している.wav,24200,10080.70,0,2.329,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,"白線, 黄色い線の内側に下がる","はくせん, きいろいせんのうちがわにさがる",はくせん きいろいせんのうちがわにさがる,第2週3日目-白線・ 黄色い線の内側に下がる.wav,24200,10767.37,0,2.760,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,特急が通過する,とっきゅうがつうかする,とっきゅうがつうかする,第2週3日目-特急が通過する.wav,24200,8738.02,0,1.646,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,乗車する,じょうしゃする,じょうしゃする,第2週3日目-乗車する.wav,24200,8496.83,0,1.075,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,下車する,げしゃする,げしゃする,第2週3日目-下車する.wav,24200,6578.25,0,0.982,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,発車する,はっしゃする,はっしゃする,第2週3日目-発車する.wav,24200,5630.92,0,1.067,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,電車はがらがらだ,でんしゃはがらがらだ,でんしゃはがらがらだ,第2週3日目-電車はがらがらだ.wav,24200,10986.55,0,1.532,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,空っぽ,からっぽ,からっぽ,第2週3日目-空っぽ.wav,24200,5912.75,0,0.930,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,満員電車で通勤する,まんいんでんしゃでつうきんする,まんいんでんしゃでつうきんする,第2週3日目-満員電車で通勤する.wav,24200,11135.15,0,2.105,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,電車がゆれる,でんしゃがゆれる,でんしゃがゆれる,第2週3日目-電車がゆれる.wav,24200,10847.19,0,1.281,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,始発(電車),しはつ(でんしゃ),しはつ でんしゃ,第2週3日目-始発(電車).wav,24200,6863.31,0,1.267,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,終電(電車),しゅうでん(でんしゃ),しゅうでん でんしゃ,第2週3日目-終電(電車).wav,24200,9965.16,0,1.248,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,始発駅から乗る,しはつえきからのる,しはつえきからのる,第2週3日目-始発駅から乗る.wav,24200,7996.89,0,1.612,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,終点で降りる,しゅうてんでおりる,しゅうてんでおりる,第2週3日目-終点で降りる.wav,24200,10800.59,0,1.357,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,急行から各駅停車に乗り換える,きゅうこうからかくえきていしゃにのりかえる,きゅうこうからかくえきていしゃにのりかえる,第2週3日目-急行から各駅停車に乗り換える.wav,24200,10880.99,0,2.712,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,乗り換え,のりかえ,のりかえ,第2週3日目-乗り換え.wav,24200,6525.56,0,0.829,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,乗り遅れる,のりおくれる,のりおくれる,第2週3日目-乗り遅れる.wav,24200,9631.59,0,1.073,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,乗り過ごす,のりすごす,のりすごす,第2週3日目-乗り過ごす.wav,24200,7754.25,0,1.120,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,乗り越す,のりこす,のりこす,第2週3日目-乗り越す.wav,24200,6331.60,0,0.954,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,運賃を精算する,うんちんをせいさんする,うんちんをせいさんする,第2週3日目-運賃を精算する.wav,24200,10336.54,0,1.716,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,乗り越し,のりこし,のりこし,第2週3日目-乗り越し.wav,24200,6313.69,0,0.953,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,車掌が車内アナウンスをする,しゃしょうがしゃないあなうんすをする,しゃしょうがしゃないあなうんすをする,第2週3日目-車掌が車内アナウンスをする.wav,24200,11228.53,0,2.478,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,携帯電話の使用を控える,けいたいでんわのしようをひかえる,けいたいでんわのしようをひかえる,第2週3日目-携帯電話の使用を控える.wav,24200,12120.07,0,2.253,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,お年寄りに席を譲る,おとしよりにせきをゆずる,おとしよりにせきをゆずる,第2週3日目-お年寄りに席を譲る.wav,24200,10857.27,0,1.934,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,優先席,ゆうせんせき,ゆうせんせき,第2週3日目-優先席.wav,24200,8066.10,0,1.160,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,体に不自由な人,からだにふじゆうなひと,からだにふじゆうなひと,第2週3日目-体に不自由な人.wav,24200,10427.58,0,1.766,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,痴漢に会う,ちかんにあう,ちかんにあう,第2週3日目-痴漢に会う.wav,24200,8583.77,0,1.071,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,3日目,駅の売店,えきのばいてん,えきのばいてん,第2週3日目-駅の売店.wav,24200,8857.23,0,1.206,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,運転免許証,うんてんめんきょしょう,うんてんめんきょしょう,第2週4日目-運転免許証.wav,24200,10938.28,0,1.482,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,ドライブをする,どらいぶをする,どらいぶをする,第2週4日目-ドライブをする.wav,24200,9439.56,0,1.246,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,レンタカーを借りる,れんたかーをかりる,れんたかーをかりる,第2週4日目-レンタカーを借りる.wav,24200,10894.40,0,1.443,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,トランクに荷物を積む,トランクににもつをつむ,トランクににもつをつむ,第2週4日目-トランクに荷物を積む.wav,24200,11040.54,0,1.825,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,人を乗せる,ひとをのせる,ひとをのせる,第2週4日目-人を乗せる.wav,24200,8607.46,0,1.120,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,キー,キー,キー,第2週4日目-キー.wav,23501,4517.36,0,0.568,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,バックミラー,バックミラー,バックミラー,第2週4日目-バックミラー.wav,24200,8110.66,0,1.085,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,トランク,トランク,トランク,第2週4日目-トランク.wav,24200,8034.59,0,0.860,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,タイヤ,タイヤ,タイヤ,第2週4日目-タイヤ.wav,24200,7369.22,0,0.708,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,運転席,うんてんせき,うんてんせき,第2週4日目-運転席.wav,24200,8486.78,0,1.113,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,ライト,ライト,ライト,第2週4日目-ライト.wav,24200,6795.44,0,0.737,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,助手席,じょしゅせき,じょしゅせき,第2週4日目-助手席.wav,24200,5477.79,0,1.040,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,ボンネット,ボンネット,ボンネット,第2週4日目-ボンネット.wav,24200,7712.71,0,0.991,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,ハンドル,ハンドル,ハンドル,第2週4日目-ハンドル.wav,24200,7753.54,0,0.820,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,フロントガラス,フロントガラス,フロントガラス,第2週4日目-フロントガラス.wav,24200,8469.19,0,1.312,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,カーナビ,カーナビ,カーナビ,第2週4日目-カーナビ.wav,24200,6999.16,0,0.931,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,ワイパー,ワイパー,ワイパー,第2週4日目-ワイパー.wav,24200,7696.55,0,0.856,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,サイドミラー,サイドミラー,サイドミラー,第2週4日目-サイドミラー.wav,24200,9855.06,0,1.125,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,シートベルトをしめる,シートベルトをしめる,シートベルトをしめる,第2週4日目-シートベルトをしめる.wav,24200,10299.67,0,1.638,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,エンジンをかける,エンジンをかける,エンジンをかける,第2週4日目-エンジンをかける.wav,24200,10041.60,0,1.330,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,バックミラーで確認(を)する,バックミラーでかくにん(を)する,バックミラーでかくにん を する,第2週4日目-バックミラーで確認(を)する.wav,24200,10230.98,0,2.115,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,ハンドルをにぎる,ハンドルをにぎる,ハンドルをにぎる,第2週4日目-ハンドルをにぎる.wav,24200,11345.65,0,1.360,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,アクセルをふむ,アクセルをふむ,アクセルをふむ,第2週4日目-アクセルをふむ.wav,24200,7958.70,0,1.270,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,ブレーキをかける,ブレーキをかける,ブレーキをかける,第2週4日目-ブレーキをかける.wav,24200,10469.16,0,1.405,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,急ブレーキ,きゅうブレーキ,きゅうブレーキ,第2週4日目-急ブレーキ.wav,24200,9228.79,0,1.084,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,ライトをつける,ライトをつける,ライトをつける,第2週4日目-ライトをつける.wav,24200,8651.06,0,1.268,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,ワイパーを動かす,ワイパーをうごかす,ワイパーをうごかす,第2週4日目-ワイパーを動かす.wav,24200,9438.76,0,1.554,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,ガソリンスタンドに寄る,ガソリンスタンドによる,ガソリンスタンドによる,第2週4日目-ガソリンスタンドに寄る.wav,24200,9845.47,0,1.730,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,高速道路に乗る,こうそくどうろにのる,こうそくどうろにのる,第2週4日目-高速道路に乗る.wav,24200,10990.87,0,1.642,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,4日目,タイヤがパンクする,タイヤがパンクする,タイヤがパンクする,第2週4日目-タイヤがパンクする.wav,24200,9883.93,0,1.519,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,一方通行,いっぽうつうこう,いっぽうつうこう,第2週5日目-一方通行.wav,24200,8520.97,0,1.285,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,通行止め,つうこうどめ,つうこうどめ,第2週5日目-通行止め.wav,24200,7769.15,0,1.101,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,工事中,こうじちゅう,こうじちゅう,第2週5日目-工事中.wav,24200,8454.73,0,1.023,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,踏切,ふみきり,ふみきり,第2週5日目-踏切.wav,24200,6819.46,0,0.833,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,横断歩道,おうだんほどう,おうだんほどう,第2週5日目-横断歩道.wav,24200,11139.56,0,1.129,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,交差点,こうさてん,こうさてん,第2週5日目-交差点.wav,24200,8603.63,0,1.025,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,"バス停, バスの停留所","バスてい, バスのていりゅうじょ",バスてい バスのていりゅうじょ,第2週5日目-バス停・ バスの停留所.wav,24200,10470.88,0,1.916,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,線路,せんろ,せんろ,第2週5日目-線路.wav,24200,8278.01,0,0.738,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,四つ角,よつかど,よつかど,第2週5日目-四つ角.wav,24200,5784.19,0,0.936,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,"回り道 (をする), 遠回り (をする)","まわりみち (をする), とおまわり (をする)",まわりみち をする とおまわり をする,第2週5日目-回り道 (をする)・ 遠回り (をする).wav,24200,12098.59,0,2.425,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,近道 (をする),ちかみち (をする),ちかみち をする,第2週5日目-近道 (をする).wav,24200,7790.16,0,1.296,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,突き当りを左に曲がる,つきあたりをひだりにまがる,つきあたりをひだりにまがる,第2週5日目-突き当りを左に曲がる.wav,24200,10938.49,0,2.019,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,バスが停車する,バスがていしゃする,バスがていしゃする,第2週5日目-バスが停車する.wav,24200,8539.64,0,1.424,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,線路を超える,せんろをこえる,せんろをこえる,第2週5日目-線路を超える.wav,24200,10596.34,0,1.271,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,時速100キロで走る,じそく100きろではしる,じそく100きろではしる,第2週5日目-時速100キロで走る.wav,24200,8151.66,0,1.941,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,スピード違反で捕まる,スピードいはんでつかまる,スピードいはんでつかまる,第2週5日目-スピード違反で捕まる.wav,24200,9907.70,0,1.894,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,駐車違反をする,ちゅうしゃいはんをする,ちゅうしゃいはんをする,第2週5日目-駐車違反をする.wav,24200,9838.86,0,1.514,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,信号を無視する,しんごうをむしする,しんごうをむしする,第2週5日目-信号を無視する.wav,24200,10123.08,0,1.550,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,信号無視,しんごうむし,しんごうむし,第2週5日目-信号無視.wav,24200,8981.12,0,1.234,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,車をぶつける,くるまをぶつける,くるまをぶつける,第2週5日目-車をぶつける.wav,24200,9143.42,0,1.464,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,車がぶつかる,くるまがぶつかる,くるまがぶつかる,第2週5日目-車がぶつかる.wav,24200,9561.19,0,1.425,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,猫を轢く,ねこをひく,ねこをひく,第2週5日目-猫を轢く.wav,24200,9084.88,0,1.071,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,猫が車にひかれる,ねこがくるまにひかれる,ねこがくるまにひかれる,第2週5日目-猫が車にひかれる.wav,24200,9924.19,0,1.800,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,交通事故にあう,こうつうじこにあう,こうつうじこにあう,第2週5日目-交通事故にあう.wav,24200,9357.49,0,1.527,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,車に気をつける,くるまにきをつける,くるまにきをつける,第2週5日目-車に気をつける.wav,24200,9635.34,0,1.558,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,ななめに横断する,ななめにおうだんする,ななめにおうだんする,第2週5日目-ななめに横断する.wav,24200,11548.57,0,1.650,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,道路を横切る,どうろをよこぎる,どうろをよこぎる,第2週5日目-道路を横切る.wav,24200,10176.87,0,1.400,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,信号,しんごう,しんごう,第2週5日目-信号.wav,24200,7679.13,0,0.884,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,"道路が渋滞している, 混んでいる","どうろがじゅうたいしている, こんでいる",どうろがじゅうたいしている こんでいる,第2週5日目-道路が渋滞している・ 混んでいる.wav,24200,12125.84,0,2.301,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,道路がすいている,どうろがすいている,どうろがすいている,第2週5日目-道路がすいている.wav,24200,10306.81,0,1.434,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,5日目,渋滞,じゅうたい,じゅうたい,第2週5日目-渋滞.wav,24200,7536.10,0,0.822,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,窓口で両替をする,まどぐちでりょうがえをする,まどぐちでりょうがえをする,第2週6日目-窓口で両替をする.wav,24200,11112.95,0,1.883,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,預金する,よきんする,よきんする,第2週6日目-預金する.wav,24200,7458.52,0,1.073,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,銀行にお金を預ける,ぎんこうにおかねをあずける,ぎんこうにおかねをあずける,第2週6日目-銀行にお金を預ける.wav,24200,11160.31,0,1.998,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,通帳記入をする,つうちょうきにゅうをする,つうちょうきにゅうをする,第2週6日目-通帳記入をする.wav,24200,10295.07,0,1.701,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,暗証番号,あんしょうばんごう,あんしょうばんごう,第2週6日目-暗証番号.wav,24200,9979.69,0,1.403,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,銀行の口座を開く,ぎんこうのこうざをひらく,ぎんこうのこうざをひらく,第2週6日目-銀行の口座を開く.wav,24200,11053.48,0,1.935,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,公共料金を支払う,こうきょうりょうきんをしはらう,こうきょうりょうきんをしはらう,第2週6日目-公共料金を支払う.wav,24200,11131.61,0,2.004,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,電気代,でんきだい,でんきだい,第2週6日目-電気代.wav,24200,8749.08,0,0.951,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,ガス代,がすだい,がすだい,第2週6日目-ガス代.wav,24200,5887.67,0,0.844,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,水道代,すいどうだい,すいどうだい,第2週6日目-水道代.wav,24200,9110.20,0,1.075,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,電話代,でんわだい,でんわだい,第2週6日目-電話代.wav,24200,9567.40,0,0.952,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,商品の代金を払う,しょうひんのだいきんをはらう,しょうひんのだいきんをはらう,第2週6日目-商品の代金を払う.wav,24200,11518.04,0,1.985,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,送金する,そうきんする,そうきんする,第2週6日目-送金する.wav,24200,8691.58,0,1.159,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,仕送りする,しおくりする,しおくりする,第2週6日目-仕送りする.wav,24200,8525.68,0,1.154,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,手数料がかかる,てすうりょうがかかる,てすうりょうがかかる,第2週6日目-手数料がかかる.wav,24200,9681.77,0,1.443,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,送料がかかる,そうりょうがかかる,そうりょうがかかる,第2週6日目-送料がかかる.wav,24200,10443.37,0,1.411,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,あて先,あてさき,あてさき,第2週6日目-あて先.wav,24200,4711.23,0,0.984,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,あて名,あてな,あてな,第2週6日目-あて名.wav,24200,5582.58,0,0.736,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,差出人,さしだしにん,さしだしにん,第2週6日目-差出人.wav,24200,7544.87,0,1.115,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,手紙を速達で出す,てがみをそくたつでだす,てがみをそくたつでだす,第2週6日目-手紙を速達で出す.wav,24200,9417.04,0,1.971,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,銀行の本店,ぎんこうのほんてん,ぎんこうのほんてん,第2週6日目-銀行の本店.wav,24200,10064.03,0,1.421,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,家賃を振り込む,やちんをふりこむ,やちんをふりこむ,第2週6日目-家賃を振り込む.wav,24200,9431.62,0,1.416,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,"給料を引き出す, 下ろす","きゅうりょうをひきだす, おろす",きゅうりょうをひきだす おろす,第2週6日目-給料を引き出す・ 下ろす.wav,24200,10948.84,0,1.922,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,"お金をためる, 貯金する","おかねをためる, ちょきんする",おかねをためる ちょきんする,第2週6日目-お金をためる・ 貯金する.wav,24200,11012.40,0,1.930,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,通帳記入をする,つうちょうきにゅうをする,つうちょうきにゅうをする,第2週6日目-通帳記入をする.wav,24200,10295.07,0,1.701,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,キャッシュカード,きゃっしゅカード,きゃっしゅカード,第2週6日目-キャッシュカード.wav,24200,7587.83,0,1.199,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,サイン,さいん,さいん,第2週6日目-サイン.wav,24200,6777.68,0,0.750,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,"はんこ, 印鑑","はんこ, いんかん",はんこ いんかん,第2週6日目-はんこ・ 印鑑.wav,24200,8450.27,0,1.127,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,"紙幣, お札","しへい, おさつ",しへい おさつ,第2週6日目-紙幣・ お札.wav,24200,8477.85,0,1.264,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,百円玉,ひゃくえんたま,ひゃくえんたま,第2週6日目-百円玉.wav,24200,8677.05,0,1.109,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第2週,6日目,硬貨,こうか,こうか,第2週6日目-硬貨.wav,24200,6747.57,0,0.813,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,交際する/付き合う,こうさいする/つきあう,こうさいする つきあう,第3週1日目-交際する_付き合う.wav,24200,9466.28,0,1.655,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,喧嘩する,けんかする,けんかする,第3週1日目-喧嘩する.wav,24200,7553.70,0,0.982,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,仲直りする,なかなおりする,なかなおりする,第3週1日目-仲直りする.wav,24200,9780.06,0,1.247,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,仲がいい,なかがいい,なかがいい,第3週1日目-仲がいい.wav,24200,9108.06,0,0.982,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,仲良しだ,なかよしだ,なかよしだ,第3週1日目-仲良しだ.wav,24200,8573.05,0,1.065,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,気になる,きになる,きになる,第3週1日目-気になる.wav,24200,7915.05,0,0.850,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,好きになる,すきになる,すきになる,第3週1日目-好きになる.wav,24200,6977.55,0,1.068,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,きらいになる,きらいになる,きらいになる,第3週1日目-きらいになる.wav,24200,9683.63,0,1.083,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,いやになる,いやになる,いやになる,第3週1日目-いやになる.wav,24200,9583.29,0,0.980,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,羨ましい,うらやましい,うらやましい,第3週1日目-羨ましい.wav,24200,10014.80,0,1.107,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,コンサートにさそう,こんさーとにさそう,こんさーとにさそう,第3週1日目-コンサートにさそう.wav,24200,9316.03,0,1.528,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,いやがる,いやがる,いやがる,第3週1日目-いやがる.wav,24200,8701.78,0,0.827,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,ふる,ふる,ふる,第3週1日目-ふる.wav,23893,4121.28,0,0.569,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,好かれる,すかれる,すかれる,第3週1日目-好かれる.wav,24200,6030.44,0,0.860,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,きらわれる,きらわれる,きらわれる,第3週1日目-きらわれる.wav,24200,8678.77,0,0.982,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,いやがられる,いやがられる,いやがられる,第3週1日目-いやがられる.wav,24200,10159.44,0,1.113,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,ふられる,ふられる,ふられる,第3週1日目-ふられる.wav,24200,8027.24,0,0.821,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,気がある,きがある,きがある,第3週1日目-気がある.wav,24200,7318.64,0,0.825,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,あこがれる,あこがれる,あこがれる,第3週1日目-あこがれる.wav,24200,7621.55,0,1.022,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,夢中になる,むちゅうになる,むちゅうになる,第3週1日目-夢中になる.wav,24200,9141.41,0,1.111,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,恋をする,こいをする,こいをする,第3週1日目-恋をする.wav,24200,9423.61,0,1.068,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,女性にもてる,じょせいにもてる,じょせいにもてる,第3週1日目-女性にもてる.wav,24200,10569.42,0,1.303,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,(お)互いに気に入る,(お)たがいにきにいる,お たがいにきにいる,第3週1日目-(お)互いに気に入る.wav,24200,10747.17,0,1.437,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,相手の予定を聞く,あいてのよていをきく,あいてのよていをきく,第3週1日目-相手の予定を聞く.wav,24200,10703.92,0,1.646,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,都合をつける,つごうをつける,つごうをつける,第3週1日目-都合をつける.wav,24200,9979.75,0,1.303,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,都合がつく,つごうがつく,つごうがつく,第3週1日目-都合がつく.wav,24200,8802.47,0,1.235,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,買い物に付き合う,かいものにつきあう,かいものにつきあう,第3週1日目-買い物に付き合う.wav,24200,10682.46,0,1.522,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,付き合い,つきあい,つきあい,第3週1日目-付き合い.wav,24200,4729.46,0,0.829,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,恋人,こいびと,こいびと,第3週1日目-恋人.wav,24200,8023.66,0,0.883,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,田中さんの彼,たなかさんのかれ,たなかさんのかれ,第3週1日目-田中さんの彼.wav,24200,10027.40,0,1.418,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,彼氏,かれし,かれし,第3週1日目-彼氏.wav,24200,6134.78,0,0.828,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,彼女,かのじょ,かのじょ,第3週1日目-彼女.wav,24200,7686.69,0,0.844,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,結婚を申し込む,けっこんをもうしこむ,けっこんをもうしこむ,第3週1日目-結婚を申し込む.wav,24200,9720.07,0,1.573,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,断る,ことわる,ことわる,第3週1日目-断る.wav,24200,7445.19,0,0.856,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,1日目,あいまいな返事をする,あいまいなへんじをする,あいまいなへんじをする,第3週1日目-あいまいな返事をする.wav,24200,11485.77,0,1.720,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,イヤリング,イヤリング,イヤリング,第3週2日目-イヤリング.wav,24200,9130.38,0,0.961,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,ネックレス,ネックレス,ネックレス,第3週2日目-ネックレス.wav,24200,6956.37,0,1.078,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,ベルト,ベルト,ベルト,第3週2日目-ベルト.wav,24200,7127.56,0,0.738,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,パンツ,パンツ,パンツ,第3週2日目-パンツ.wav,24200,6095.90,0,0.857,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,下着,したぎ,したぎ,第3週2日目-下着.wav,24200,4778.12,0,0.819,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,上着,うわぎ,うわぎ,第3週2日目-上着.wav,24200,7856.37,0,0.767,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,額,ひたい,ひたい,第3週2日目-額.wav,24200,4191.36,0,0.662,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,頭,あたま,あたま,第3週2日目-頭.wav,24200,5460.42,0,0.750,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,睫毛,まつげ,まつげ,第3週2日目-睫毛.wav,24200,5795.88,0,0.813,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,頬/頬,ほお/ほほ,ほお ほほ,第3週2日目-頬_頬.wav,24200,7739.39,0,0.857,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,眉/眉毛,まゆ/まゆげ,まゆ まゆげ,第3週2日目-眉_眉毛.wav,24200,11128.58,0,1.118,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,瞼,まぶた,まぶた,第3週2日目-瞼.wav,24200,5752.41,0,0.820,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,唇,くちびる,くちびる,第3週2日目-唇.wav,23451,4789.17,0,0.854,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,明日の支度をする,あしたのしたくをする,あしたのしたくをする,第3週2日目-明日の支度をする.wav,24200,8605.28,0,1.678,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,朝の支度をする,あさのしたくをする,あさのしたくをする,第3週2日目-朝の支度をする.wav,24200,7560.65,0,1.548,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,シャワーを浴びる,シャワーをあびる,シャワーをあびる,第3週2日目-シャワーを浴びる.wav,24200,9908.44,0,1.270,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,歯をみがく,はをみがく,はをみがく,第3週2日目-歯をみがく.wav,24200,8323.41,0,1.105,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,歯磨き,はみがき,はみがき,第3週2日目-歯磨き.wav,24200,7651.18,0,0.951,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,歯みがき粉をつける,はみがきこをつける,はみがきこをつける,第3週2日目-歯みがき粉をつける.wav,24200,9677.60,0,1.639,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,髭をそる,ひげをそる,ひげをそる,第3週2日目-髭をそる.wav,24200,9381.94,0,0.988,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,髪をとく/とかす,かみをとく/とかす,かみをとく とかす,第3週2日目-髪をとく_とかす.wav,24200,8869.75,0,1.507,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,ドライヤーで髪を乾かす,ドライヤーでかみをかわかす,ドライヤーでかみをかわかす,第3週2日目-ドライヤーで髪を乾かす.wav,24200,11875.71,0,2.190,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,(お)化粧をする,(お)けしょうをする,お けしょうをする,第3週2日目-(お)化粧をする.wav,24200,9942.16,0,1.246,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,口紅を塗る/つける,くちべにをぬる/つける,くちべにをぬる つける,第3週2日目-口紅を塗る_つける.wav,24200,9523.35,0,1.682,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,服を着替える,ふくをきがえる,ふくをきがえる,第3週2日目-服を着替える.wav,24200,7569.22,0,1.247,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,着替え,きがえ,きがえ,第3週2日目-着替え.wav,24200,6123.18,0,0.736,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,おしゃれをする,おしゃれをする,おしゃれをする,第3週2日目-おしゃれをする.wav,24200,9423.18,0,1.123,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,おしゃれな人,おしゃれなひと,おしゃれなひと,第3週2日目-おしゃれな人.wav,24200,9886.32,0,1.158,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,ひもを結ぶ,ひもをむすぶ,ひもをむすぶ,第3週2日目-ひもを結ぶ.wav,24200,8651.56,0,1.154,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,ほどく,ほどく,ほどく,第3週2日目-ほどく.wav,24200,5944.15,0,0.737,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,マフラーを巻く/する,マフラーをまく/する,マフラーをまく する,第3週2日目-マフラーを巻く_する.wav,24200,9061.98,0,1.509,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,手袋をはめる/する,てぶくろをはめる/する,てぶくろをはめる する,第3週2日目-手袋をはめる_する.wav,24200,9248.41,0,1.644,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,2日目,指輪をはめる/する,ゆびわをはめる/する,ゆびわをはめる する,第3週2日目-指輪をはめる_する.wav,24200,10353.30,0,1.548,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,袖なし,そでなし,そでなし,第3週3日目-袖なし.wav,24200,6877.77,0,1.020,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,無地,むじ,むじ,第3週3日目-無地.wav,24200,5968.92,0,0.571,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,半そで,はんそで,はんそで,第3週3日目-半そで.wav,24200,6948.92,0,0.840,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,長そで,ながそで,ながそで,第3週3日目-長そで.wav,24200,7162.99,0,0.949,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,柄/模様,がら/もよう,がら もよう,第3週3日目-柄_模様.wav,24200,9958.40,0,0.993,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,縞,しま,しま,第3週3日目-縞.wav,24200,4540.90,0,0.647,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,水玉,みずたま,みずたま,第3週3日目-水玉.wav,24200,6715.00,0,0.852,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,花柄,はながら,はながら,第3週3日目-花柄.wav,24200,7568.99,0,0.877,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,気に入る/好む,きにいる/このむ,きにいる このむ,第3週3日目-気に入る_好む.wav,24200,10925.94,0,1.207,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,お気に入り,おきにいり,おきにいり,第3週3日目-お気に入り.wav,24200,8790.43,0,0.944,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,好み,このみ,このみ,第3週3日目-好み.wav,24200,6906.20,0,0.820,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,似合う,にあう,にあう,第3週3日目-似合う.wav,24200,7990.53,0,0.661,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,目立つ色,めだついろ,めだついろ,第3週3日目-目立つ色.wav,24200,8255.27,0,0.984,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,はでな,はでな,はでな,第3週3日目-はでな.wav,24200,6499.94,0,0.711,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,地味な,じみな,じみな,第3週3日目-地味な.wav,24200,7426.78,0,0.703,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,人気のあるデザイン,にんきのあるデザイン,にんきのあるデザイン,第3週3日目-人気のあるデザイン.wav,24200,10605.31,0,1.548,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,はやっている,はやっている,はやっている,第3週3日目-はやっている.wav,24200,8058.12,0,1.067,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,はやり/流行,はやり/りゅうこう,はやり りゅうこう,第3週3日目-はやり_流行.wav,24200,11781.85,0,1.256,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,サイズを確かめる/確認する,サイズをたしかめる/かくにんする,サイズをたしかめる かくにんする,第3週3日目-サイズを確かめる_確認する.wav,24200,10323.06,0,2.328,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,サイズが合う,サイズがあう,サイズがあう,第3週3日目-サイズが合う.wav,24200,9293.87,0,1.124,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,ゆるい,ゆるい,ゆるい,第3週3日目-ゆるい.wav,24200,7547.50,0,0.685,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,きつい,きつい,きつい,第3週3日目-きつい.wav,22436,3159.46,0,0.686,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,品物をかごに入れる,しなものをかごにいれる,しなものをかごにいれる,第3週3日目-品物をかごに入れる.wav,24200,11423.18,0,1.740,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,セール/バーゲンで買う,セール/バーゲンでかう,セール バーゲンでかう,第3週3日目-セール_バーゲンで買う.wav,24200,10714.40,0,1.639,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,デパートの特売品,デパートのとくばいひん,デパートのとくばいひん,第3週3日目-デパートの特売品.wav,24200,9621.75,0,1.795,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,30パーセント(%)オフ/3割引き,30パーセント(%)おふ/3わりびき,30パーセント % おふ 3わりびき,第3週3日目-30パーセント(%)オフ_3割引き.wav,24200,10053.14,0,3.328,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,売り切れる/売り切れ,うりきれる/うりきれ,うりきれる うりきれ,第3週3日目-売り切れる_売り切れ.wav,24200,10367.85,0,1.409,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,本物のダイヤモンド,ほんもののダイヤモンド,ほんもののダイヤモンド,第3週3日目-本物のダイヤモンド.wav,24200,12168.53,0,1.732,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,偽物,にせもの,にせもの,第3週3日目-偽物.wav,24200,6829.59,0,0.859,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,得をする,とくをする,とくをする,第3週3日目-得をする.wav,24200,6955.94,0,0.982,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,3日目,損をする,そんをする,そんをする,第3週3日目-損をする.wav,24200,8527.43,0,1.067,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,家族そろって/全員で,かぞくそろって/ぜんいんで,かぞくそろって ぜんいんで,第3週4日目-家族そろって_全員で.wav,24200,9805.71,0,1.928,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,子どもを連れる,こどもをつれる,こどもをつれる,第3週4日目-子どもを連れる.wav,24200,9775.24,0,1.273,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,子ども連れ,こどもつれ,こどもつれ,第3週4日目-子ども連れ.wav,24200,7787.48,0,1.070,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,腹がへる/おなかがへる/すいている,はらがへる/おなかがへる/すいている,はらがへる おなかがへる すいている,第3週4日目-腹がへる_おなかがへる_すいている.wav,24200,11184.48,0,2.429,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,外食をする,がいしょくをする,がいしょくをする,第3週4日目-外食をする.wav,24200,9301.53,0,1.268,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,お昼を食べる/昼食をとる,おひるをたべる/ちゅうしょくをとる,おひるをたべる ちゅうしょくをとる,第3週4日目-お昼を食べる_昼食をとる.wav,24200,11400.93,0,2.069,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,ランチ,ランチ,ランチ,第3週4日目-ランチ.wav,24200,6820.78,0,0.816,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,雰囲気のいい店,ふんいきのいいみせ,ふんいきのいいみせ,第3週4日目-雰囲気のいい店.wav,24200,9703.68,0,1.427,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,満席,まんせき,まんせき,第3週4日目-満席.wav,24200,5827.69,0,0.930,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,列に並ぶ,れつにならぶ,れつにならぶ,第3週4日目-列に並ぶ.wav,24200,8881.37,0,1.204,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,行列ができる,ぎょうれつができる,ぎょうれつができる,第3週4日目-行列ができる.wav,24200,10235.03,0,1.418,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,禁煙席,きんえんせき,きんえんせき,第3週4日目-禁煙席.wav,24200,8599.10,0,1.138,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,喫煙席,きつえんせき,きつえんせき,第3週4日目-喫煙席.wav,24200,7427.21,0,1.149,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,ウエートレスにおすすめを聞く,ウエートレスにおすすめをきく,ウエートレスにおすすめをきく,第3週4日目-ウエートレスにおすすめを聞く.wav,24200,10809.50,0,2.162,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,量が多い,りょうがおおい,りょうがおおい,第3週4日目-量が多い.wav,24200,11249.26,0,1.074,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,少ない,すくない,すくない,第3週4日目-少ない.wav,23884,5056.49,0,0.828,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,注文が決まる,ちゅうもんがきまる,ちゅうもんがきまる,第3週4日目-注文が決まる.wav,24200,10410.31,0,1.406,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,注文する,ちゅうもんする,ちゅうもんする,第3週4日目-注文する.wav,24200,8912.67,0,1.116,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,注文を取る/受け取る,ちゅうもんをとる/うけとる,ちゅうもんをとる うけとる,第3週4日目-注文を取る_受け取る.wav,24200,10969.80,0,1.704,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,デザートを追加する,デザートをついかする,デザートをついかする,第3週4日目-デザートを追加する.wav,24200,9087.71,0,1.678,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,コーヒーのおかわり,コーヒーのおかわり,コーヒーのおかわり,第3週4日目-コーヒーのおかわり.wav,24200,9224.55,0,1.520,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,無料,むりょう,むりょう,第3週4日目-無料.wav,24200,7625.57,0,0.703,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,ただ,ただ,ただ,第3週4日目-ただ.wav,24200,4425.85,0,0.572,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,食器を下げる,しょっきをさげる,しょっきをさげる,第3週4日目-食器を下げる.wav,24200,8496.46,0,1.297,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,料理を残す,りょうりをのこす,りょうりをのこす,第3週4日目-料理を残す.wav,24200,10899.31,0,1.398,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,もったいない,もったいない,もったいない,第3週4日目-もったいない.wav,24200,7704.46,0,1.033,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,何名様ですか。,なんめいさまですか。,なんめいさまですか。,第3週4日目-何名様ですか。.wav,24200,9810.49,0,1.495,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,2人です。,2にんです。,2にんです。,第3週4日目-2人です。.wav,24200,7656.98,0,1.139,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,申し訳ありません。,もうしわけありません。,もうしわけありません。,第3週4日目-申し訳ありません。.wav,24200,10319.02,0,1.642,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,もう少々お待ちください。,もうしょうしょうおまちください。,もうしょうしょうおまちください。,第3週4日目-もう少々お待ちください。.wav,24200,10650.90,0,2.010,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,お待たせいたしました。,おまたせいたしました。,おまたせいたしました。,第3週4日目-お待たせいたしました。.wav,24200,9791.90,0,1.647,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,4日目,お待ちどおさまです,おまちどおさまです,おまちどおさまです,第3週4日目-お待ちどおさまです.wav,24200,8618.04,0,1.638,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,宴会を開く,えんかいをひらく,えんかいをひらく,第3週5日目-宴会を開く.wav,24200,10706.26,0,1.417,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,飲み会,のみかい,のみかい,第3週5日目-飲み会.wav,24200,7135.39,0,0.827,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,送別会,そうべつかい,そうべつかい,第3週5日目-送別会.wav,24200,8946.37,0,1.131,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,歓迎会,かんげいかい,かんげいかい,第3週5日目-歓迎会.wav,24200,9417.23,0,1.083,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,飲み放題,のみほうだい,のみほうだい,第3週5日目-飲み放題.wav,24200,9552.63,0,1.035,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,食べ放題,たべほうだい,たべほうだい,第3週5日目-食べ放題.wav,24200,9226.99,0,1.041,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,(お)酒を注ぐ,(お)さけをそそぐ,お さけをそそぐ,第3週5日目-(お)酒を注ぐ.wav,24200,9595.37,0,1.406,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,(お)湯を注ぐ,(お)ゆをそそぐ,お ゆをそそぐ,第3週5日目-(お)湯を注ぐ.wav,24200,11043.27,0,1.246,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,乾杯する,かんぱいする,かんぱいする,第3週5日目-乾杯する.wav,24200,7996.70,0,1.153,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,盛り上がる,もりあがる,もりあがる,第3週5日目-盛り上がる.wav,24200,9384.87,0,0.960,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,土が盛り上がる,つちがもりあがる,つちがもりあがる,第3週5日目-土が盛り上がる.wav,24200,9269.06,0,1.418,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,こぼす,こぼす,こぼす,第3週5日目-こぼす.wav,24200,7214.27,0,0.854,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,こぼれる,こぼれる,こぼれる,第3週5日目-こぼれる.wav,24200,8490.72,0,0.868,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,ビールを一気に飲む,ビールをいっきにのむ,ビールをいっきにのむ,第3週5日目-ビールを一気に飲む.wav,24200,10550.40,0,1.513,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,ウィスキーの水割り,ウィスキーのみずわり,ウィスキーのみずわり,第3週5日目-ウィスキーの水割り.wav,24200,9437.18,0,1.484,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,(お)つまみのチーズ,(お)つまみのチーズ,お つまみのチーズ,第3週5日目-(お)つまみのチーズ.wav,24200,10598.81,0,1.428,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,酔っ払う,よっぱらう,よっぱらう,第3週5日目-酔っ払う.wav,24200,7422.73,0,0.946,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,酔っ払い,よっぱらい,よっぱらい,第3週5日目-酔っ払い.wav,24200,6841.13,0,0.950,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,ビールの泡,ビールのあわ,ビールのあわ,第3週5日目-ビールの泡.wav,24200,10051.93,0,1.127,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,あばれる,あばれる,あばれる,第3週5日目-あばれる.wav,24200,6818.90,0,0.859,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,あふれる,あふれる,あふれる,第3週5日目-あふれる.wav,24200,6121.87,0,0.853,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,やかましい,やかましい,やかましい,第3週5日目-やかましい.wav,24200,7919.81,0,1.064,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,(お)酒に酔う,(お)さけによう,お さけによう,第3週5日目-(お)酒に酔う.wav,24200,9014.57,0,1.120,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,そうぞうしい,そうぞうしい,そうぞうしい,第3週5日目-そうぞうしい.wav,24200,10079.08,0,1.124,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,さわがしい,さわがしい,さわがしい,第3週5日目-さわがしい.wav,24200,7749.92,0,1.104,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,さわぐ,さわぐ,さわぐ,第3週5日目-さわぐ.wav,24200,7178.65,0,0.820,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,たばこの煙,たばこのけむり,たばこのけむり,第3週5日目-たばこの煙.wav,24200,9620.25,0,1.273,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,煙い/煙たい,けむい/けむたい,けむい けむたい,第3週5日目-煙い_煙たい.wav,24200,9411.39,0,1.249,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,グラスを割る,グラスをわる,グラスをわる,第3週5日目-グラスを割る.wav,24200,9908.44,0,1.138,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,グラスが割れる,グラスがわれる,グラスがわれる,第3週5日目-グラスが割れる.wav,24200,9491.37,0,1.299,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,ビールびんを倒す,ビールびんをたおす,ビールびんをたおす,第3週5日目-ビールびんを倒す.wav,24200,10164.33,0,1.552,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,ビールびんが倒れる,ビールびんがたおれる,ビールびんがたおれる,第3週5日目-ビールびんが倒れる.wav,24200,10420.40,0,1.547,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,ほかの客に迷惑をかける,ほかのきゃくにめいわくをかける,ほかのきゃくにめいわくをかける,第3週5日目-ほかの客に迷惑をかける.wav,24200,11040.64,0,2.254,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,5日目,迷惑がかかる,めいわくがかかる,めいわくがかかる,第3週5日目-迷惑がかかる.wav,24200,10119.41,0,1.394,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,レジ,レジ,レジ,第3週6日目-レジ.wav,24200,6412.28,0,0.611,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,おごる,おごる,おごる,第3週6日目-おごる.wav,24200,8310.16,0,0.676,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,おごり,おごり,おごり,第3週6日目-おごり.wav,24200,7997.83,0,0.661,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,現金で払う,げんきんではらう,げんきんではらう,第3週6日目-現金で払う.wav,24200,9921.26,0,1.308,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,割り勘にする,わりかんにする,わりかんにする,第3週6日目-割り勘にする.wav,24200,8558.85,0,1.248,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,勘定を済ませる,かんじょうをすませる,かんじょうをすませる,第3週6日目-勘定を済ませる.wav,24200,11027.51,0,1.569,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,別々に払う,べつべつにはらう,べつべつにはらう,第3週6日目-別々に払う.wav,24200,9115.51,0,1.480,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,(クレジット)カードで払う,(クレジット)カードではらう,クレジット カードではらう,第3週6日目-(クレジット)カードで払う.wav,24200,9298.41,0,1.829,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,カードの有効期限を確認する,カードのゆうこうきげんをかくにんする,カードのゆうこうきげんをかくにんする,第3週6日目-カードの有効期限を確認する.wav,24200,11180.59,0,2.641,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,(お)札をくずす,(お)さつをくずす,お さつをくずす,第3週6日目-(お)札をくずす.wav,24200,8008.17,0,1.400,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,(お)つりをもらう,(お)つりをもらう,お つりをもらう,第3週6日目-(お)つりをもらう.wav,24200,10147.17,0,1.245,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,領収書をもらう,りょうしゅうしょをもらう,りょうしゅうしょをもらう,第3週6日目-領収書をもらう.wav,24200,11818.32,0,1.547,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,レシート,レシート,レシート,第3週6日目-レシート.wav,24200,7637.00,0,0.879,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,ぜいたくをする,ぜいたくをする,ぜいたくをする,第3週6日目-ぜいたくをする.wav,24200,9461.37,0,1.255,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,むだづかいをする,むだづかいをする,むだづかいをする,第3週6日目-むだづかいをする.wav,24200,9321.89,0,1.398,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,請求書が届く,せいきゅうしょがとどく,せいきゅうしょがとどく,第3週6日目-請求書が届く.wav,24200,10019.67,0,1.638,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,費用がかかる,ひようがかかる,ひようがかかる,第3週6日目-費用がかかる.wav,24200,9311.80,0,1.207,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,お金が足りる,おかねがたりる,おかねがたりる,第3週6日目-お金が足りる.wav,24200,9926.99,0,1.237,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,足りない,たりない,たりない,第3週6日目-足りない.wav,24200,7615.78,0,0.814,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,食費を節約する,しょくひをせつやくする,しょくひをせつやくする,第3週6日目-食費を節約する.wav,24200,8426.68,0,1.729,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,今月の生活費が不足する,こんげつのせいかつひがふそくする,こんげつのせいかつひがふそくする,第3週6日目-今月の生活費が不足する.wav,24200,9599.41,0,2.549,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,交通費,こうつうひ,こうつうひ,第3週6日目-交通費.wav,24200,8612.91,0,1.020,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,むだを省く/なくす,むだをはぶく/なくす,むだをはぶく なくす,第3週6日目-むだを省く_なくす.wav,24200,9137.30,0,1.572,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,貧乏になる,びんぼうになる,びんぼうになる,第3週6日目-貧乏になる.wav,24200,11234.80,0,1.153,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,お金持ちになる,おかねもちになる,おかねもちになる,第3週6日目-お金持ちになる.wav,24200,9829.08,0,1.410,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,貧しい生活,まずしいせいかつ,まずしいせいかつ,第3週6日目-貧しい生活.wav,24200,8042.31,0,1.554,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第3週,6日目,借金をする,しゃっきんをする,しゃっきんをする,第3週6日目-借金をする.wav,24200,7951.25,0,1.275,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,教科,きょうか,きょうか,第4週1日目-教科.wav,24200,7397.85,0,0.757,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,科目,かもく,かもく,第4週1日目-科目.wav,24200,7148.14,0,0.820,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,得意な,とくいな,とくいな,第4週1日目-得意な.wav,24200,7534.34,0,0.814,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,苦手な,にがてな,にがてな,第4週1日目-苦手な.wav,24200,8247.03,0,0.831,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,国語,こくご,こくご,第4週1日目-国語.wav,24200,5782.41,0,0.811,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,算数,さんすう,さんすう,第4週1日目-算数.wav,24200,6741.76,0,0.859,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,理科,りか,りか,第4週1日目-理科.wav,24200,5147.43,0,0.649,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,社会,しゃかい,しゃかい,第4週1日目-社会.wav,24200,4556.34,0,0.753,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,体育,たいいく,たいいく,第4週1日目-体育.wav,24200,8046.94,0,0.877,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,入学する,にゅうがくする,にゅうがくする,第4週1日目-入学する.wav,24200,8767.24,0,1.122,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,私立高校,しりつこうこう,しりつこうこう,第4週1日目-私立高校.wav,24200,8346.25,0,1.272,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,公立高校,こうりつこうこう,こうりつこうこう,第4週1日目-公立高校.wav,24200,9738.27,0,1.397,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,国立大学,こくりつだいがく,こくりつだいがく,第4週1日目-国立大学.wav,24200,7730.33,0,1.410,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,昼休みに____を食べる,ひるやすみに____をたべる,ひるやすみに____をたべる,第4週1日目-昼休みに____を食べる.wav,24200,10435.98,0,1.643,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,お弁当,おべんとう,おべんとう,第4週1日目-お弁当.wav,24200,9385.00,0,0.913,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,給食,きゅうしょく,きゅうしょく,第4週1日目-給食.wav,24200,7075.64,0,0.948,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,時間割,じかんわり,じかんわり,第4週1日目-時間割.wav,24200,8734.72,0,1.002,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,入学式,にゅうがくしき,にゅうがくしき,第4週1日目-入学式.wav,24200,7718.30,0,1.204,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,卒業式,そつぎょうしき,そつぎょうしき,第4週1日目-卒業式.wav,24200,8186.26,0,1.266,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,出席する,しゅっせきする,しゅっせきする,第4週1日目-出席する.wav,24200,5400.13,0,1.236,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,欠席する,けっせきする,けっせきする,第4週1日目-欠席する.wav,24200,6307.73,0,1.162,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,バスで通学する,バスでつうがくする,バスでつうがくする,第4週1日目-バスで通学する.wav,24200,7663.49,0,1.559,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,通勤する,つうきんする,つうきんする,第4週1日目-通勤する.wav,24200,7103.24,0,1.138,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,1学期,1がっき,1がっき,第4週1日目-1学期.wav,24200,5725.71,0,1.065,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,2学期,2がっき,2がっき,第4週1日目-2学期.wav,24200,5666.84,0,0.878,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,3学期,3がっき,3がっき,第4週1日目-3学期.wav,24200,7231.53,0,1.073,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,今学期,こんがっき,こんがっき,第4週1日目-今学期.wav,24200,8299.70,0,1.073,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,前期,ぜんき,ぜんき,第4週1日目-前期.wav,24200,6871.37,0,0.753,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,後期,こうき,こうき,第4週1日目-後期.wav,24200,6023.96,0,0.810,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,同じ学年,おなじがくねん,おなじがくねん,第4週1日目-同じ学年.wav,24200,9136.78,0,1.258,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,自習する,じしゅうする,じしゅうする,第4週1日目-自習する.wav,24200,7282.63,0,1.068,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,えんぴつをけずる,えんぴつをけずる,えんぴつをけずる,第4週1日目-えんぴつをけずる.wav,24200,9403.27,0,1.401,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,物差し/定規で測る,ものさし/じょうぎではかる,ものさし じょうぎではかる,第4週1日目-物差し_定規で測る.wav,24200,10302.02,0,1.764,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,1日目,合計を出す,ごうけいをだす,ごうけいをだす,第4週1日目-合計を出す.wav,24200,10744.75,0,1.393,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,文学部,ぶんがくぶ,ぶんがくぶ,第4週2日目-文学部.wav,24200,9270.82,0,0.996,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,経済学部,けいざいがくぶ,けいざいがくぶ,第4週2日目-経済学部.wav,24200,10371.52,0,1.207,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,法学部,ほうがくぶ,ほうがくぶ,第4週2日目-法学部.wav,24200,8573.94,0,0.999,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,理工学部,りこうがくぶ,りこうがくぶ,第4週2日目-理工学部.wav,24200,8982.74,0,1.133,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,医学部,いがくぶ,いがくぶ,第4週2日目-医学部.wav,24200,7831.43,0,0.863,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,学部,がくぶ,がくぶ,第4週2日目-学部.wav,24200,6048.78,0,0.755,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,経済学,けいざいがく,けいざいがく,第4週2日目-経済学.wav,24200,9301.14,0,1.113,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,政治学,せいじがく,せいじがく,第4週2日目-政治学.wav,24200,8428.44,0,1.117,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,心理学,しんりがく,しんりがく,第4週2日目-心理学.wav,24200,8290.94,0,1.073,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,言語学,げんごがく,げんごがく,第4週2日目-言語学.wav,24200,9182.02,0,1.031,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,物理学,ぶつりがく,ぶつりがく,第4週2日目-物理学.wav,24200,7596.93,0,1.074,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,学科,がっか,がっか,第4週2日目-学科.wav,24200,5199.91,0,0.758,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,ゼミ,ぜみ,ぜみ,第4週2日目-ゼミ.wav,24200,6892.10,0,0.643,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,単位,たんい,たんい,第4週2日目-単位.wav,24200,8227.26,0,0.693,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,講義,こうぎ,こうぎ,第4週2日目-講義.wav,24200,6929.42,0,0.816,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,補習,ほしゅう,ほしゅう,第4週2日目-補習.wav,24200,6089.95,0,0.825,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,補講,ほこう,ほこう,第4週2日目-補講.wav,24200,5944.68,0,0.704,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,進学を希望する,しんがくをきぼうする,しんがくをきぼうする,第4週2日目-進学を希望する.wav,24200,9413.65,0,1.695,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,合格発表を見に行く,ごうかくはっぴょうをみにいく,ごうかくはっぴょうをみにいく,第4週2日目-合格発表を見に行く.wav,24200,10544.78,0,2.070,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,合格する/受かる,ごうかくする/うかる,ごうかくする うかる,第4週2日目-合格する_受かる.wav,24200,9311.77,0,1.497,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,不合格になる/落ちる,ふごうかくになる/おちる,ふごうかくになる おちる,第4週2日目-不合格になる_落ちる.wav,24200,11163.53,0,1.718,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,授業料/学費を払う,じゅぎょうりょう/がくひをはらう,じゅぎょうりょう がくひをはらう,第4週2日目-授業料_学費を払う.wav,24200,11275.34,0,1.928,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,奨学金をもらう,しょうがくきんをもらう,しょうがくきんをもらう,第4週2日目-奨学金をもらう.wav,24200,9747.53,0,1.647,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,大学教授,だいがくきょうじゅ,だいがくきょうじゅ,第4週2日目-大学教授.wav,24200,9707.27,0,1.263,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,学者,がくしゃ,がくしゃ,第4週2日目-学者.wav,24200,5456.76,0,0.861,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,講義に間に合う,こうぎにまにあう,こうぎにまにあう,第4週2日目-講義に間に合う.wav,24200,10779.65,0,1.318,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,講義に遅れる/遅刻する,こうぎにおくれる/ちこくする,こうぎにおくれる ちこくする,第4週2日目-講義に遅れる_遅刻する.wav,24200,10057.18,0,2.016,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,成績がいい,せいせきがいい,せいせきがいい,第4週2日目-成績がいい.wav,24200,9686.79,0,1.283,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,成績が悪い,せいせきがわるい,せいせきがわるい,第4週2日目-成績が悪い.wav,24200,9844.27,0,1.410,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,授業中に居眠りをする,じゅぎょうちゅうにいねむりをする,じゅぎょうちゅうにいねむりをする,第4週2日目-授業中に居眠りをする.wav,24200,11515.79,0,1.998,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,授業をサボる,じゅぎょうをさぼる,じゅぎょうをさぼる,第4週2日目-授業をサボる.wav,24200,10849.33,0,1.353,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,単位を落とす,たんいをおとす,たんいをおとす,第4週2日目-単位を落とす.wav,24200,10317.58,0,1.297,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,休学する,きゅうがくする,きゅうがくする,第4週2日目-休学する.wav,24200,7686.13,0,1.114,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,2日目,留学する,りゅうがくする,りゅうがくする,第4週2日目-留学する.wav,24200,8559.90,0,1.138,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,記入する,きにゅうする,きにゅうする,第4週3日目-記入する.wav,24200,8462.28,0,0.992,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,見直す,みなおす,みなおす,第4週3日目-見直す.wav,24200,7766.42,0,0.954,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,間違う,まちがう,まちがう,第4週3日目-間違う.wav,24200,6570.81,0,0.856,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,間違える,まちがえる,まちがえる,第4週3日目-間違える.wav,24200,7498.12,0,0.983,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,書き直す,かきなおす,かきなおす,第4週3日目-書き直す.wav,24200,7637.30,0,1.153,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,まとめる,まとめる,まとめる,第4週3日目-まとめる.wav,24200,6919.76,0,0.850,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,仕上げる,しあげる,しあげる,第4週3日目-仕上げる.wav,24200,6558.62,0,0.890,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,提出する,ていしゅつする,ていしゅつする,第4週3日目-提出する.wav,24200,6867.76,0,1.082,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,担当の先生,たんとうのせんせい,たんとうのせんせい,第4週3日目-担当の先生.wav,24200,10750.09,0,1.437,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,先生に教わる,せんせいにおそわる,せんせいにおそわる,第4週3日目-先生に教わる.wav,24200,10761.89,0,1.613,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,何度もくり返す,なんどもくりかえす,なんどもくりかえす,第4週3日目-何度もくり返す.wav,24200,10088.37,0,1.555,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,暗記する,あんきする,あんきする,第4週3日目-暗記する.wav,24200,5999.79,0,0.993,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,試験で問われる,しけんでとわれる,しけんでとわれる,第4週3日目-試験で問われる.wav,24200,8944.09,0,1.397,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,問い,とい,とい,第4週3日目-問い.wav,24200,5208.51,0,0.542,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,落ち着いて考える,おちついてかんがえる,おちついてかんがえる,第4週3日目-落ち着いて考える.wav,24200,8441.75,0,1.613,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,聞き直す,ききなおす,ききなおす,第4週3日目-聞き直す.wav,24200,7228.76,0,1.072,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,言い直す,いいなおす,いいなおす,第4週3日目-言い直す.wav,24200,8762.15,0,1.021,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,聞き取る,ききとる,ききとる,第4週3日目-聞き取る.wav,24200,4572.30,0,0.822,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,聞き取り,ききとり,ききとり,第4週3日目-聞き取り.wav,24200,4022.04,0,0.814,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,書き取る,かきとる,かきとる,第4週3日目-書き取る.wav,24200,5499.43,0,0.880,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,書き取り,かきとり,かきとり,第4週3日目-書き取り.wav,24200,5054.10,0,0.880,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,ついている,ついている,ついている,第4週3日目-ついている.wav,24183,6875.85,0,0.953,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,ついていない,ついていない,ついていない,第4週3日目-ついていない.wav,24200,7924.42,0,1.135,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,試験が済む,しけんがすむ,しけんがすむ,第4週3日目-試験が済む.wav,24200,8094.18,0,1.154,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,試験の結果,しけんのけっか,しけんのけっか,第4週3日目-試験の結果.wav,24200,7761.18,0,1.320,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,カンニングする,かんにんぐする,かんにんぐする,第4週3日目-カンニングする.wav,24200,9354.55,0,1.248,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,レポートの下書きをする,れぽーとのしたがきをする,れぽーとのしたがきをする,第4週3日目-レポートの下書きをする.wav,24200,10673.09,0,1.920,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,清書する,せいしょする,せいしょする,第4週3日目-清書する.wav,24200,7781.18,0,1.084,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,3日目,提出期限を守る,ていしゅつきげんをまもる,ていしゅつきげんをまもる,第4週3日目-提出期限を守る.wav,24200,10226.77,0,1.734,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,レストランでアルバイト,れすとらんであるばいと,れすとらんであるばいと,第4週4日目-レストランでアルバイト.wav,24200,11148.52,0,1.734,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,工場でパート,こうじょうでぱーと,こうじょうでぱーと,第4週4日目-工場でパート.wav,24200,10441.60,0,1.409,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,コンビニの店員,こんびにのてんいん,こんびにのてんいん,第4週4日目-コンビニの店員.wav,24200,11519.02,0,1.479,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,英会話講師,えいかいわこうし,えいかいわこうし,第4週4日目-英会話講師.wav,24200,10980.69,0,1.356,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,翻訳の仕事,ほんやくのしごと,ほんやくのしごと,第4週4日目-翻訳の仕事.wav,24200,10254.14,0,1.417,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,翻訳する/通訳する,ほんやくする/つうやくする,ほんやくする つうやくする,第4週4日目-翻訳する_通訳する.wav,24200,9530.26,0,1.935,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,通訳の仕事,つうやくのしごと,つうやくのしごと,第4週4日目-通訳の仕事.wav,24200,9906.67,0,1.462,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,事務の手伝い,じむのてつだい,じむのてつだい,第4週4日目-事務の手伝い.wav,24200,8851.32,0,1.248,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,ホームヘルパー,ホームへるぱー,ホームへるぱー,第4週4日目-ホームヘルパー.wav,24200,9283.38,0,1.246,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,仕事を探す,しごとをさがす,しごとをさがす,第4週4日目-仕事を探す.wav,24200,8819.44,0,1.425,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,履歴書を書く,りれきしょをかく,りれきしょをかく,第4週4日目-履歴書を書く.wav,24200,9549.51,0,1.361,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,面接をする,めんせつをする,めんせつをする,第4週4日目-面接をする.wav,24200,8683.71,0,1.271,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,ホテルの従業員,ほてるのじゅうぎょういん,ほてるのじゅうぎょういん,第4週4日目-ホテルの従業員.wav,24200,11468.23,0,1.524,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,仕事仲間,しごとなかま,しごとなかま,第4週4日目-仕事仲間.wav,24200,8656.27,0,1.189,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,給料,きゅうりょう,きゅうりょう,第4週4日目-給料.wav,24200,8280.86,0,0.815,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,時給1200円,じきゅう1200えん,じきゅう1200えん,第4週4日目-時給1200円.wav,24200,10235.58,0,1.695,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,ボーナス,ぼーなす,ぼーなす,第4週4日目-ボーナス.wav,24200,6826.87,0,0.931,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,交通費が出る,こうつうひがでる,こうつうひがでる,第4週4日目-交通費が出る.wav,24200,9326.46,0,1.410,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,勤務時間,きんむじかん,きんむじかん,第4週4日目-勤務時間.wav,24200,8188.89,0,1.083,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,雇う,やとう,やとう,第4週4日目-雇う.wav,24200,7027.23,0,0.681,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,雇われる,やとわれる,やとわれる,第4週4日目-雇われる.wav,24200,9661.50,0,0.954,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,きつい仕事/つらい仕事,きついしごと/つらいしごと,きついしごと つらいしごと,第4週4日目-きつい仕事_つらい仕事.wav,24200,9001.95,0,1.993,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,お金をかせぐ,おかねをかせぐ,おかねをかせぐ,第4週4日目-お金をかせぐ.wav,24200,10094.05,0,1.304,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,お金をもうける,おかねをもうける,おかねをもうける,第4週4日目-お金をもうける.wav,24200,10685.03,0,1.356,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,お金がもうかる,おかねがもうかる,おかねがもうかる,第4週4日目-お金がもうかる.wav,24200,10584.72,0,1.298,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,仕事を済ます/済ませる,しごとをすます/すませる,しごとをすます すませる,第4週4日目-仕事を済ます_済ませる.wav,24200,9130.09,0,1.923,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,仕事をなまける,しごとをなまける,しごとをなまける,第4週4日目-仕事をなまける.wav,24200,9882.91,0,1.457,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,怠け者,なまけもの,なまけもの,第4週4日目-怠け者.wav,24200,9105.43,0,1.073,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,働き者,はたらきもの,はたらきもの,第4週4日目-働き者.wav,24200,8380.67,0,1.138,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,首になる,くびになる,くびになる,第4週4日目-首になる.wav,24200,7889.70,0,1.073,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,4日目,やめさせられる,やめさせられる,やめさせられる,第4週4日目-やめさせられる.wav,24200,9468.22,0,1.273,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,5日目,初めてパソコンをさわる,はじめてぱそこんをさわる,はじめてぱそこんをさわる,第4週5日目-初めてパソコンをさわる.wav,24200,9815.13,0,1.971,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,5日目,初心者,しょしんしゃ,しょしんしゃ,第4週5日目-初心者.wav,24200,6165.24,0,1.028,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,5日目,入門講座を受ける,にゅうもんこうざをうける,にゅうもんこうざをうける,第4週5日目-入門講座を受ける.wav,24200,11379.63,0,1.679,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,5日目,パソコンに慣れる,ぱそこんになれる,ぱそこんになれる,第4週5日目-パソコンに慣れる.wav,24200,9033.33,0,1.415,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,5日目,新製品,しんせいひん,しんせいひん,第4週5日目-新製品.wav,24200,9083.97,0,1.116,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,5日目,新品,しんぴん,しんぴん,第4週5日目-新品.wav,24200,6229.77,0,0.887,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,5日目,中古,ちゅうこ,ちゅうこ,第4週5日目-中古.wav,24200,8121.36,0,0.833,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,5日目,画面を見る,がめんをみる,がめんをみる,第4週5日目-画面を見る.wav,24200,10392.99,0,1.120,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,5日目,ソフト(ウェア)をインストールする,そふと(うぇあ)をいんすとーるする,そふと うぇあ をいんすとーるする,第4週5日目-ソフト(ウェア)をインストールする.wav,24200,10393.88,0,2.230,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,5日目,スタートボタンをクリックする,すたーとぼたんをくりっくする,すたーとぼたんをくりっくする,第4週5日目-スタートボタンをクリックする.wav,24200,9380.74,0,2.123,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,5日目,ファイルを開く,ふぁいるをひらく,ふぁいるをひらく,第4週5日目-ファイルを開く.wav,24200,9788.28,0,1.406,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,5日目,閉じる,とじる,とじる,第4週5日目-閉じる.wav,24200,5672.22,0,0.740,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,5日目,年賀状を作る,ねんがじょうをつくる,ねんがじょうをつくる,第4週5日目-年賀状を作る.wav,24200,11830.17,0,1.464,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,5日目,(インター)ネットにつなぐ,(いんたー)ねっとにつなぐ,いんたー ねっとにつなぐ,第4週5日目-(インター)ネットにつなぐ.wav,24200,9617.54,0,1.824,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,5日目,世界中とつながる,せかいじゅうとつながる,せかいじゅうとつながる,第4週5日目-世界中とつながる.wav,24200,9270.50,0,1.717,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,5日目,情報を得る,じょうほうをえる,じょうほうをえる,第4週5日目-情報を得る.wav,24200,11490.23,0,1.157,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,5日目,オークションに参加する,おーくしょんにさんかする,おーくしょんにさんかする,第4週5日目-オークションに参加する.wav,24200,8678.79,0,1.718,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,5日目,オークションに品物を出す,おーくしょんにしなものをだす,おーくしょんにしなものをだす,第4週5日目-オークションに品物を出す.wav,24200,10863.23,0,2.070,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,5日目,出品する,しゅっぴんする,しゅっぴんする,第4週5日目-出品する.wav,24200,6408.49,0,1.116,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,5日目,ホームページを作る,ホームぺーじをつくる,ホームぺーじをつくる,第4週5日目-ホームページを作る.wav,24200,10658.53,0,1.555,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,5日目,ブログを始める,ぶろぐをはじめる,ぶろぐをはじめる,第4週5日目-ブログを始める.wav,24200,10587.71,0,1.417,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,6日目,入力する,にゅうりょくする,にゅうりょくする,第4週6日目-入力する.wav,24200,9272.52,0,1.113,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,6日目,ローマ字で入力する,ろーまじでにゅうりょくする,ろーまじでにゅうりょくする,第4週6日目-ローマ字で入力する.wav,24200,10824.63,0,1.730,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,6日目,漢字に変換する,かんじにへんかんする,かんじにへんかんする,第4週6日目-漢字に変換する.wav,24200,9445.36,0,1.666,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,6日目,挿入する,そうにゅうする,そうにゅうする,第4週6日目-挿入する.wav,24200,10259.50,0,1.150,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,6日目,削除する,さくじょする,さくじょする,第4週6日目-削除する.wav,24200,6387.02,0,1.089,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,6日目,受信する,じゅしんする,じゅしんする,第4週6日目-受信する.wav,24200,6384.01,0,1.076,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,6日目,送信する,そうしんする,そうしんする,第4週6日目-送信する.wav,24200,8392.10,0,1.163,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,6日目,返信する,へんしんする,へんしんする,第4週6日目-返信する.wav,24200,7503.19,0,1.104,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,6日目,転送する,てんそうする,てんそうする,第4週6日目-転送する.wav,24200,8848.98,0,1.113,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,6日目,新規作成する,しんきさくせいする,しんきさくせいする,第4週6日目-新規作成する.wav,24200,6949.28,0,1.650,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,6日目,まとめて送る,まとめておくる,まとめておくる,第4週6日目-まとめて送る.wav,24200,8656.53,0,1.235,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,6日目,整理する,せいりする,せいりする,第4週6日目-整理する.wav,24200,8857.60,0,1.067,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,6日目,チェックする,ちぇっくする,ちぇっくする,第4週6日目-チェックする.wav,24200,7362.35,0,1.139,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,6日目,あて先,あてさき,あてさき,第4週6日目-あて先.wav,24200,4711.23,0,0.984,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,6日目,差出人,さしだしにん,さしだしにん,第4週6日目-差出人.wav,24200,7544.87,0,1.115,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,6日目,件名,けんめい,けんめい,第4週6日目-件名.wav,24200,8032.09,0,0.758,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,6日目,メールのやり取りをする,めーるのやりとりをする,めーるのやりとりをする,第4週6日目-メールのやり取りをする.wav,24200,11833.14,0,1.719,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,6日目,写真を添付する,しゃしんをてんぷする,しゃしんをてんぷする,第4週6日目-写真を添付する.wav,24200,8602.94,0,1.613,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,6日目,改行する,かいぎょうする,かいぎょうする,第4週6日目-改行する.wav,24200,9325.53,0,1.150,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,6日目,送信が完了する,そうしんがかんりょうする,そうしんがかんりょうする,第4週6日目-送信が完了する.wav,24200,10187.70,0,1.792,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,6日目,アドレス帳,あどれすちょう,あどれすちょう,第4週6日目-アドレス帳.wav,24200,8318.31,0,1.200,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第4週,6日目,送信者の(メール)アドレスを登録する,そうしんしゃの(めーる)あどれすをとうろくする,そうしんしゃの めーる あどれすをとうろくする,第4週6日目-送信者の(メール)アドレスを登録する.wav,24200,12006.13,0,2.915,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,長男,ちょうなん,ちょうなん,第5週1日目-長男.wav,24200,7604.99,0,0.841,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,長女,ちょうじょ,ちょうじょ,第5週1日目-長女.wav,24200,7199.53,0,0.886,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,次男,じなん,じなん,第5週1日目-次男.wav,24200,6725.38,0,0.743,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,次女,じじょ,じじょ,第5週1日目-次女.wav,24200,7265.65,0,0.676,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,三男,さんなん,さんなん,第5週1日目-三男.wav,24200,7625.54,0,0.842,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,末っ子,すえっこ,すえっこ,第5週1日目-末っ子.wav,24200,6467.23,0,0.944,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,叔父,おじ,おじ,第5週1日目-叔父.wav,24200,5889.23,0,0.571,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,叔母,おば,おば,第5週1日目-叔母.wav,24200,6984.22,0,0.571,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,職場の同僚,しょくばのどうりょう,しょくばのどうりょう,第5週1日目-職場の同僚.wav,24200,10537.39,0,1.442,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,職場の上司,しょくばのじょうし,しょくばのじょうし,第5週1日目-職場の上司.wav,24200,9410.20,0,1.417,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,職場の部下,しょくばのぶか,しょくばのぶか,第5週1日目-職場の部下.wav,24200,8820.63,0,1.187,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,会社の先輩,かいしゃのせんぱい,かいしゃのせんぱい,第5週1日目-会社の先輩.wav,24200,9866.34,0,1.444,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,会社の後輩,かいしゃのこうはい,かいしゃのこうはい,第5週1日目-会社の後輩.wav,24200,10210.33,0,1.409,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,部長,ぶちょう,ぶちょう,第5週1日目-部長.wav,24200,6215.31,0,0.761,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,課長,かちょう,かちょう,第5週1日目-課長.wav,24200,5608.26,0,0.815,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,大学生,だいがくせい,だいがくせい,第5週1日目-大学生.wav,24200,8549.57,0,1.097,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,高校生,こうこうせい,こうこうせい,第5週1日目-高校生.wav,24200,9344.22,0,1.150,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,中学生,ちゅうがくせい,ちゅうがくせい,第5週1日目-中学生.wav,24200,7901.67,0,1.137,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,小学生,しょうがくせい,しょうがくせい,第5週1日目-小学生.wav,24200,8504.00,0,1.155,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,会社員,かいしゃいん,かいしゃいん,第5週1日目-会社員.wav,24200,7753.22,0,0.959,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,サラリーマン,さらりーまん,さらりーまん,第5週1日目-サラリーマン.wav,24200,8759.05,0,1.113,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,主婦,しゅふ,しゅふ,第5週1日目-主婦.wav,22150,2925.87,0,0.676,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,教師,きょうし,きょうし,第5週1日目-教師.wav,24200,7586.50,0,0.760,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,"親せき, 親類","しんせき, しんるい",しんせき しんるい,第5週1日目-親せき・ 親類.wav,24200,7778.08,0,1.410,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,孫,まご,まご,第5週1日目-孫.wav,24200,6360.59,0,0.654,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,甥,おい,おい,第5週1日目-甥.wav,24200,6895.43,0,0.524,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,姪,めい,めい,第5週1日目-姪.wav,24200,5956.82,0,0.542,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,"従兄弟,従姉妹",いとこ,いとこ,第5週1日目-従兄弟・従姉妹.wav,24200,6019.73,0,0.748,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,一人っ子,ひとりっこ,ひとりっこ,第5週1日目-一人っ子.wav,24200,6910.09,0,0.944,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,一人息子,ひとりむすこ,ひとりむすこ,第5週1日目-一人息子.wav,24200,7640.02,0,1.122,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,一人娘,ひとりむすめ,ひとりむすめ,第5週1日目-一人娘.wav,24200,7940.94,0,1.104,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,6人兄弟の末っ子,6にんきょうだいのすえっこ,6にんきょうだいのすえっこ,第5週1日目-6人兄弟の末っ子.wav,24200,10473.26,0,2.004,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,1日目,3人姉妹のいちばん上,3にんしまいのいちばんうえ,3にんしまいのいちばんうえ,第5週1日目-3人姉妹のいちばん上.wav,24200,11034.55,0,2.081,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,お国はどちらですか。,おくにはどちらですか。,おくにはどちらですか。,第5週2日目-お国はどちらですか。.wav,24200,9730.42,0,1.664,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,お生まれはどちらですか。,おうまれはどちらですか。,おうまれはどちらですか。,第5週2日目-お生まれはどちらですか。.wav,24200,11251.77,0,1.766,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,どちらのご出身ですか。,どちらのごしゅっしんですか。,どちらのごしゅっしんですか。,第5週2日目-どちらのご出身ですか。.wav,24200,9067.42,0,2.011,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,イギリス出身です。,いぎりすしゅっしんです。,いぎりすしゅっしんです。,第5週2日目-イギリス出身です。.wav,24200,7482.99,0,1.798,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,お住まいはどちらですか。,おすまいはどちらですか。,おすまいはどちらですか。,第5週2日目-お住まいはどちらですか。.wav,24200,10057.47,0,1.810,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,この近くです。,このちかくです。,このちかくです。,第5週2日目-この近くです。.wav,24200,7377.15,0,1.456,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,先日は、ありがとうございました。,せんじつは、ありがとうございました。,せんじつは、ありがとうございました。,第5週2日目-先日は、ありがとうございました。.wav,24200,9561.99,0,3.111,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,とんでもないです。こちらこそ。,とんでもないです。こちらこそ。,とんでもないです。こちらこそ。,第5週2日目-とんでもないです。こちらこそ。.wav,24200,7369.45,0,3.299,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,どうぞお上がりください。,どうぞおあがりください。,どうぞおあがりください。,第5週2日目-どうぞお上がりください。.wav,24200,11127.56,0,1.701,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,おじゃまします。,おじゃまします。,おじゃまします。,第5週2日目-おじゃまします。.wav,24200,8136.29,0,1.312,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,こちらでおかけになってお待ちください。,こちらでおかけになっておまちください。,こちらでおかけになっておまちください。,第5週2日目-こちらでおかけになってお待ちください。.wav,24200,10441.70,0,2.756,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,お茶をお持ちします。,おちゃをおもちします。,おちゃをおもちします。,第5週2日目-お茶をお持ちします。.wav,24200,8917.57,0,1.696,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,どうぞおかまいなく。,どうぞおかまいなく。,どうぞおかまいなく。,第5週2日目-どうぞおかまいなく。.wav,24200,10832.07,0,1.515,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,どうぞお召し上がりください,どうぞおめしあがりください,どうぞおめしあがりください,第5週2日目-どうぞお召し上がりください.wav,24200,11103.17,0,2.005,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,では、遠慮なくいただきます。,では、えんりょなくいただきます。,では、えんりょなくいただきます。,第5週2日目-では、遠慮なくいただきます。.wav,24200,9553.12,0,2.793,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,ご無沙汰しています。お元気でいらっしゃいますか。,ごぶさたしています。おげんきでいらっしゃいますか。,ごぶさたしています。おげんきでいらっしゃいますか。,第5週2日目-ご無沙汰しています。お元気でいらっしゃいますか。.wav,24200,8722.56,0,4.342,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,ええ、おかげさまで。,ええ、おかげさまで。,ええ、おかげさまで。,第5週2日目-ええ、おかげさまで。.wav,24200,8521.16,0,1.918,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,田中さんのご主人、亡くなったそうですよ。,たなかさんのごしゅじん、なくなったそうですよ。,たなかさんのごしゅじん、なくなったそうですよ。,第5週2日目-田中さんのご主人、亡くなったそうですよ。.wav,24200,9819.80,0,3.584,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,そうですか。お気の毒に。,そうですか。おきのどくに。,そうですか。おきのどくに。,第5週2日目-そうですか。お気の毒に。.wav,24200,7520.28,0,2.845,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,お目にかかるのを楽しみにしています。,おめにかかるのをたのしみにしています。,おめにかかるのをたのしみにしています。,第5週2日目-お目にかかるのを楽しみにしています。.wav,24200,10469.54,0,2.629,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,お先に失礼します。,おさきにしつれいします。,おさきにしつれいします。,第5週2日目-お先に失礼します。.wav,24200,8348.55,0,1.931,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,"ご苦労さま。, お疲れさま。","ごくろうさま。, おつかれさま。",ごくろうさま。 おつかれさま。,第5週2日目-ご苦労さま。・ お疲れさま。.wav,24200,7207.72,0,2.993,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,お先に。,おさきに。,おさきに。,第5週2日目-お先に。.wav,24200,7467.27,0,0.890,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,2日目,お疲れさまでした。,おつかれさまでした。,おつかれさまでした。,第5週2日目-お疲れさまでした。.wav,24200,9094.32,0,1.520,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,かしこい,かしこい,かしこい,第5週3日目-かしこい.wav,24200,5093.87,0,0.901,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,礼儀正しい,れいぎただしい,れいぎただしい,第5週3日目-礼儀正しい.wav,24200,9408.05,0,1.287,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,正直な,しょうじきな,しょうじきな,第5週3日目-正直な.wav,24200,8856.16,0,1.025,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,正直に言うと,しょうじきにいうと,しょうじきにいうと,第5週3日目-正直に言うと.wav,24200,9897.73,0,1.417,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,素直な,すなおな,すなおな,第5週3日目-素直な.wav,24200,7867.97,0,0.861,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,純粋な,じゅんすいな,じゅんすいな,第5週3日目-純粋な.wav,24200,8659.38,0,0.947,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,純粋な気持ち,じゅんすいなきもち,じゅんすいなきもち,第5週3日目-純粋な気持ち.wav,24200,8617.30,0,1.463,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,かっこいい,かっこいい,かっこいい,第5週3日目-かっこいい.wav,24200,7861.52,0,1.002,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,かっこ悪い,かっこわるい,かっこわるい,第5週3日目-かっこ悪い.wav,24200,8654.20,0,1.082,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,勇気のある,ゆうきのある,ゆうきのある,第5週3日目-勇気のある.wav,24200,9538.21,0,1.072,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,ユーモアのある,ゆーもあのある,ゆーもあのある,第5週3日目-ユーモアのある.wav,24200,10789.96,0,1.203,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,積極的な,せっきょくてきな,せっきょくてきな,第5週3日目-積極的な.wav,24200,7153.93,0,1.246,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,消極的な,しょうきょくてきな,しょうきょくてきな,第5週3日目-消極的な.wav,24200,8493.66,0,1.261,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,落ち着いている,おちついている,おちついている,第5週3日目-落ち着いている.wav,24200,7515.94,0,1.159,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,おとなしい,おとなしい,おとなしい,第5週3日目-おとなしい.wav,24200,7678.16,0,0.978,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,まじめな,まじめな,まじめな,第5週3日目-まじめな.wav,24200,7604.72,0,0.862,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,のんきな,のんきな,のんきな,第5週3日目-のんきな.wav,24200,8288.49,0,0.819,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,美人,びじん,びじん,第5週3日目-美人.wav,24200,6724.26,0,0.671,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,ハンサムな,はんさむな,はんさむな,第5週3日目-ハンサムな.wav,24200,8345.43,0,0.897,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,スマートな,すまーとな,すまーとな,第5週3日目-スマートな.wav,24200,8322.45,0,0.979,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,意地悪な,いじわるな,いじわるな,第5週3日目-意地悪な.wav,24200,9226.88,0,0.954,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,しつこい,しつこい,しつこい,第5週3日目-しつこい.wav,24200,4362.08,0,0.827,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,意地悪をする,いじわるをする,いじわるをする,第5週3日目-意地悪をする.wav,24200,9955.56,0,1.246,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,しつこく注意する,しつこくちゅういする,しつこくちゅういする,第5週3日目-しつこく注意する.wav,24200,7382.02,0,1.455,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,噓をつく,うそをつく,うそをつく,第5週3日目-噓をつく.wav,24200,8546.57,0,1.067,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,だらしない,だらしない,だらしない,第5週3日目-だらしない.wav,24200,8002.39,0,0.982,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,うそつき,うそつき,うそつき,第5週3日目-うそつき.wav,24200,5151.48,0,0.946,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,けちな,けちな,けちな,第5週3日目-けちな.wav,24200,6761.39,0,0.704,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,ずるい,ずるい,ずるい,第5週3日目-ずるい.wav,24200,6464.79,0,0.685,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,無責任な/いいかげんな,むせきにんな/いいかげんな,むせきにんな いいかげんな,第5週3日目-無責任な_いいかげんな.wav,24200,10668.76,0,1.801,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,ずうずうしい,ずうずうしい,ずうずうしい,第5週3日目-ずうずうしい.wav,24200,8925.28,0,1.122,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,いいかげんなことを言う,いいかげんなことをいう,いいかげんなことをいう,第5週3日目-いいかげんなことを言う.wav,24200,10787.31,0,1.631,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,3日目,いいかげんにしろ!,いいかげんにしろ!,いいかげんにしろ!,第5週3日目-いいかげんにしろ!.wav,24200,9840.66,0,1.394,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,体の調子/具合が悪い,からだのちょうし/ぐあいがわるい,からだのちょうし ぐあいがわるい,第5週4日目-体の調子_具合が悪い.wav,24200,11412.11,0,2.122,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,めまいがする,めまいがする,めまいがする,第5週4日目-めまいがする.wav,24200,9574.50,0,1.122,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,頭痛がする,ずつうがする,ずつうがする,第5週4日目-頭痛がする.wav,24200,7212.43,0,1.199,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,胃が痛い,いがいたい,いがいたい,第5週4日目-胃が痛い.wav,24200,8881.70,0,0.880,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,腰が痛い,こしがいたい,こしがいたい,第5週4日目-腰が痛い.wav,24200,7190.74,0,1.141,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,息が苦しい,いきがくるしい,いきがくるしい,第5週4日目-息が苦しい.wav,24200,7703.87,0,1.252,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,苦しむ,くるしむ,くるしむ,第5週4日目-苦しむ.wav,24200,6122.43,0,0.927,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,鼻がつまる,はながつまる,はながつまる,第5週4日目-鼻がつまる.wav,24200,9112.92,0,1.162,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,鼻をかむ,はなをかむ,はなをかむ,第5週4日目-鼻をかむ.wav,24200,9225.09,0,1.066,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,吐き気がする,はきけがする,はきけがする,第5週4日目-吐き気がする.wav,24200,6731.20,0,1.149,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,吐く,はく,はく,第5週4日目-吐く.wav,24200,4050.81,0,0.664,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,気分が悪い/気持ち(が)悪い,きぶんがわるい/きもち(が)わるい,きぶんがわるい きもち が わるい,第5週4日目-気分が悪い_気持ち(が)悪い.wav,24200,11159.05,0,2.083,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,目がかゆい,めがかゆい,めがかゆい,第5週4日目-目がかゆい.wav,24200,9581.05,0,1.037,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,目をこする/かく,めをこする/かく,めをこする かく,第5週4日目-目をこする_かく.wav,24200,8952.62,0,1.357,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,風邪を引いてつらい,かぜをひいてつらい,かぜをひいてつらい,第5週4日目-風邪を引いてつらい.wav,24200,9080.29,0,1.577,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,アレルギーがある,あれるぎーがある,あれるぎーがある,第5週4日目-アレルギーがある.wav,24200,10152.63,0,1.394,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,お世話になりました。,おせわになりました。,おせわになりました。,第5週4日目-お世話になりました。.wav,24200,10536.81,0,1.499,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,お大事に。,おだいじに。,おだいじに。,第5週4日目-お大事に。.wav,24200,9125.55,0,0.960,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,専門の医師にみてもらう,せんもんのいしにみてもらう,せんもんのいしにみてもらう,第5週4日目-専門の医師にみてもらう.wav,24200,11280.82,0,1.991,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,医師の診察を受ける,いしのしんさつをうける,いしのしんさつをうける,第5週4日目-医師の診察を受ける.wav,24200,9955.96,0,1.824,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,歯医者にかかる,はいしゃにかかる,はいしゃにかかる,第5週4日目-歯医者にかかる.wav,24200,8249.68,0,1.264,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,インフルエンザにかかる,いんふるえんざにかかる,いんふるえんざにかかる,第5週4日目-インフルエンザにかかる.wav,24200,10639.82,0,1.658,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,病気の症状,びょうきのしょうじょう,びょうきのしょうじょう,第5週4日目-病気の症状.wav,24200,10556.86,0,1.424,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,けがを治す,けがをなおす,けがをなおす,第5週4日目-けがを治す.wav,24200,10110.20,0,1.246,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,注射をしてもらう,ちゅうしゃをしてもらう,ちゅうしゃをしてもらう,第5週4日目-注射をしてもらう.wav,24200,9876.65,0,1.525,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,手の傷,てのきず,てのきず,第5週4日目-手の傷.wav,24200,6758.92,0,0.953,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,手術を受ける,しゅじゅつをうける,しゅじゅつをうける,第5週4日目-手術を受ける.wav,24200,9030.91,0,1.393,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,やけどをする,やけどをする,やけどをする,第5週4日目-やけどをする.wav,24200,8763.85,0,1.138,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,痛みをがまんする,いたみをがまんする,いたみをがまんする,第5週4日目-痛みをがまんする.wav,24200,10513.79,0,1.517,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,大したことがない,たいしたことがない,たいしたことがない,第5週4日目-大したことがない.wav,24200,8827.52,0,1.515,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,花粉症になる,かふんしょうになる,かふんしょうになる,第5週4日目-花粉症になる.wav,24200,9602.99,0,1.409,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,ましになる,ましになる,ましになる,第5週4日目-ましになる.wav,24200,7604.66,0,1.022,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,うがいをする,うがいをする,うがいをする,第5週4日目-うがいをする.wav,24200,10475.62,0,1.074,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,4日目,(お)見舞いに行く,(お)みまいにいく,お みまいにいく,第5週4日目-(お)見舞いに行く.wav,24200,10186.77,0,1.252,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,鼻水,はなみず,はなみず,第5週5日目-鼻水.wav,24200,7550.46,0,0.929,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,ため息,ためいき,ためいき,第5週5日目-ため息.wav,24200,9272.92,0,0.850,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,涙,なみだ,なみだ,第5週5日目-涙.wav,24200,7567.62,0,0.704,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,汗,あせ,あせ,第5週5日目-汗.wav,24200,4378.45,0,0.663,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,涎,よだれ,よだれ,第5週5日目-涎.wav,24200,6735.60,0,0.748,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,ため息をつく,ためいきをつく,ためいきをつく,第5週5日目-ため息をつく.wav,24200,9650.53,0,1.271,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,涙を流す,なみだをながす,なみだをながす,第5週5日目-涙を流す.wav,24200,9902.58,0,1.401,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,汗をかく,あせをかく,あせをかく,第5週5日目-汗をかく.wav,24200,7977.87,0,1.081,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,汗くさい,あせくさい,あせくさい,第5週5日目-汗くさい.wav,24200,5338.62,0,1.026,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,咳,せき,せき,第5週5日目-咳.wav,24200,4009.78,0,0.678,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,吃逆,しゃっくり,しゃっくり,第5週5日目-吃逆.wav,24200,5547.68,0,0.836,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,嚏,くしゃみ,くしゃみ,第5週5日目-嚏.wav,24200,6075.76,0,0.829,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,欠伸,あくび,あくび,第5週5日目-欠伸.wav,24200,4881.07,0,0.755,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,噯,げっぷ,げっぷ,第5週5日目-噯.wav,24200,6039.39,0,0.811,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,おなら,おなら,おなら,第5週5日目-おなら.wav,24200,7341.39,0,0.666,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,体重が増える,たいじゅうがふえる,たいじゅうがふえる,第5週5日目-体重が増える.wav,24200,10575.23,0,1.296,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,体重を増やす,たいじゅうをふやす,たいじゅうをふやす,第5週5日目-体重を増やす.wav,24200,10738.05,0,1.426,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,体重が減る,たいじゅうがへる,たいじゅうがへる,第5週5日目-体重が減る.wav,24200,10113.56,0,1.248,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,体重を減らす,たいじゅうをへらす,たいじゅうをへらす,第5週5日目-体重を減らす.wav,24200,10659.79,0,1.419,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,いびきをかく,いびきをかく,いびきをかく,第5週5日目-いびきをかく.wav,24200,8382.92,0,1.116,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,年を取る,ねんをとる,ねんをとる,第5週5日目-年を取る.wav,24200,10707.67,0,0.951,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,足がしびれる,あしがしびれる,あしがしびれる,第5週5日目-足がしびれる.wav,24200,7996.45,0,1.266,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,爪が伸びる,つめがのびる,つめがのびる,第5週5日目-爪が伸びる.wav,24200,9223.00,0,1.201,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,体がふるえる,からだがふるえる,からだがふるえる,第5週5日目-体がふるえる.wav,24200,10333.86,0,1.437,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,ひげが生える,ひげがはえる,ひげがはえる,第5週5日目-ひげが生える.wav,24200,7966.08,0,1.159,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,肩がこる,かたがこる,かたがこる,第5週5日目-肩がこる.wav,24200,8143.11,0,1.067,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,歯が生える,はがはえる,はがはえる,第5週5日目-歯が生える.wav,24200,8093.94,0,1.067,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,くせがつく,くせがつく,くせがつく,第5週5日目-くせがつく.wav,24200,6587.46,0,1.116,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,髪の毛が抜ける,かみのけがぬける,かみのけがぬける,第5週5日目-髪の毛が抜ける.wav,24200,10074.79,0,1.518,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,くせになる,くせになる,くせになる,第5週5日目-くせになる.wav,24200,7181.51,0,1.069,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,禿げる,はげる,はげる,第5週5日目-禿げる.wav,24200,7202.69,0,0.741,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,ストレスがたまる,すとれすがたまる,すとれすがたまる,第5週5日目-ストレスがたまる.wav,24200,8513.37,0,1.506,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,髪をそめる,かみをそめる,かみをそめる,第5週5日目-髪をそめる.wav,24200,10015.80,0,1.201,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,虫歯,むしば,むしば,第5週5日目-虫歯.wav,24200,5161.43,0,0.825,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,にきび,にきび,にきび,第5週5日目-にきび.wav,24200,5477.55,0,0.741,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,白髪,しらが,しらが,第5週5日目-白髪.wav,24200,5620.76,0,0.828,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,5日目,皺,しわ,しわ,第5週5日目-皺.wav,22404,3785.46,0,0.645,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,花が咲く,はながさく,はながさく,第5週6日目-花が咲く.wav,24200,7244.24,0,1.117,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,箱がつぶれる,はこがつぶれる,はこがつぶれる,第5週6日目-箱がつぶれる.wav,24200,8244.07,0,1.315,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,花が散る,はながちる,はながちる,第5週6日目-花が散る.wav,24200,8708.41,0,1.022,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,つぶす,つぶす,つぶす,第5週6日目-つぶす.wav,22845,4497.60,0,0.862,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,木が枯れる,きがかれる,きがかれる,第5週6日目-木が枯れる.wav,24200,7322.25,0,1.022,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,浮く,うく,うく,第5週6日目-浮く.wav,24200,5851.68,0,0.573,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,山がくずれる,やまがくずれる,やまがくずれる,第5週6日目-山がくずれる.wav,24200,9509.07,0,1.266,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,沈む,しずむ,しずむ,第5週6日目-沈む.wav,22789,5264.52,0,0.813,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,険しい山,けわしいやま,けわしいやま,第5週6日目-険しい山.wav,24200,9637.83,0,1.094,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,蒸し暑い,むしあつい,むしあつい,第5週6日目-蒸し暑い.wav,24200,6799.15,0,0.957,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,なだらかな坂,なだらかなさか,なだらかなさか,第5週6日目-なだらかな坂.wav,24200,8588.95,0,1.304,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,腐る,くさる,くさる,第5週6日目-腐る.wav,24200,4289.60,0,0.737,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,かびが生える,かびがはえる,かびがはえる,第5週6日目-かびが生える.wav,24200,8618.81,0,1.208,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,変なにおいがする,へんなにおいがする,へんなにおいがする,第5週6日目-変なにおいがする.wav,24200,10680.30,0,1.456,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,におう,におう,におう,第5週6日目-におう.wav,24200,8699.97,0,0.663,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,気味が悪い生き物,きみがわるいいきもの,きみがわるいいきもの,第5週6日目-気味が悪い生き物.wav,24200,10538.07,0,1.647,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,気持ち(が)悪い生き物,きもち(が)わるいいきもの,きもち が わるいいきもの,第5週6日目-気持ち(が)悪い生き物.wav,24200,10547.30,0,1.777,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,親しい友人,したしいゆうじん,したしいゆうじん,第5週6日目-親しい友人.wav,24200,9019.30,0,1.359,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,親友,しんゆう,しんゆう,第5週6日目-親友.wav,24200,7582.85,0,0.853,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,あやしい男,あやしいおとこ,あやしいおとこ,第5週6日目-あやしい男.wav,24200,9700.00,0,1.414,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,恐ろしい事件,おそろしいじけん,おそろしいじけん,第5週6日目-恐ろしい事件.wav,24200,9444.60,0,1.427,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,さびた包丁,さびたほうちょう,さびたほうちょう,第5週6日目-さびた包丁.wav,24200,8250.84,0,1.394,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,錆びる,さびる,さびる,第5週6日目-錆びる.wav,24200,5590.49,0,0.737,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,鋭い,するどい,するどい,第5週6日目-鋭い.wav,24200,6364.65,0,0.834,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,鈍い,にぶい,にぶい,第5週6日目-鈍い.wav,24200,6847.45,0,0.648,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,のろい車,のろいくるま,のろいくるま,第5週6日目-のろい車.wav,24200,10487.72,0,1.112,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,安全な場所,あんぜんなばしょ,あんぜんなばしょ,第5週6日目-安全な場所.wav,24200,10226.42,0,1.305,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,薄暗い部屋,うすぐらいへや,うすぐらいへや,第5週6日目-薄暗い部屋.wav,24200,9926.36,0,1.185,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,まぶしい明かり,まぶしいあかり,まぶしいあかり,第5週6日目-まぶしい明かり.wav,24200,8630.49,0,1.246,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,くわしい説明書,くわしいせつめいしょ,くわしいせつめいしょ,第5週6日目-くわしい説明書.wav,24200,9389.37,0,1.697,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,くだらない小説,くだらないしょうせつ,くだらないしょうせつ,第5週6日目-くだらない小説.wav,24200,10193.62,0,1.698,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第5週,6日目,でたらめに答える,でたらめにこたえる,でたらめにこたえる,第5週6日目-でたらめに答える.wav,24200,10740.24,0,1.548,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,とつぜん/いきなり,とつぜん/いきなり,とつぜん いきなり,第6週1日目-とつぜん_いきなり.wav,24200,8297.54,0,1.354,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,突然電話が鳴った,とつぜんでんわがなった,とつぜんでんわがなった,第6週1日目-突然電話が鳴った.wav,24200,10208.89,0,1.784,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,いきなり泣き出す,いきなりなきだす,いきなりなきだす,第6週1日目-いきなり泣き出す.wav,24200,8301.91,0,1.514,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,とたんに,とたんに,とたんに,第6週1日目-とたんに.wav,24200,8383.84,0,0.841,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,とたんに泣き出す,とたんになきだす,とたんになきだす,第6週1日目-とたんに泣き出す.wav,24200,8450.88,0,1.498,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,やっと/とうとう/ついに,やっと/とうとう/ついに,やっと とうとう ついに,第6週1日目-やっと_とうとう_ついに.wav,24200,9899.62,0,1.548,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,やっとけがが治った,やっとけががなおった,やっとけががなおった,第6週1日目-やっとけがが治った.wav,24200,9744.76,0,1.721,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,うちの猫がとうとう死んでしまった,うちのねこがとうとうしんでしまった,うちのねこがとうとうしんでしまった,第6週1日目-うちの猫がとうとう死んでしまった.wav,24200,10356.25,0,2.548,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,結局,けっきょく,けっきょく,第6週1日目-結局.wav,24200,5915.52,0,0.960,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,努力したが、結局むだだった,どりょくしたが、けっきょくむだだった,どりょくしたが、けっきょくむだだった,第6週1日目-努力したが、結局むだだった.wav,24200,8356.12,0,2.958,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,ついに絵が完成した,ついにえがかんせいした,ついにえがかんせいした,第6週1日目-ついに絵が完成した.wav,24200,9358.78,0,1.805,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,よく,よく,よく,第6週1日目-よく.wav,24200,5746.78,0,0.661,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,よくこのレストランに来ます,よくこのれすとらんにきます,よくこのれすとらんにきます,第6週1日目-よくこのレストランに来ます.wav,24200,9940.22,0,2.129,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,昨日は、よく寝ました,きのうは、よくねました,きのうは、よくねました,第6週1日目-昨日は、よく寝ました.wav,24200,9130.12,0,2.240,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,よくやった!,よくやった!,よくやった!,第6週1日目-よくやった!.wav,24200,7914.80,0,1.085,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,たいてい/ふつう(は),たいてい/ふつう(は),たいてい ふつう は,第6週1日目-たいてい_ふつう(は).wav,24200,9750.57,0,1.395,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,たいてい外食します,たいていがいしょくします,たいていがいしょくします,第6週1日目-たいてい外食します.wav,24200,9493.61,0,1.920,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,ふだん(は),ふだん(は),ふだん は,第6週1日目-ふだん(は).wav,24200,7511.93,0,0.822,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,ふだんは(お)酒を飲みません,ふだんは(お)さけをのみません,ふだんは お さけをのみません,第6週1日目-ふだんは(お)酒を飲みません.wav,24200,10598.42,0,2.089,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,梅雨の時期、ふつう(は)雨が多い,つゆのじき、ふつう(は)あめがおおい,つゆのじき、ふつう は あめがおおい,第6週1日目-梅雨の時期、ふつう(は)雨が多い.wav,24200,9409.07,0,2.923,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,たまに,たまに,たまに,第6週1日目-たまに.wav,24200,7279.70,0,0.752,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,たまに映画に行きます,たまにえいがにいきます,たまにえいがにいきます,第6週1日目-たまに映画に行きます.wav,24200,10814.90,0,1.852,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,かなり,かなり,かなり,第6週1日目-かなり.wav,24200,6396.77,0,0.742,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,かなり大きい家,かなりおおきいいえ,かなりおおきいいえ,第6週1日目-かなり大きい家.wav,24200,10727.61,0,1.554,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,人がかなりいる,ひとがかなりいる,ひとがかなりいる,第6週1日目-人がかなりいる.wav,24200,8962.75,0,1.357,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,けっこう,けっこう,けっこう,第6週1日目-けっこう.wav,24200,6721.70,0,0.831,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,今の家は、けっこう気に入っている,いまのいえは、けっこうきにいっている,いまのいえは、けっこうきにいっている,第6週1日目-今の家は、けっこう気に入っている.wav,24200,10665.20,0,2.998,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,ものすごく/すごく,ものすごく/すごく,ものすごく すごく,第6週1日目-ものすごく_すごく.wav,24200,8741.59,0,1.493,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,足がものすごく痛い,あしがものすごくいたい,あしがものすごくいたい,第6週1日目-足がものすごく痛い.wav,24200,9787.18,0,1.811,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,めちゃくちゃ,めちゃくちゃ,めちゃくちゃ,第6週1日目-めちゃくちゃ.wav,24200,6911.08,0,0.960,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,めちゃくちゃ安い,めちゃくちゃやすい,めちゃくちゃやすい,第6週1日目-めちゃくちゃ安い.wav,24200,8257.29,0,1.314,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,順番がむちゃくちゃだ,じゅんばんがむちゃくちゃだ,じゅんばんがむちゃくちゃだ,第6週1日目-順番がむちゃくちゃだ.wav,24200,10084.67,0,1.698,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,事故で車がめちゃくちゃに壊れた,じこでくるまがめちゃくちゃにこわれた,じこでくるまがめちゃくちゃにこわれた,第6週1日目-事故で車がめちゃくちゃに壊れた.wav,24200,10358.29,0,2.532,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,ぜひ,ぜひ,ぜひ,第6週1日目-ぜひ.wav,23771,4916.11,0,0.611,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,ぜひ、お越しください,ぜひ、おこしください,ぜひ、おこしください,第6週1日目-ぜひ、お越しください.wav,24200,6510.68,0,2.086,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,ぜひとも,ぜひとも,ぜひとも,第6週1日目-ぜひとも.wav,24200,6577.97,0,0.848,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,どうか,どうか,どうか,第6週1日目-どうか.wav,24200,8208.32,0,0.752,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,どうか、お願いします,どうか、おねがいします,どうか、おねがいします,第6週1日目-どうか、お願いします.wav,24200,8621.82,0,2.294,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,まず,まず,まず,第6週1日目-まず.wav,24200,4997.48,0,0.644,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,帰ったら、まず(=最初に)お風呂に入る,かえったら、まず(=さいしょに)おふろにはいる,かえったら、まず =さいしょに おふろにはいる,第6週1日目-帰ったら、まず(=最初に)お風呂に入る.wav,24200,9805.57,0,3.231,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,とにかく/ともかく,とにかく/ともかく,とにかく ともかく,第6週1日目-とにかく_ともかく.wav,24200,7593.03,0,1.485,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,言い訳などしないで、とにかく勉強しなさい,いいわけなどしないで、とにかくべんきょうしなさい,いいわけなどしないで、とにかくべんきょうしなさい,第6週1日目-言い訳などしないで、とにかく勉強しなさい.wav,24200,10117.99,0,3.688,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,一度に/いっぺんに,いちどに/いっぺんに,いちどに いっぺんに,第6週1日目-一度に_いっぺんに.wav,24200,8852.58,0,1.395,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,一度に花が咲く,いちどにはながさく,いちどにはながさく,第6週1日目-一度に花が咲く.wav,24200,9069.29,0,1.661,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,たまった宿題をいっぺんに片付ける,たまったしゅくだいをいっぺんにかたづける,たまったしゅくだいをいっぺんにかたづける,第6週1日目-たまった宿題をいっぺんに片付ける.wav,24200,10617.92,0,2.699,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,1日目,いっぺんに疲れが出た,いっぺんにつかれがでた,いっぺんにつかれがでた,第6週1日目-いっぺんに疲れが出た.wav,24200,9756.64,0,1.682,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,うっかり(する),うっかり(する),うっかり する,第6週2日目-うっかり(する).wav,24200,7739.42,0,1.064,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,宿題をうっかり忘れる,しゅくだいをうっかりわすれる,しゅくだいをうっかりわすれる,第6週2日目-宿題をうっかり忘れる.wav,24200,10812.32,0,1.986,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,うっかりする,うっかりする,うっかりする,第6週2日目-うっかりする.wav,24200,7739.42,0,1.064,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,すっかり,すっかり,すっかり,第6週2日目-すっかり.wav,24200,3470.36,0,0.832,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,すっかり忘れた,すっかりわすれた,すっかりわすれた,第6週2日目-すっかり忘れた.wav,24200,7582.69,0,1.434,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,がっかり(する),がっかり(する),がっかり する,第6週2日目-がっかり(する).wav,24200,7164.03,0,1.138,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,試験に落ちてがっかりする,しけんにおちてがっかりする,しけんにおちてがっかりする,第6週2日目-試験に落ちてがっかりする.wav,24200,8901.47,0,1.998,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,やはり/やっぱり,やはり/やっぱり,やはり やっぱり,第6週2日目-やはり_やっぱり.wav,24200,7992.65,0,1.224,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,やっぱり思ったとおりだ,やっぱりおもったとおりだ,やっぱりおもったとおりだ,第6週2日目-やっぱり思ったとおりだ.wav,24200,10179.41,0,1.778,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,18歳といってもやはりまだ子どもだ,18としといってもやはりまだこどもだ,18としといってもやはりまだこどもだ,第6週2日目-18歳といってもやはりまだ子どもだ.wav,24200,10391.81,0,2.942,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,しっかり(する),しっかり(する),しっかり する,第6週2日目-しっかり(する).wav,24200,6023.08,0,1.153,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,しっかりした子ども,しっかりしたこども,しっかりしたこども,第6週2日目-しっかりした子ども.wav,24200,6842.66,0,1.530,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,しっかりしろ!,しっかりしろ!,しっかりしろ!,第6週2日目-しっかりしろ!.wav,24200,6495.92,0,1.204,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,すっきり(する),すっきり(する),すっきり する,第6週2日目-すっきり(する).wav,23812,4948.97,0,1.154,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,部屋がすっきりする,へやがすっきりする,へやがすっきりする,第6週2日目-部屋がすっきりする.wav,24200,8828.85,0,1.548,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,気分がすっきりする,きぶんがすっきりする,きぶんがすっきりする,第6週2日目-気分がすっきりする.wav,24200,8544.77,0,1.634,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,さっぱり(する),さっぱり(する),さっぱり する,第6週2日目-さっぱり(する).wav,24200,7380.52,0,1.150,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,風呂に入ってさっぱりする,ふろにはいってさっぱりする,ふろにはいってさっぱりする,第6週2日目-風呂に入ってさっぱりする.wav,24200,9130.50,0,1.970,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,この問題はさっぱりわからない,このもんだいはさっぱりわからない,このもんだいはさっぱりわからない,第6週2日目-この問題はさっぱりわからない.wav,24200,11696.58,0,2.370,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,ぐっすり,ぐっすり,ぐっすり,第6週2日目-ぐっすり.wav,24200,5708.39,0,0.817,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,ぐっすり眠る,ぐっすりねむる,ぐっすりねむる,第6週2日目-ぐっすり眠る.wav,24200,8523.75,0,1.236,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,にっこり(する)/にこにこ(する)/にっこり笑う/にこにこ笑う/ほほえむ,にっこり(する)/にこにこ(する)/にっこりわらう/にこにこわらう/ほほえむ,にっこり する にこにこ する にっこりわらう にこにこわらう ほほえむ,第6週2日目-にっこり(する)_にこにこ(する)_にっこり笑う_にこにこ笑う_ほほえむ.wav,24200,10851.53,0,4.310,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,そっくり,そっくり,そっくり,第6週2日目-そっくり.wav,24200,5267.92,0,0.842,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,あの親子はそっくりだ,あのおやこはそっくりだ,あのおやこはそっくりだ,第6週2日目-あの親子はそっくりだ.wav,24200,10432.43,0,1.778,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,はっきり(する),はっきり(する),はっきり する,第6週2日目-はっきり(する).wav,24200,5805.29,0,1.073,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,山がはっきり見える,やまがはっきりみえる,やまがはっきりみえる,第6週2日目-山がはっきり見える.wav,24200,9996.18,0,1.680,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,ぼんやり,ぼんやり,ぼんやり,第6週2日目-ぼんやり.wav,24200,9880.50,0,0.826,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,のんびり(する),のんびり(する),のんびり する,第6週2日目-のんびり(する).wav,24200,9156.87,0,1.111,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,のんびり過ごす,のんびりすごす,のんびりすごす,第6週2日目-のんびり過ごす.wav,24200,9422.11,0,1.357,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,のんびりする,のんびりする,のんびりする,第6週2日目-のんびりする.wav,24200,9156.87,0,1.111,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,きちんと(する)/ちゃんと(する),きちんと(する)/ちゃんと(する),きちんと する ちゃんと する,第6週2日目-きちんと(する)_ちゃんと(する).wav,24200,7768.86,0,1.807,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,"洋服をきちんと, ちゃんとたたむ","ようふくをきちんと, ちゃんとたたむ",ようふくをきちんと ちゃんとたたむ,第6週2日目-洋服をきちんと・ ちゃんとたたむ.wav,24200,9491.58,0,2.246,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,"態度をきちんと, ちゃんとする","たいどをきちんと, ちゃんとする",たいどをきちんと ちゃんとする,第6週2日目-態度をきちんと・ ちゃんとする.wav,24200,9089.80,0,1.997,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,ふと,ふと,ふと,第6週2日目-ふと.wav,24200,3113.90,0,0.605,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,ふと思い出す,ふとおもいだす,ふとおもいだす,第6週2日目-ふと思い出す.wav,24200,8775.96,0,1.304,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,わざと,わざと,わざと,第6週2日目-わざと.wav,24200,6697.92,0,0.814,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,わざと負ける,わざとまける,わざとまける,第6週2日目-わざと負ける.wav,24200,8931.40,0,1.248,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,ほっと(する),ほっと(する),ほっと する,第6週2日目-ほっと(する).wav,24200,5438.27,0,0.983,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,母の病気が治ってほっとした,ははのびょうきがなおってほっとした,ははのびょうきがなおってほっとした,第6週2日目-母の病気が治ってほっとした.wav,24200,10068.11,0,2.421,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,じっと(する),じっと(する),じっと する,第6週2日目-じっと(する).wav,24200,4914.08,0,0.981,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,じっとがまんする,じっとがまんする,じっとがまんする,第6週2日目-じっとがまんする.wav,24200,8410.43,0,1.398,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,じっと見る,じっとみる,じっとみる,第6週2日目-じっと見る.wav,24200,6704.13,0,0.926,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,ざっと,ざっと,ざっと,第6週2日目-ざっと.wav,24200,5113.44,0,0.815,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,ざっと掃除する,ざっとそうじする,ざっとそうじする,第6週2日目-ざっと掃除する.wav,24200,8790.46,0,1.457,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,そっと(する),そっと(する),そっと する,第6週2日目-そっと(する).wav,24200,5749.16,0,1.074,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,2日目,そっと近づく,そっとちかづく,そっとちかづく,第6週2日目-そっと近づく.wav,24200,6653.42,0,1.410,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,どきどき(する),どきどき(する),どきどき する,第6週3日目-どきどき(する).wav,24200,6297.19,0,1.208,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,胸がどきどきする,むねがどきどきする,むねがどきどきする,第6週3日目-胸がどきどきする.wav,24200,9150.69,0,1.550,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,面接でどきどきする,めんせつでどきどきする,めんせつでどきどきする,第6週3日目-面接でどきどきする.wav,24200,8892.07,0,1.853,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,いらいら(する),いらいら(する),いらいら する,第6週3日目-いらいら(する).wav,24200,9317.43,0,1.111,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,渋滞でいらいらする,じゅうたいでいらいらする,じゅうたいでいらいらする,第6週3日目-渋滞でいらいらする.wav,24200,11707.34,0,1.677,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,はきはき(する),はきはき(する),はきはき する,第6週3日目-はきはき(する).wav,24200,5318.24,0,1.205,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,はきはき(と)答える,はきはき(と)こたえる,はきはき と こたえる,第6週3日目-はきはき(と)答える.wav,24200,7271.59,0,1.649,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,彼女ははきはきして感じがいい,かのじょははきはきしてかんじがいい,かのじょははきはきしてかんじがいい,第6週3日目-彼女ははきはきして感じがいい.wav,24200,9930.16,0,2.543,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,ぶつぶつ,ぶつぶつ,ぶつぶつ,第6週3日目-ぶつぶつ.wav,24200,5926.78,0,0.994,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,ぶつぶつ文句を言う,ぶつぶつもんくをいう,ぶつぶつもんくをいう,第6週3日目-ぶつぶつ文句を言う.wav,24200,10070.42,0,1.655,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,彼は何かぶつぶつ言っている,かれはなにかぶつぶついっている,かれはなにかぶつぶついっている,第6週3日目-彼は何かぶつぶつ言っている.wav,24200,10395.29,0,2.329,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,うろうろ(する),うろうろ(する),うろうろ する,第6週3日目-うろうろ(する).wav,24200,9478.50,0,1.067,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,変な男がうろうろしている,へんなおとこがうろうろしている,へんなおとこがうろうろしている,第6週3日目-変な男がうろうろしている.wav,24200,11382.71,0,2.102,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,ぶらぶら(する),ぶらぶら(する),ぶらぶら する,第6週3日目-ぶらぶら(する).wav,24200,8458.20,0,1.111,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,街をぶらぶらする,まちをぶらぶらする,まちをぶらぶらする,第6週3日目-街をぶらぶらする.wav,24200,9448.68,0,1.518,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,(物が)ぶらぶらゆれる,(ものが)ぶらぶらゆれる,ものが ぶらぶらゆれる,第6週3日目-(物が)ぶらぶらゆれる.wav,24200,11887.27,0,1.675,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,ぎりぎり,ぎりぎり,ぎりぎり,第6週3日目-ぎりぎり.wav,24200,6647.40,0,0.828,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,ぎりぎりで最終電車に間に合った,ぎりぎりでさいしゅうでんしゃにまにあった,ぎりぎりでさいしゅうでんしゃにまにあった,第6週3日目-ぎりぎりで最終電車に間に合った.wav,24200,11022.76,0,2.698,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,締め切りぎりぎりに願書を出した,しめきりぎりぎりにがんしょをだした,しめきりぎりぎりにがんしょをだした,第6週3日目-締め切りぎりぎりに願書を出した.wav,24200,10303.93,0,2.471,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,ぴかぴか,ぴかぴか,ぴかぴか,第6週3日目-ぴかぴか.wav,24200,3613.89,0,0.897,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,靴をぴかぴかにみがく,くつをぴかぴかにみがく,くつをぴかぴかにみがく,第6週3日目-靴をぴかぴかにみがく.wav,24200,7804.59,0,1.934,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,のろのろ,のろのろ,のろのろ,第6週3日目-のろのろ.wav,24200,9142.80,0,0.816,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,電車がのろのろ走っている,でんしゃがのろのろはしっている,でんしゃがのろのろはしっている,第6週3日目-電車がのろのろ走っている.wav,24200,10632.56,0,2.119,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,ぺらぺら,ぺらぺら,ぺらぺら,第6週3日目-ぺらぺら.wav,24200,7452.81,0,0.867,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,秘密をぺらぺらしゃべる,ひみつをぺらぺらしゃべる,ひみつをぺらぺらしゃべる,第6週3日目-秘密をぺらぺらしゃべる.wav,24200,10065.25,0,1.853,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,田中さんは英語がぺらぺらだ,たなかさんはえいごがぺらぺらだ,たなかさんはえいごがぺらぺらだ,第6週3日目-田中さんは英語がぺらぺらだ.wav,24200,11085.63,0,2.263,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,ぺらぺらの紙,ぺらぺらのかみ,ぺらぺらのかみ,第6週3日目-ぺらぺらの紙.wav,24200,11309.70,0,1.300,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,ぺこぺこ,ぺこぺこ,ぺこぺこ,第6週3日目-ぺこぺこ.wav,24200,6608.74,0,0.954,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,おなかがぺこぺこだ,おなかがぺこぺこだ,おなかがぺこぺこだ,第6週3日目-おなかがぺこぺこだ.wav,24200,9639.10,0,1.535,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,ますます(する),ますます(する),ますます する,第6週3日目-ますます(する).wav,24200,6517.16,0,1.200,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,物価はますます上がるだろう,ぶっかはますますあがるだろう,ぶっかはますますあがるだろう,第6週3日目-物価はますます上がるだろう.wav,24200,10078.68,0,2.124,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,だんだん,だんだん,だんだん,第6週3日目-だんだん.wav,24200,7257.56,0,0.817,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,だんだん寒くなりますね,だんだんさむくなりますね,だんだんさむくなりますね,第6週3日目-だんだん寒くなりますね.wav,24200,10644.98,0,1.831,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,どんどん,どんどん,どんどん,第6週3日目-どんどん.wav,24200,8024.15,0,0.790,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,彼の日本語はどんどん上達している,かのにほんごはどんどんじょうたつしている,かのにほんごはどんどんじょうたつしている,第6週3日目-彼の日本語はどんどん上達している.wav,24200,11439.68,0,2.760,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,その他(そのた),そのほか(そのた),そのほか そのた,第6週3日目-その他(そのた).wav,24200,8741.61,0,1.394,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,そろそろ,そろそろ,そろそろ,第6週3日目-そろそろ.wav,24200,7806.98,0,0.929,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,そろそろ始めましょう,そろそろはじめましょう,そろそろはじめましょう,第6週3日目-そろそろ始めましょう.wav,24200,9234.03,0,1.752,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,もともと,もともと,もともと,第6週3日目-もともと.wav,24200,6846.50,0,0.888,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,彼はもともと気の弱い人だった,かれはもともときのよわいひとだった,かれはもともときのよわいひとだった,第6週3日目-彼はもともと気の弱い人だった.wav,24200,11631.40,0,2.642,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,この時計はもともと安かったからこわれても仕方がない,このとけいはもともとやすかったからこわれてもしかたがない,このとけいはもともとやすかったからこわれてもしかたがない,第6週3日目-この時計はもともと安かったからこわれても仕方がない.wav,24200,10916.46,0,4.078,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,たまたま,たまたま,たまたま,第6週3日目-たまたま.wav,24200,7558.55,0,0.877,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,たまたま友人に会った,たまたまゆうじんにあった,たまたまゆうじんにあった,第6週3日目-たまたま友人に会った.wav,24200,11033.97,0,1.930,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,まあまあ,まあまあ,まあまあ,第6週3日目-まあまあ.wav,24200,7617.30,0,0.845,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,試験の結果はまあまあだった,しけんのけっかはまあまあだった,しけんのけっかはまあまあだった,第6週3日目-試験の結果はまあまあだった.wav,24200,9621.69,0,2.311,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,さまざま,さまざま,さまざま,第6週3日目-さまざま.wav,24200,7460.87,0,0.919,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,3日目,さまざまな商品,さまざまなしょうひん,さまざまなしょうひん,第6週3日目-さまざまな商品.wav,24200,10232.36,0,1.609,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,理想の人に出会う,りそうのひとにであう,りそうのひとにであう,第6週4日目-理想の人に出会う.wav,24200,10541.05,0,1.614,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,出会い,であい,であい,第6週4日目-出会い.wav,24200,6910.24,0,0.688,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,客を出迎える,きゃくをでむかえる,きゃくをでむかえる,第6週4日目-客を出迎える.wav,24200,9879.37,0,1.414,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,出迎え,でむかえ,でむかえ,第6週4日目-出迎え.wav,24200,8028.40,0,0.886,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,見送る,みおくる,みおくる,第6週4日目-見送る.wav,24200,7931.41,0,0.825,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,見送り,みおくり,みおくり,第6週4日目-見送り.wav,24200,7748.59,0,0.825,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,空を見上げる,そらをみあげる,そらをみあげる,第6週4日目-空を見上げる.wav,24200,9929.18,0,1.266,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,通りを見下ろす,とうりをみおろす,とうりをみおろす,第6週4日目-通りを見下ろす.wav,24200,10674.66,0,1.462,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,急に立ち止まる,きゅうにたちとまる,きゅうにたちとまる,第6週4日目-急に立ち止まる.wav,24200,9078.42,0,1.398,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,ソファーから立ち上がる,ソファーからたちあがる,ソファーからたちあがる,第6週4日目-ソファーから立ち上がる.wav,24200,8752.65,0,1.658,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,寺の前を通りかかる,てらのまえをとうりかかる,てらのまえをとうりかかる,第6週4日目-寺の前を通りかかる.wav,24200,11953.34,0,1.800,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,郵便局を通り過ぎる,ゆうびんきょくをとうりすぎる,ゆうびんきょくをとうりすぎる,第6週4日目-郵便局を通り過ぎる.wav,24200,11293.44,0,1.896,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,隣の人に話しかける,となりのひとにはなしかける,となりのひとにはなしかける,第6週4日目-隣の人に話しかける.wav,24200,9743.54,0,2.033,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,田中さんと話し合う,たなかさんとはなしあう,たなかさんとはなしあう,第6週4日目-田中さんと話し合う.wav,24200,9473.92,0,1.853,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,話し合い,はなしあい,はなしあい,第6週4日目-話し合い.wav,24200,7599.11,0,0.931,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,中村さんと知り合う,なかむらさんとしりあう,なかむらさんとしりあう,第6週4日目-中村さんと知り合う.wav,24200,10478.01,0,1.799,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,知り合い,しりあい,しりあい,第6週4日目-知り合い.wav,24200,6446.89,0,0.840,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,駅で待ち合わせる,えきでまちあわせる,えきでまちあわせる,第6週4日目-駅で待ち合わせる.wav,24200,9133.89,0,1.511,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,待ち合わせ,まちあわせ,まちあわせ,第6週4日目-待ち合わせ.wav,24200,7922.97,0,1.070,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,電話で問い合わせる,でんわでといあわせる,でんわでといあわせる,第6週4日目-電話で問い合わせる.wav,24200,11064.20,0,1.633,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,問い合わせ,といあわせ,といあわせ,第6週4日目-問い合わせ.wav,24200,9441.28,0,0.979,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,旅行会社に申し込む,りょこうがいしゃにもうしこむ,りょこうがいしゃにもうしこむ,第6週4日目-旅行会社に申し込む.wav,24200,10590.74,0,1.918,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,申し込み,もうしこみ,もうしこみ,第6週4日目-申し込み.wav,24200,8397.57,0,0.978,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,申し込みを締め切る,もうしこみをしめきる,もうしこみをしめきる,第6週4日目-申し込みを締め切る.wav,24200,10188.98,0,1.661,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,締め切り,しめきり,しめきり,第6週4日目-締め切り.wav,24200,6206.88,0,0.860,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,申し込みを受け付ける,もうしこみをうけつける,もうしこみをうけつける,第6週4日目-申し込みを受け付ける.wav,24200,10571.36,0,1.717,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,受付,うけつけ,うけつけ,第6週4日目-受付.wav,24200,6340.72,0,0.850,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,荷物を受け取る,にもつをうけとる,にもつをうけとる,第6週4日目-荷物を受け取る.wav,24200,10106.39,0,1.354,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,受け取り,うけとり,うけとり,第6週4日目-受け取り.wav,24200,7165.42,0,0.813,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,電池を取り替える,でんちをとりかえる,でんちをとりかえる,第6週4日目-電池を取り替える.wav,24200,10440.77,0,1.481,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,予約を取り消す,よやくをとりけす,よやくをとりけす,第6週4日目-予約を取り消す.wav,24200,10516.97,0,1.509,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,取り消し,とりけし,とりけし,第6週4日目-取り消し.wav,24200,6494.14,0,0.956,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,CDを取り出す,CDをとりだす,CDをとりだす,第6週4日目-CDを取り出す.wav,24200,9748.07,0,1.611,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,子どもが飛び出す,こどもがとびだす,こどもがとびだす,第6週4日目-子どもが飛び出す.wav,24200,9404.77,0,1.516,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,4日目,プールに飛び込む,ぷーるにとびこむ,ぷーるにとびこむ,第6週4日目-プールに飛び込む.wav,24200,9204.89,0,1.420,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,大学を出る,だいがくをでる,だいがくをでる,第6週5日目-大学を出る.wav,24200,11002.70,0,1.204,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,会議に出る,かいぎにでる,かいぎにでる,第6週5日目-会議に出る.wav,24200,8876.15,0,1.131,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,食事が出る,しょくじがでる,しょくじがでる,第6週5日目-食事が出る.wav,24200,8426.82,0,1.199,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,食事を出す,しょくじをだす,しょくじをだす,第6週5日目-食事を出す.wav,24200,8545.03,0,1.294,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,結論が出る,けつろんがでる,けつろんがでる,第6週5日目-結論が出る.wav,24200,9666.95,0,1.246,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,結論を出す,けつろんをだす,けつろんをだす,第6週5日目-結論を出す.wav,24200,8968.42,0,1.393,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,元気が出る,げんきがでる,げんきがでる,第6週5日目-元気が出る.wav,24200,9552.60,0,1.138,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,元気を出す,げんきをだす,げんきをだす,第6週5日目-元気を出す.wav,24200,9448.43,0,1.246,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,新製品が出る,しんせいひんがでる,しんせいひんがでる,第6週5日目-新製品が出る.wav,24200,9938.19,0,1.509,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,新製品を出す,しんせいひんをだす,しんせいひんをだす,第6週5日目-新製品を出す.wav,24200,9147.75,0,1.646,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,芽が出る,めがでる,めがでる,第6週5日目-芽が出る.wav,24200,9223.50,0,0.860,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,芽を出す,めをだす,めをだす,第6週5日目-芽を出す.wav,24200,8287.48,0,0.976,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,ボーナスが出る,ぼーなすがでる,ぼーなすがでる,第6週5日目-ボーナスが出る.wav,24200,9828.81,0,1.255,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,ボーナスを出す,ぼーなすをだす,ぼーなすをだす,第6週5日目-ボーナスを出す.wav,24200,9151.36,0,1.401,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,ゴキブリが出る,ごきぶりがでる,ごきぶりがでる,第6週5日目-ゴキブリが出る.wav,24200,9733.67,0,1.264,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,新聞に名前が出る,しんぶんになまえがでる,しんぶんになまえがでる,第6週5日目-新聞に名前が出る.wav,24200,11932.18,0,1.729,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,角を曲がると駅に出る,かくをまがるとえきにでる,かくをまがるとえきにでる,第6週5日目-角を曲がると駅に出る.wav,24200,10258.50,0,1.948,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,財布を取る,さいふをとる,さいふをとる,第6週5日目-財布を取る.wav,24200,10046.67,0,1.114,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,財布を取りに戻る,さいふをとりにもどる,さいふをとりにもどる,第6週5日目-財布を取りに戻る.wav,24200,10583.82,0,1.646,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,運転免許を取る,うんてんめんきょをとる,うんてんめんきょをとる,第6週5日目-運転免許を取る.wav,24200,11774.50,0,1.528,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,コピーを取る,こぴーをとる,こぴーをとる,第6週5日目-コピーを取る.wav,24200,9885.17,0,1.135,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,新聞を取る,しんぶんをとる,しんぶんをとる,第6週5日目-新聞を取る.wav,24200,10531.43,0,1.200,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,睡眠を取る,すいみんをとる,すいみんをとる,第6週5日目-睡眠を取る.wav,24200,10250.38,0,1.207,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,出席を取る,しゅっせきをとる,しゅっせきをとる,第6週5日目-出席を取る.wav,24200,8778.86,0,1.271,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,連絡を取る,れんらくをとる,れんらくをとる,第6週5日目-連絡を取る.wav,24200,11712.83,0,1.201,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,連絡が取れる,れんらくがとれる,れんらくがとれる,第6週5日目-連絡が取れる.wav,24200,10936.60,0,1.329,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,痛みを取る,いたみをとる,いたみをとる,第6週5日目-痛みを取る.wav,24200,10440.87,0,1.075,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,痛みが取れる,いたみがとれる,いたみがとれる,第6週5日目-痛みが取れる.wav,24200,9732.82,0,1.207,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,ボタンが取れる,ぼたんがとれる,ぼたんがとれる,第6週5日目-ボタンが取れる.wav,24200,9652.94,0,1.200,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,新入社員を採る,しんにゅうしゃいんをとる,しんにゅうしゃいんをとる,第6週5日目-新入社員を採る.wav,24200,11349.26,0,1.644,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,鍵がかかっている,かぎがかかっている,かぎがかかっている,第6週5日目-鍵がかかっている.wav,24200,7961.40,0,1.487,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,鍵をかける,かぎをかける,かぎをかける,第6週5日目-鍵をかける.wav,24200,8734.79,0,1.154,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,病気にかかる,びょうきにかかる,びょうきにかかる,第6週5日目-病気にかかる.wav,24200,9202.32,0,1.265,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,医者にかかる,いしゃにかかる,いしゃにかかる,第6週5日目-医者にかかる.wav,24200,7214.61,0,1.150,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,ボタンをかける,ぼたんをかける,ぼたんをかける,第6週5日目-ボタンをかける.wav,24200,8850.14,0,1.249,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,外す,はずす,はずす,第6週5日目-外す.wav,24200,4839.20,0,0.823,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,CDをかける,CDをかける,CDをかける,第6週5日目-CDをかける.wav,24200,9199.12,0,1.394,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,毛布をかける,もうふをかける,もうふをかける,第6週5日目-毛布をかける.wav,24200,9833.45,0,1.246,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,声をかける,こえをかける,こえをかける,第6週5日目-声をかける.wav,24200,9539.40,0,1.153,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,声がかかる,こえがかかる,こえがかかる,第6週5日目-声がかかる.wav,24200,8941.65,0,1.158,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,5日目,心配をかける,しんぱいをかける,しんぱいをかける,第6週5日目-心配をかける.wav,24200,9664.70,0,1.426,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,席を立つ,せきをたつ,せきをたつ,第6週6日目-席を立つ.wav,24200,7500.71,0,1.150,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,座る,すわる,すわる,第6週6日目-座る.wav,24200,5448.34,0,0.738,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,時間がたつ,じかんがたつ,じかんがたつ,第6週6日目-時間がたつ.wav,24200,8302.69,0,1.248,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,うわさが立つ,うわさがたつ,うわさがたつ,第6週6日目-うわさが立つ.wav,24200,9766.31,0,1.246,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,予定を立てる,よていをたてる,よていをたてる,第6週6日目-予定を立てる.wav,24200,11005.39,0,1.238,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,音を立てる,おとをたてる,おとをたてる,第6週6日目-音を立てる.wav,24200,8956.98,0,1.072,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,雨が上がる,あめがあがる,あめがあがる,第6週6日目-雨が上がる.wav,24200,9441.93,0,1.153,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,どうぞお上がり,どうぞおあがり,どうぞおあがり,第6週6日目-どうぞお上がり.wav,24200,10914.57,0,1.173,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,風呂から上がる,ふろからあがる,ふろからあがる,第6週6日目-風呂から上がる.wav,24200,9346.00,0,1.246,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,物価が上がる,ぶっかがあがる,ぶっかがあがる,第6週6日目-物価が上がる.wav,24200,8308.26,0,1.246,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,効果が上がる,こうかがあがる,こうかがあがる,第6週6日目-効果が上がる.wav,24200,9175.37,0,1.265,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,効果を上げる,こうかをあげる,こうかをあげる,第6週6日目-効果を上げる.wav,24200,9835.20,0,1.263,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,初めてのスピーチであがる,はじめてのすぴーちであがる,はじめてのすぴーちであがる,第6週6日目-初めてのスピーチであがる.wav,24200,9486.21,0,2.070,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,例をあげる,れいをあげる,れいをあげる,第6週6日目-例をあげる.wav,24200,10723.83,0,1.117,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,結婚式をあげる,けっこんしきをあげる,けっこんしきをあげる,第6週6日目-結婚式をあげる.wav,24200,8879.36,0,1.557,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,熱が下がる,ねつがさがる,ねつがさがる,第6週6日目-熱が下がる.wav,24200,8266.29,0,1.199,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,黄色い線の内側まで下がる,きいろいせんのうちがわまでさがる,きいろいせんのうちがわまでさがる,第6週6日目-黄色い線の内側まで下がる.wav,24200,11842.00,0,2.334,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,評判が下がる,ひょうばんがさがる,ひょうばんがさがる,第6週6日目-評判が下がる.wav,24200,10260.32,0,1.399,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,評判を下げる,ひょうばんをさげる,ひょうばんをさげる,第6週6日目-評判を下げる.wav,24200,10633.04,0,1.361,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,カーテンが下がる,かーてんがさがる,かーてんがさがる,第6週6日目-カーテンが下がる.wav,24200,9167.88,0,1.425,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,カーテンを下げる,かーてんをさげる,かーてんをさげる,第6週6日目-カーテンを下げる.wav,24200,9609.33,0,1.407,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,買い物かごを下げる,かいものかごをさげる,かいものかごをさげる,第6週6日目-買い物かごを下げる.wav,24200,11300.74,0,1.704,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,一字下げて書く,いちじさげてかく,いちじさげてかく,第6週6日目-一字下げて書く.wav,24200,7549.13,0,1.517,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,テレビの音を下げる,てれびのおとをさげる,てれびのおとをさげる,第6週6日目-テレビの音を下げる.wav,24200,11238.77,0,1.612,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,泥がつく,どろがつく,どろがつく,第6週6日目-泥がつく.wav,24200,9166.37,0,1.111,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,傷がつく,きずがつく,きずがつく,第6週6日目-傷がつく.wav,24200,6733.24,0,1.072,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,傷をつける,きずをつける,きずをつける,第6週6日目-傷をつける.wav,24200,8110.94,0,1.154,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,連絡がつく,れんらくがつく,れんらくがつく,第6週6日目-連絡がつく.wav,24200,10084.84,0,1.298,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,連絡をつける,れんらくをつける,れんらくをつける,第6週6日目-連絡をつける.wav,24200,10612.79,0,1.409,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,都合がつく,つごうがつく,つごうがつく,第6週6日目-都合がつく.wav,24200,8802.47,0,1.235,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,都合をつける,つごうをつける,つごうをつける,第6週6日目-都合をつける.wav,24200,9979.75,0,1.303,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,おまけがつく,おまけがつく,おまけがつく,第6週6日目-おまけがつく.wav,24200,9454.95,0,1.207,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,おまけをつける,おまけをつける,おまけをつける,第6週6日目-おまけをつける.wav,24200,10166.46,0,1.273,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,印をつける,いんをつける,いんをつける,第6週6日目-印をつける.wav,24200,7649.43,0,1.116,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,たばこに火をつける,たばこにひをつける,たばこにひをつける,第6週6日目-たばこに火をつける.wav,24200,9471.48,0,1.610,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,火がつく,ひがつく,ひがつく,第6週6日目-火がつく.wav,24200,6183.65,0,0.957,ffmpeg: gain + limiter + loudnorm + resample to 48k
+goi,第6週,6日目,日記をつける,にっきをつける,にっきをつける,第6週6日目-日記をつける.wav,24200,7822.01,0,1.245,ffmpeg: gain + limiter + loudnorm + resample to 48k
