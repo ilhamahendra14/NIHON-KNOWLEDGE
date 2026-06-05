@@ -1,22 +1,7 @@
 {
   "version": "2026.06.05",
-  "last_updated": "2026-06-05T16:19:36.302154Z",
+  "last_updated": "2026-06-05T16:40:33.638892Z",
   "files": {
-    "ALL - BUNPO N3.csv": {
-      "sha256": "77b57d4593564c0a60697353486db09e8f3b822a2699249ef376a195459d342e",
-      "size": 40441,
-      "url": "https://github.com/ilhamahendra14/NIHON-KNOWLEDGE/raw/main/KNOWLEDGE/ALL - BUNPO N3.csv"
-    },
-    "ALL - BUNPO N3.json": {
-      "sha256": "475a842c087a28d8e4343e03994b211d9d15ec7864409361cffe5c18d13d5140",
-      "size": 74130,
-      "url": "https://github.com/ilhamahendra14/NIHON-KNOWLEDGE/raw/main/KNOWLEDGE/ALL - BUNPO N3.json"
-    },
-    "ALL - BUNPO N3.xlsx": {
-      "sha256": "01fb64ef76478bb9818985258744ca2d7ab39befedac34b911edbd85574d00d8",
-      "size": 40317,
-      "url": "https://github.com/ilhamahendra14/NIHON-KNOWLEDGE/raw/main/KNOWLEDGE/ALL - BUNPO N3.xlsx"
-    },
     "ALL - KANJI N3.csv": {
       "sha256": "815a6afc68678c7e944b3fa60dc8a03b65c36cb57ff3d71ac65a65649f5efbc6",
       "size": 73337,
@@ -32,26 +17,6 @@
       "size": 51965,
       "url": "https://github.com/ilhamahendra14/NIHON-KNOWLEDGE/raw/main/KNOWLEDGE/ALL - SENMON YOUGO.csv"
     },
-    "build_kakikata_assets.py": {
-      "sha256": "4a6772b7f333de82079fff3e646d0eefb0e71ade68b6d5b6ff2d2916f784082c",
-      "size": 15132,
-      "url": "https://github.com/ilhamahendra14/NIHON-KNOWLEDGE/raw/main/KNOWLEDGE/build_kakikata_assets.py"
-    },
-    "extract_to_csv.py": {
-      "sha256": "2b563e6041d58f74315e20b5217308eafe7a935252837bb0af12ade307c199e4",
-      "size": 3712,
-      "url": "https://github.com/ilhamahendra14/NIHON-KNOWLEDGE/raw/main/KNOWLEDGE/extract_to_csv.py"
-    },
-    "generate_audio_high_quality.py": {
-      "sha256": "9a1c7a639edee82c0a0b773a6eeb954de431c9bfec75da2f141a3124d2b11789",
-      "size": 16802,
-      "url": "https://github.com/ilhamahendra14/NIHON-KNOWLEDGE/raw/main/KNOWLEDGE/generate_audio_high_quality.py"
-    },
-    "generate_audio_manifest.py": {
-      "sha256": "9ff720b8064aa9326e922dd7a2c24df85b3a89472184d9ff75f568eda8a22316",
-      "size": 13348,
-      "url": "https://github.com/ilhamahendra14/NIHON-KNOWLEDGE/raw/main/KNOWLEDGE/generate_audio_manifest.py"
-    },
     "Audio/goi_manifest.csv": {
       "sha256": "d5ebb23321a775ecdc35f0815c65085f435b7daa64f39eb5be526f4bd151e27b",
       "size": 234861,
@@ -66,11 +31,6 @@
       "sha256": "019dc7c8ec9997186ec55311f1d79c41b854fbe08125470c2a263fe453e67c92",
       "size": 72586,
       "url": "https://github.com/ilhamahendra14/NIHON-KNOWLEDGE/raw/main/KNOWLEDGE/Audio/senmon_manifest.csv"
-    },
-    "__pycache__/generate_audio_manifest.cpython-313.pyc": {
-      "sha256": "29d09478925af5bd522fd8d43c581764a179a4e22c165d027097f5bc4e184766",
-      "size": 11910,
-      "url": "https://github.com/ilhamahendra14/NIHON-KNOWLEDGE/raw/main/KNOWLEDGE/__pycache__/generate_audio_manifest.cpython-313.pyc"
     },
     "\u66f8\u304d\u65b9_GIF/ALL/\u4e00.gif": {
       "sha256": "f53d106b02c3b152e53cadc8a6657cd2328291a70d3ac6eb2d1e56326839f1e2",
