@@ -97,8 +97,16 @@ def generate_manifest(knowledge_dir: Path, repo_url: str, branch: str = "main") 
             sha256 = compute_sha256(file_path)
             size = file_path.stat().st_size
             
-            # Construct raw GitHub URL
-            raw_url = f"{repo_url.rstrip('/')}/raw/{branch}/KNOWLEDGE/{rel_path}"
+            # Construct raw GitHub URL (raw.githubusercontent.com)
+            # Format: https://raw.githubusercontent.com/USER/REPO/BRANCH/KNOWLEDGE/path/to/file
+            repo_parts = repo_url.rstrip("/").split("/")
+            if len(repo_parts) >= 2:
+                user = repo_parts[-2]
+                repo = repo_parts[-1]
+                raw_url = f"https://raw.githubusercontent.com/{user}/{repo}/{branch}/KNOWLEDGE/{rel_path}"
+            else:
+                # Fallback if repo_url is weird
+                raw_url = f"{repo_url.rstrip('/')}/raw/{branch}/KNOWLEDGE/{rel_path}"
             
             files[rel_path] = {
                 "sha256": sha256,
