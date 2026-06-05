@@ -49,6 +49,23 @@ def get_git_remote_url() -> str | None:
      return None
 
 
+def get_git_branch() -> str:
+     """Auto-detect current git branch name, default to master."""
+     try:
+         result = subprocess.run(
+             ["git", "rev-parse", "--abbrev-ref", "HEAD"],
+             capture_output=True,
+             text=True,
+             timeout=5
+         )
+         if result.returncode == 0:
+             branch = result.stdout.strip()
+             return branch if branch else "master"
+     except Exception:
+         pass
+     return "master"
+
+
 def generate_manifest(knowledge_dir: Path, repo_url: str, branch: str = "main") -> dict:
     """
     Generate manifest by scanning all files in knowledge_dir.
@@ -103,7 +120,7 @@ def generate_manifest(knowledge_dir: Path, repo_url: str, branch: str = "main") 
 def main():
      parser = argparse.ArgumentParser(
          description="Generate manifest.json for Knowledge files",
-         epilog="If --repo-url is not provided, it will auto-detect from git remote."
+         epilog="Auto-detects repository URL and branch from git config."
      )
      parser.add_argument("--knowledge-dir", type=Path, default=Path("./KNOWLEDGE"),
                         help="Path to KNOWLEDGE directory (default: ./KNOWLEDGE)")
@@ -111,8 +128,8 @@ def main():
                         help="Output manifest.json path (default: KNOWLEDGE/manifest.json)")
      parser.add_argument("--repo-url", type=str, default=None,
                         help="GitHub repository URL (optional, auto-detects from git)")
-     parser.add_argument("--branch", type=str, default="main",
-                        help="Git branch name (default: main)")
+     parser.add_argument("--branch", type=str, default=None,
+                        help="Git branch name (optional, auto-detects current branch, defaults to master)")
 
      args = parser.parse_args()
 
@@ -128,17 +145,22 @@ def main():
              print("Please provide --repo-url or ensure you're in a git repository.")
              exit(1)
 
+     # Auto-detect branch if not provided
+     branch = args.branch or get_git_branch()
+     print(f"🔍 Using branch: {branch}")
+
      # Auto-set output path to KNOWLEDGE/manifest.json if not provided
      if args.output is None:
          args.output = args.knowledge_dir / "manifest.json"
 
      print(f"📋 Generating manifest for: {args.knowledge_dir}")
      print(f"📍 Repository: {repo_url}")
+     print(f"🌿 Branch: {branch}")
      print(f"📂 Output: {args.output}")
      print()
 
      try:
-         manifest = generate_manifest(args.knowledge_dir, repo_url, args.branch)
+         manifest = generate_manifest(args.knowledge_dir, repo_url, branch)
          
          # Save manifest
          args.output.parent.mkdir(parents=True, exist_ok=True)
@@ -153,10 +175,10 @@ def main():
          print()
          print("📝 Next steps:")
          print("  1. Commit manifest.json to git")
-         print("  2. Push to GitHub: git push origin main")
+         print("  2. Push to GitHub: git push origin " + branch)
          print()
          print("Manifest URL:")
-         print(f"  {repo_url}/raw/{args.branch}/KNOWLEDGE/manifest.json")
+         print(f"  {repo_url}/raw/{branch}/KNOWLEDGE/manifest.json")
          
      except Exception as e:
          print(f"❌ Error: {e}")
