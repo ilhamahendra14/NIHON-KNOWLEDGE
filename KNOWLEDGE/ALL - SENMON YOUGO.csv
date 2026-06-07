@@ -438,15 +438,31 @@
 封水;Fūsui;ふうすい;Air Penutup, Air Penahan, Air Sifon;71;封:ふう|水:すい
 缶;Kan;かん;Kaleng, Tabung, Drum;71;缶:かん
 
+及び;Oyobi;および;Dan, Serta, Juga;73;及:およ
+支障;Shishō;ししょう;Gangguan, Hambatan, Masalah;73;支:し|障:しょう
 物質;Busshitsu;ぶっしつ;Zat, Bahan, Material;73;物:ぶっ|質:しつ
 除去;Jokyo;じょきょ;Penghapusan, Pembuangan, Penyingkiran;73;除:じょ|去:きょ
+調理;Chōri;ちょうり;Memasak, Memasak Makanan;73;調:ちょう|理:り
 有害;Yūgai;ゆうがい;Berbahaya, Merugikan, Beracun;73;有:ゆう|害:がい
 油脂;Yushi;ゆし;Lemak, Minyak, Lipid;73;油:ゆ|脂:し
+排出する;Haishutsu suru;はいしゅつする;Mengeluarkan, Membuang, Menghasilkan;73;排:はい|出:しゅつ
+内面;Naimen;ないめん;Bagian Dalam, Permukaan Dalam, Interior;73;内:ない|面:めん
+べたべた;Betabeta;べたべた;Lengket, Lembab, Basah;73;
+張り付き;Haritsuki;はりつき;Menempel, Melekat, Tertempel;73;張:はり|付き:つき
+分離する;Bunri suru;ぶんりする;Memisahkan, Memecah, Mengisolasi;73;分:ぶん|離:り
+収集する;Shūshū suru;しゅうしゅうする;Mengumpulkan, Mengoleksi, Menyimpan;73;収:しゅう|集:しゅう
+構造;Kōzō;こうぞう;Struktur, Konstruksi, Susunan;73;構:こう|造:ぞう
+維持する;Iji suru;いじする;Memelihara, Menjaga, Mempertahankan;73;維:い|持:じ
+状況;Jōkyō;じょうきょう;Situasi, Kondisi, Keadaan;73;状:じょう|況:きょう
+ストレーナー;Sutorēnā;ストレーナー;Saringan, Filter, Penyaring;73;
 缶詰まり;Kandzumari;かんづまり;Penyumbatan, Tersumbat, Tersendat;73;缶:かん|詰:づまり
 溜まった;Tamatta;たまった;Terkumpul, Terakumulasi, Tersimpan;73;溜:たま
+柄杓;Hishaku;ひしゃく;Gayung, Sendok Air, Cerek Air;73;柄:ひ|杓:しゃく
 細菌;Saikin;さいきん;Bakteri, Kuman, Mikroorganisme;73;細:さい|菌:きん
 繫殖;Hanshoku;はんしょく;Perkembangbiakan, Reproduksi, Pertumbuhan;73;繫:はん|殖:しょく
 温湯源;Ontōgen;おんとうげん;Sumber Air Panas, Sumber Air Hangat;73;温:おん|湯:とう|源:げん
+衛生的;Eiseiteki;えいせいてき;Higienis, Sanitasi, Bersih;73;衛:えい|生:せい|的:てき
+管理;Kanri;かんり;Manajemen, Pengelolaan, Pengawasan;73;管:かん|理:り
 水面;Suimen;すいめん;Permukaan Air, Permukaan Laut, Permukaan Kolam;73;水:すい|面:めん
 浮上;Fujō;ふじょう;Mengapung, Terapung, Muncul ke Permukaan;73;浮:ふ|上:じょう
 捕獲;Hokaku;ほかく;Penangkapan, Penangkap, Penangkaran;73;捕:ほ|獲:かく
@@ -481,38 +497,52 @@
 煙室;Enshitsu;えんしつ;Ruang Asap, Ruang Pembakaran, Ruang Bakar;75;煙:えん|室:しつ
 
 吸収式冷温水発生機;Kyūshū-shiki Reionsui Hasseiki;きゅうしゅうしきれいおんすいはっせいき;Mesin Pembuat Air Dingin dan Panas Tipe Absorpsi, Mesin Pembuat Air Dingin dan Panas dengan Sistem Absorpsi;77;吸:きゅう|収:しゅう|式:しき|冷:れい|温:おん|水:すい|発:はっ|生:せい|機:き
+工場;Kōjō;こうじょう;Pabrik, Industri, Tempat Kerja;77;工:こう|場:じょう
+公共施設;Kōkyō Shisetsu;こうきょうしせつ;Fasilitas Umum, Fasilitas Publik;77;公:こう|共:きょう|施:し|設:せつ
 百貨店;Hyakkaten;ひゃっかてん;Toko Serba Ada, Department Store;77;百:ひゃく|貨:か|店:てん
+空調する;Kūchō suru;くうちょうする;Mengatur Suhu, Mengkondisikan Udara, Mengendalikan Suhu;77;空:くう|調:ちょう
+空間;Kūkan;くうかん;Ruang, Area, Tempat;77;空:くう|間:かん
 空調時間;Kūchō Jikan;くうちょうじかん;Waktu Operasi Air Conditioning, Waktu Pengkondisian Udara, Waktu Pengaturan Suhu;77;空:くう|調:ちょう|時間:じかん
 発揮;Hakki;はっき;Menunjukkan, Memperlihatkan, Menampilkan;77;発:はっ|揮:き
 冷暖房措置;Reidanbō Sochi;れいだんぼうそち;Tindakan Pemanasan dan Pendinginan, Pengaturan Air Conditioning;77;冷:れい|暖:だん|房:ぼう|措:そ|置:ち
 メジャーな方式;Mejā na Hōshiki;メジャーなほうしき;Sistem yang Umum, Sistem yang Populer, Sistem yang Banyak Digunakan;77;方式:ほうしき
+大規模;Daikibo;だいきぼ;Skala Besar, Ukuran Besar, Besar;77;大:だい|規:き|模:ぼ
 気化熱;Kikane-tsu;きかねつ;Kalor Penguapan, Kalor Penguapan, Kalor Evaporasi;77;気:き|化:か|熱:ねつ
+下図;Kazu;かず;Gambar di Bawah, Ilustrasi di Bawah, Diagram di Bawah;77;下:か|図:ず
+一連;Ichiren;いちれん;Serangkaian, Rangkaian, Satu Set;77;一:いち|連:れん
+繰り返す;Kurikaesu;くりかえす;Mengulang, Berulang, Melakukan Berulang Kali;77;繰:く|返:かえ
+冷媒;Reibai;れいばい;Refrigeran, Bahan Pendingin, Zat Pendingin;77;冷:れい|媒:ばい
 吸収液;Kyūshū-eki;きゅうしゅうえき;Cairan Absorpsi, Larutan Absorpsi;77;吸:きゅう|収:しゅう|液:えき
-臭化;Shūka;しゅうか;Bromida, Brominasi;77;臭:しゅう|化:か
+臭化リチウム;Shūka Richiumu;しゅうかりちうむ;Bromida Litium, Lithium Bromide;77;臭:しゅう|化:か
+水溶液;Suiyōeki;すいようえき;Larutan Air, Larutan Berbasis Air;77;水:すい|溶:よう|液:えき
 フロン;Furon;フロン;Freon, CFC, Chlorofluorocarbon;77;
+環境;Kankyō;かんきょう;Lingkungan, Kondisi Lingkungan, Keadaan Lingkungan;77;環:かん|境:きょう
+契約;Keiyaku;けいやく;Kontrak, Perjanjian, Kesepakatan;77;契:けい|約:やく
 目処に;Medo ni;もどに;Perkiraan, Perkiraan Waktu, Target Waktu;77;目:め|処:ど
 オーパーホール;Ōpāhōru;オーパーホール;Overhaul, Perbaikan Besar, Perawatan Besar;77;
-水蒸器;Suijōki;すいじょうき;Alat Penguap Air, Panci Uap, ;77;水:すい|蒸:じょう|器:き
-機内圧力;Kinai Atsuryoku;きないあつりょく;Tekanan Dalam Mesin, Tekanan Internal, Tekanan di Dalam;77;機:き|内:ない|圧:あつ|力:りょく
-臭化リチウム溶液;Shūka Richiumu Yōeki;しゅうかりちうむようえき;Larutan Bromida Litium, Larutan Brominasi Litium;77;臭:しゅう|化:か|溶:よう|液:えき
-ガス吸収式冷温水発生機;Gasu Kyūshū-shiki Reionsui Hasseiki;ガスきゅうしゅうしきれいおんすいはっせいき;Mesin Pembuat Air Dingin dan Panas Tipe Absorpsi Gas, Mesin Pembuat Air Dingin dan Panas dengan Sistem Absorpsi Gas;77;吸:きゅう|収:しゅう|式:しき|冷:れい|温:おん|水:すい|発:はっ|生:せい|機:き
-通る;Tōru;とおる;Melalui, Lewat, Lulus;77;通:とお
+蒸発;Jōhatsu;じょうはつ;Penguapan, Evaporasi, Penguapan Air;77;蒸:じょう|発:はつ
+臭空;Shūkū;しゅうくう;Udara Berbau, Udara yang Bau, Udara dengan Bau Tidak Sedap;77;臭:しゅう|空:くう
+吸収;Kyūshū;きゅうしゅう;Absorpsi, Penyerapan;77;吸:きゅう|収:しゅう
+水蒸気;Suijōki;すいじょうき;Uap Air, Uap, Air Panas;77;
 再生;Saisei;さいせい;Regenerasi, Pemulihan, Reproduksi;77;再:さい|生:せい
 薄い;Usui;うすい;Tipis, Kurang Kuat, Lemah;77;薄:うす
+ガスバーナー;Gasu Bānā;ガスばーなー;Pembakar Gas, Burner Gas;77;
 加熱;Kanetsu;かねつ;Pemanasan, Pemanas;77;加:か|熱:ねつ
 水分;Suibun;すいぶん;Kandungan Air, Kadar Air, Air;77;水:すい|分:ぶん
-蒸発;Jōhatsu;じょうはつ;Penguapan, Evaporasi, Penguapan Air;77;蒸:じょう|発:はつ
 濃縮;Nōshuku;のうしゅく;Konsentrasi, Pengentalan, Pengurangan Volume;77;濃:のう|縮:しゅく
-濃い;Koi;こい;Kental, Pekat, Kuat;77;濃:こ
-吸収液;Kyūshū-eki;きゅうしゅうえき;Cairan Absorpsi, Larutan Absorpsi;77;吸:きゅう|収:しゅう|液:えき
-冷却水;Reikyaku-sui;れいきゃくすい;Air Pendingin, Air Dingin;77;冷:れい|却:きゃく|水:すい
-冷却塔;Reikyaku-tō;れいきゃくとう;Menara Pendingin, Cooling Tower;77;冷:れい|却:きゃく|塔:とう
-空調機;Kūchōki;くうちょうき;Alat Pengkondisi Udara, Air Conditioner;77;空:くう|調:ちょう|機:き
-室内機;Shitsunai-ki;しつないき;Unit Dalam Ruangan, Unit Indoor;77;室:しつ|内:ない|機:き
 凝縮;Gyōshuku;ぎょうしゅく;Kondensasi, Pengembunan, Pengembunan Uap;77;凝:ぎょう|縮:しゅく
-繰り返す;Kurikaesu;くりかえす;Mengulang, Berulang, Melakukan Berulang Kali;77;繰:く|返:かえ
+冷却塔;Reikyaku-tō;れいきゃくとう;Menara Pendingin, Cooling Tower;77;冷:れい|却:きゃく|塔:とう
+元;Moto;もと;Asal, Sumber, Awal;77;元:もと
+臭化リチウム溶液;Shūka Richiumu Yōeki;しゅうかりちうむようえき;Larutan Bromida Litium, Larutan Brominasi Litium;77;臭:しゅう|化:か|溶:よう|液:えき
+冷却水;Reikyaku-sui;れいきゃくすい;Air Pendingin, Air Dingin;77;冷:れい|却:きゃく|水:すい
+器内圧力;Kinai Atsuryoku;きないあつりょく;Tekanan Dalam Mesin, Tekanan Internal, Tekanan di Dalam;77;器:き|内:ない|圧:あつ|力:りょく
+水蒸器;Suijōki;すいじょうき;Alat Penguap Air, Panci Uap, ;77;水:すい|蒸:じょう|器:き
+濃い;Koi;こい;Kental, Pekat, Kuat;77;濃:こ
+空調機;Kūchōki;くうちょうき;Alat Pengkondisi Udara, Air Conditioner;77;空:くう|調:ちょう|機:き
+ガス吸収式冷温水発生機;Gasu Kyūshū-shiki Reionsui Hasseiki;ガスきゅうしゅうしきれいおんすいはっせいき;Mesin Pembuat Air Dingin dan Panas Tipe Absorpsi Gas, Mesin Pembuat Air Dingin dan Panas dengan Sistem Absorpsi Gas;77;吸:きゅう|収:しゅう|式:しき|冷:れい|温:おん|水:すい|発:はっ|生:せい|機:き
+通る;Tōru;とおる;Melalui, Lewat, Lulus;77;通:とお
 冷房;Reibō;れいぼう;Pendingin Ruangan, Air Conditioning, AC;77;冷:れい|房:ぼう
-吸収;Kyūshū;きゅうしゅう;Absorpsi, Penyerapan;77;吸:きゅう|収:しゅう
 冷水;Reisui;れいすい;Air Dingin, Air Es, Air Dingin;77;冷:れい|水:すい
 真空;Shinkū;しんくう;Vakum, Hampa Udara;77;真:しん|空:くう
 冷凍;Reitō;れいとう;Pembekuan, Freezing;77;冷:れい|凍:とう
+室内機;Shitsunai-ki;しつないき;Unit Dalam Ruangan, Unit Indoor;77;室:しつ|内:ない|機:き
