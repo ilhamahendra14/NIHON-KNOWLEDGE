@@ -605,12 +605,12 @@
 湿度;Shitsudo;しつど;Kelembaban, Humidity;83;湿:しつ|度:ど
 調整する;Chōsei suru;ちょうせいする;Menyesuaikan, Mengatur, Menyelaraskan;83;調:ちょう|整:せい
 送風ダクト;Sōfū Dakuto;そうふうだくと;Saluran Udara, Ducting, Saluran Ventilasi;83;送:そう|風:ふう
-送り出し;Okuridashi;おくりだし;Pengiriman, Pengeluaran, Pengantaran;83;送り:おく|出:だ
-再び;Futatabi;ふたたび;Sekali Lagi, Kembali, Lagi;83;再:ふた
+送り出し;Okuridashi;おくりだし;Pengiriman, Pengeluaran, Pengantaran;83;送:おく|出:だ
+再び;Futatabi;ふたたび;Sekali Lagi, Kembali, Lagi;83;再:ふたた
 示す;Shimesu;しめす;Menunjukkan, Memperlihatkan, Menandakan;83;示:しめ
 冷却;Reikyaku;れいきゃく;Pendinginan, Cooling;83;冷:れい|却:きゃく
 加熱する;Kanetsu suru;かねつする;Memanaskan, Menghangatkan, Pemanasan;83;加:か|熱:ねつ
-冷温水コイル;Reionsui Koiru;れいおんすいこいる;Koil Air Dingin dan Panas, Koil Pendingin dan Pemanas;83;冷:れい|温:おん|水:すい|コイル:コイル
+冷温水コイル;Reionsui Koiru;れいおんすいこいる;Koil Air Dingin dan Panas, Koil Pendingin dan Pemanas;83;冷:れい|温:おん|水:すい
 送風機;Sōfūki;そうふうき;Blower, Kipas Angin, Penghembus Udara;83;送:そう|風:ふう|機:き
 加湿装置;Kashitsu Sōchi;かしつそうち;Alat Pelembab, Humidifier, Perangkat Pelembab;83;加:か|湿:しつ|装:そう|置:ち
 排水受け;Haisui Uke;はいすいうけ;Penampung Air Limbah, Bak Penampung Air Limbah, Tempat Penampungan Air Limbah;83;排:はい|水:すい|受:う
@@ -628,7 +628,6 @@
 還風機;Kanpūki;かんぷうき;Sirkulator, Kipas Sirkulasi, Alat Sirkulasi Udara;83;還:かん|風:ぷう|機:き
 給気;Kyūki;きゅうき;Pasokan Udara, Pemasukan Udara, Udara Masuk;83;給:きゅう|気:き
 還気;Kanki;かんき;Sirkulasi Udara, Udara Sirkulasi, Udara yang Beredar;83;還:かん|気:き
-送風機;Sōfūki;そうふうき;Blower, Kipas Angin, Penghembus Udara;83;送:そう|風:ふう|機:き
 冷水コイル;Reisui Koiru;れいすいこいる;Koil Air Dingin, Koil Pendingin;83;冷:れい|水:すい
 温水コイル;Onsui Koiru;おんすいこいる;Koil Air Panas, Koil Pemanas;83;温:おん|水:すい
 概要図;Gaiyōzu;がいようず;Diagram Umum, Skema Umum, Gambar Umum;83;概:がい|要:よう|図:ず
