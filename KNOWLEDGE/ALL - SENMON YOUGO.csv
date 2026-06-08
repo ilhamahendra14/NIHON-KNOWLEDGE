@@ -455,7 +455,7 @@
 維持する;Iji suru;いじする;Memelihara, Menjaga, Mempertahankan;73;維:い|持:じ
 状況;Jōkyō;じょうきょう;Situasi, Kondisi, Keadaan;73;状:じょう|況:きょう
 ストレーナー;Sutorēnā;ストレーナー;Saringan, Filter, Penyaring;73;
-缶詰まり;Kandzumari;かんづまり;Penyumbatan, Tersumbat, Tersendat;73;缶:かん|詰:づまり
+管詰まり;Kanzumari;かんづまり;Penyumbatan, Tersumbat, Tersendat;73;管:かん|詰:づまり
 溜まった;Tamatta;たまった;Terkumpul, Terakumulasi, Tersimpan;73;溜:た
 柄杓;Hishaku;ひしゃく;Gayung, Sendok Air, Cerek Air;73;柄:ひ|杓:しゃく
 細菌;Saikin;さいきん;Bakteri, Kuman, Mikroorganisme;73;細:さい|菌:きん
@@ -546,3 +546,88 @@
 真空;Shinkū;しんくう;Vakum, Hampa Udara;77;真:しん|空:くう
 冷凍;Reitō;れいとう;Pembekuan, Freezing;77;冷:れい|凍:とう
 室内機;Shitsunai-ki;しつないき;Unit Dalam Ruangan, Unit Indoor;77;室:しつ|内:ない|機:き
+
+冷却塔;Reikyaku-tō;れいきゃくとう;Menara Pendingin, Cooling Tower;81;冷:れい|却:きゃく|塔:とう
+別名;Betsumei;べつめい;Nama Lain, Alias, Nama Panggilan;81;別:べつ|名:めい
+クーリングタワー;Kūringu Tawā;クーリングタワー;Cooling Tower, Menara Pendingin;81;
+上昇;Jōshō;じょうしょう;Kenaikan, Meningkat, Naik;81;上:じょう|昇:しょう
+冷却水;Reikyaku-sui;れいきゃくすい;Air Pendingin, Air Dingin;81;冷:れい|却:きゃく|水:すい
+性能;Seinō;せいのう;Kinerja, Performa, Kemampuan;81;性:せい|能:のう
+発揮;Hakki;はっき;Menunjukkan, Memperlihatkan, Menampilkan;81;発:はっ|揮:き
+数多く;Kazu ōku;かずおおく;Banyak, Beragam, Banyak Sekali;81;数:かず|多:おお
+部品;Buhin;ぶひん;Komponen, Bagian, Suku Cadang;81;部:ぶ|品:ひん
+役目;Yakume;やくめ;Peran, Tugas, Fungsi;81;役:やく|目:め
+診断;Shindan;しんだん;Diagnosis, Pemeriksaan, Penilaian;81;診:しん|断:だん
+シーズン;Shīzun;シーズン;Musim, Musim Panas, Musim Dingin;81;
+終了;Shūryō;しゅうりょう;Selesai, Berakhir, Tamat;81;終:しゅう|了:りょう
+水抜き;Mizunuki;みずぬき;Pengeringan, Pengosongan Air, Pengurasan Air;81;水:みず|抜:ぬ
+防護;Bōgo;ぼうご;Perlindungan, Proteksi, Pertahanan;81;防:ぼう|護:ご
+防塵;Bōjin;ぼうじん;Anti Debu, Perlindungan Debu, Tahan Debu;81;防:ぼう|塵:じん
+対策;Taisaku;たいさく;Tindakan, Solusi, Langkah;81;対:たい|策:さく
+施す;Hodokosu;ほどこす;Memberikan, Melakukan, Menerapkan;81;施:ほどこ
+防錆処理;Bōsei Shori;ぼうせいしょり;Perlindungan Anti Karat, Perlakuan Anti Karat, Pengolahan Anti Karat;81;防:ぼう|錆:せい|処:しょ|理:り
+実施する;Jisshi suru;じっしする;Melaksanakan, Menerapkan, Menjalankan;81;実:じっ|施:し
+翌年;Yokutoshi;よくとし;Tahun Berikutnya, Tahun Depan;81;翌:よく|年:とし
+過程;Katei;かてい;Proses, Tahapan, Perjalanan;81;過:か|程:てい
+大気中;Taikichū;たいきちゅう;Di Atmosfer, Di Udara Terbuka;81;大:たい|気:き|中:ちゅう
+接触する;Sesshoku suru;せっしょくする;Kontak, Bersentuhan, Menyentuh;81;接:せっ|触:しょく
+外気;Gaiki;がいき;Udara Luar, Udara Eksternal, Udara di Luar;81;外:がい|気:き
+粉塵;Funjin;ふんじん;Debu, Partikel, Serbuk;81;粉:ふん|塵:じん
+有毒;Yūdoku;ゆうどく;Beracun, Berbahaya, Toksik;81;有:ゆう|毒:どく
+入り込み;Irikomi;いりこみ;Masuk, Menyusup, Penetrasi;81;入:い|込:こ
+汚染;Osen;おせん;Pencemaran, Kontaminasi, Polusi;81;汚:お|染:せん
+機器;Kiki;きき;Peralatan, Mesin, Alat;81;機:き|器:き
+傷める;Itameru;いためる;Merusak, Menyakiti, Membuat Rusak;81;傷:いた
+死骸;Shigai;しがい;Bangku, Mayat, Sisa;81;死:し|骸:がい
+冷却管;Reikyaku-kan;れいきゃくかん;Pipa Pendingin, Pipa Dingin;81;冷:れい|却:きゃく|管:かん
+詰まらせる;Tsumaraseru;つまらせる;Menyumbat, Membuat Tersumbat, Menyebabkan Tersumbat;81;詰:つま
+水温;Suion;すいおん;Suhu Air, Temperatur Air;81;水:すい|温:おん
+常に;Tsune ni;つねに;Selalu, Senantiasa, Terus Menerus;81;常:つね
+高齢者;Kōreisha;こうれいしゃ;Lansia, Orang Tua, Senior;81;高:こう|齢:れい|者:しゃ
+死亡率;Shibōritsu;しぼうりつ;Tingkat Kematian, Angka Kematian, Rasio Kematian;81;死:し|亡:ぼう|率:りつ
+レジオネラ菌;Rejionera Kin;レジオネラきん;Bakteri Legionella, Kuman Legionella;81;菌:きん
+繫殖源;Hanshokugen;はんしょくげん;Sumber Perkembangbiakan, Sumber Reproduksi, Sumber Pertumbuhan;81;繫:はん|殖:しょく|源:げん
+水質分析;Suishitsu Bunseki;すいしつぶんせき;Analisis Kualitas Air, Analisis Air, Pengujian Kualitas Air;81;水:すい|質:しつ|分析:ぶんせき
+水質管理;Suishitsu Kanri;すいしつかんり;Pengelolaan Kualitas Air, Manajemen Kualitas Air, Pengawasan Kualitas Air;81;水:すい|質:しつ|管:かん|理:り
+配慮;Hairyo;はいりょ;Pertimbangan, Perhatian, Memperhatikan;81;配:はい|慮:りょ
+向流型;Kōryū-gata;こうりゅうがた;Tipe Aliran Melawan, Tipe Aliran Berlawanan, Tipe Aliran Kontra;81;向:こう|流:りゅう|型:がた
+直交流型;Chokuryū-gata;ちょくりゅうがた;Tipe Aliran Langsung, Tipe Aliran Sejajar, Tipe Aliran Paralel;81;直:ちょく|交:りゅう|流:がた
+接触方法;Sesshoku Hōhō;せっしょくほうほう;Metode Kontak, Cara Kontak, Metode Penyentuhan;81;接:せっ|触:しょく|方:ほう|法:ほう
+充填材;Jūtenzai;じゅうてんざい;Bahan Pengisi, Material Pengisi, Bahan Isian;81;充:じゅう|填:てん|材:ざい
+冷凍機;Reitōki;れいとうき;Mesin Pembeku, Freezer, Alat Pembekuan;81;冷:れい|凍:とう|機:き
+仕組み;Shikumi;しくみ;Mekanisme, Sistem, Struktur;81;仕:し|組:く
+丸型;Marugata;まるがた;Bentuk Bulat, Tipe Bulat, Model Bulat;81;丸:まる|型:がた
+角型;Kakugata;かくがた;Bentuk Persegi, Tipe Persegi, Model Persegi;81;角:かく|型:がた
+開放型冷却塔;Kaihō-gata Reikyaku-tō;かいほうがたれいきゃくとう;Menara Pendingin Tipe Terbuka, Cooling Tower Tipe Terbuka;81;開:かい|放:ほう|型:がた|冷:れい|却:きゃく|塔:とう
+
+空気調和気;Kūki Chōwa-ki;くうきちょうわき;Alat Pengkondisi Udara, Air Conditioner;83;空:くう|気:き|調:ちょう|和:わ|機:き
+湿度;Shitsudo;しつど;Kelembaban, Humidity;83;湿:しつ|度:ど
+調整する;Chōsei suru;ちょうせいする;Menyesuaikan, Mengatur, Menyelaraskan;83;調:ちょう|整:せい
+送風ダクト;Sōfū Dakuto;そうふうだくと;Saluran Udara, Ducting, Saluran Ventilasi;83;送:そう|風:ふう
+送り出し;Okuridashi;おくりだし;Pengiriman, Pengeluaran, Pengantaran;83;送り:おく|出:だ
+再び;Futatabi;ふたたび;Sekali Lagi, Kembali, Lagi;83;再:ふた
+示す;Shimesu;しめす;Menunjukkan, Memperlihatkan, Menandakan;83;示:しめ
+冷却;Reikyaku;れいきゃく;Pendinginan, Cooling;83;冷:れい|却:きゃく
+加熱する;Kanetsu suru;かねつする;Memanaskan, Menghangatkan, Pemanasan;83;加:か|熱:ねつ
+冷温水コイル;Reionsui Koiru;れいおんすいこいる;Koil Air Dingin dan Panas, Koil Pendingin dan Pemanas;83;冷:れい|温:おん|水:すい|コイル:コイル
+送風機;Sōfūki;そうふうき;Blower, Kipas Angin, Penghembus Udara;83;送:そう|風:ふう|機:き
+加湿装置;Kashitsu Sōchi;かしつそうち;Alat Pelembab, Humidifier, Perangkat Pelembab;83;加:か|湿:しつ|装:そう|置:ち
+排水受け;Haisui Uke;はいすいうけ;Penampung Air Limbah, Bak Penampung Air Limbah, Tempat Penampungan Air Limbah;83;排:はい|水:すい|受:う
+エアフィルター;Ea Firutā;エアフィルター;Filter Udara, Penyaring Udara;83;
+構成;Kōsei;こうせい;Komposisi, Struktur, Susunan;83;構:こう|成:せい
+ドレンパン;Doren Pan;ドレンパン;Pan Drainase, Bak Penampung Air, Wadah Penampung Air;83;
+鋼板製;Kōhan-sei;こうはんせい;Terbuat dari Plat Baja, Terbuat dari Baja, Terbuat dari Plat Besi;83;鋼:こう|板:はん|製:せい
+腐食;Fushoku;ふしょく;Korosi, Karat, Pengrusakan;83;腐:ふ|食:しょく
+機内;Kinai;きない;Dalam Mesin, Di Dalam, Internal;83;機:き|内:ない
+防錆処理;Bōsei Shori;ぼうせいしょり;Perlindungan Anti Karat, Perlakuan Anti Karat, Pengolahan Anti Karat;83;防:ぼう|錆:せい|処:しょ|理:り
+排気ダンパー;Haiki Danpā;はいきダンパー;Damper Pembuangan, Damper Buang, Katup Pembuangan;83;排:はい|気:き
+還気ダンパー;Kanki Danpā;かんきダンパー;Damper Sirkulasi, Damper Udara Sirkulasi, Katup Sirkulasi;83;還:かん|気:き
+給気ダンパー;Kyūki Danpā;きゅうきダンパー;Damper Pasokan Udara, Damper Pemasukan Udara, Katup Pasokan Udara;83;給:きゅう|気:き
+外気ダンパー;Gaiki Danpā;がいきダンパー;Damper Udara Luar, Damper Eksternal, Katup Udara Luar;83;外:がい|気:き
+還風機;Kanpūki;かんぷうき;Sirkulator, Kipas Sirkulasi, Alat Sirkulasi Udara;83;還:かん|風:ぷう|機:き
+給気;Kyūki;きゅうき;Pasokan Udara, Pemasukan Udara, Udara Masuk;83;給:きゅう|気:き
+還気;Kanki;かんき;Sirkulasi Udara, Udara Sirkulasi, Udara yang Beredar;83;還:かん|気:き
+送風機;Sōfūki;そうふうき;Blower, Kipas Angin, Penghembus Udara;83;送:そう|風:ふう|機:き
+冷水コイル;Reisui Koiru;れいすいこいる;Koil Air Dingin, Koil Pendingin;83;冷:れい|水:すい
+温水コイル;Onsui Koiru;おんすいこいる;Koil Air Panas, Koil Pemanas;83;温:おん|水:すい
+概要図;Gaiyōzu;がいようず;Diagram Umum, Skema Umum, Gambar Umum;83;概:がい|要:よう|図:ず
