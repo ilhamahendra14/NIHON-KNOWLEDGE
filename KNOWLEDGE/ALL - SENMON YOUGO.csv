@@ -631,3 +631,77 @@
 冷水コイル;Reisui Koiru;れいすいこいる;Koil Air Dingin, Koil Pendingin;83;冷:れい|水:すい
 温水コイル;Onsui Koiru;おんすいこいる;Koil Air Panas, Koil Pemanas;83;温:おん|水:すい
 概要図;Gaiyōzu;がいようず;Diagram Umum, Skema Umum, Gambar Umum;83;概:がい|要:よう|図:ず
+
+ヒートポンプ式空調機;Hīto Ponpu-shiki Kūchōki;ヒートポンプしきくうちょうき;Alat Pengkondisi Udara Tipe Heat Pump, Air Conditioner Tipe Heat Pump;87;式:しき|空:くう|調:ちょう|機:き
+圧縮機;Asshuku-ki;あっしゅくき;Kompressor, Mesin Pemampat, Alat Pemampat;87;圧:あっ|縮:しゅく|機:き
+駆動源;Kudōgen;くどうげん;Sumber Penggerak, Sumber Tenaga, Sumber Daya;87;駆:く|動:どう|源:げん
+ガスエンジン駆動式;Gasu Enjin Kudō-shiki;ガスエンジンくどうしき;Tipe Penggerak Mesin Gas, Tipe Penggerak dengan Mesin Gas;87;駆:く|動:どう|式:しき
+電動機駆動式;Dendōki Kudō-shiki;でんどうきくどうしき;Tipe Penggerak Motor Listrik, Tipe Penggerak dengan Motor Listrik;87;電:でん|動:どう|機:き|駆:く|動:どう
+ガスヒートポンプ;Gasu Hīto Ponpu;ガスヒートポンプ;Heat Pump Gas, Pompa Panas Gas;87;
+電気モーターヒートポンプ;Denki Mōtā Hīto Ponpu;でんきもーたーひーとぽんぷ;Heat Pump Motor Listrik, Pompa Panas Motor Listrik;87;電:でん|気:き
+仕組み;Shikumi;しくみ;Mekanisme, Sistem, Struktur;87;仕:し|組:く
+投入エネルギー;Tōnyū Enerugī;とうにゅうえねるぎー;Energi Masukan, Energi yang Dimasukkan, Energi Input;87;投:とう|入:にゅう
+身;Mi;み;Badan, Diri, Tubuh;87;身:み
+エコキュート;Ekokyūto;エコキュート;EcoCute, Sistem Pemanas Air Panas dengan Heat Pump, Sistem Pemanas Air Panas Ramah Lingkungan;87;
+省エネ技術;Shōene Gijutsu;しょうえねぎじゅつ;Teknologi Hemat Energi, Teknologi Penghematan Energi, Teknologi Efisiensi Energi;87;省:しょう|技:ぎ|術:じゅつ
+室外機;Shitsugaiki;しつがいき;Unit Luar Ruangan, Unit Outdoor;87;室:しつ|外:がい|機:き
+室内機;Shitsunai-ki;しつないき;Unit Dalam Ruangan, Unit Indoor;87;室:しつ|内:ない|機:き
+熱交換器;Netsu Kōkanki;ねつこうかんき;Penukar Panas, Heat Exchanger;87;熱:ねつ|交:こう|換:かん|器:き
+排気ガス;Haiki Gasu;はいきがす;Gas Buang, Gas Sisa, Emisi Gas;87;排:はい|気:き
+圧縮機;Asshuku-ki;あっしゅくき;Kompressor, Mesin Pemampat, Alat Pemampat;87;圧:あっ|縮:しゅく|機:き
+室外熱交換器;Shitsugaikōkanki;しつがいこうかんき;Penukar Panas Luar Ruangan, Heat Exchanger Eksternal;87;室:しつ|外:がい|熱:ねつ|交:こう|換:かん|器:き
+居室;Kyoshitsu;きょしつ;Ruang Hunian, Ruang Tempat Tinggal, Ruang Keluarga;87;居:きょ|室:しつ
+空調空気;Kūchō Kūki;くうちょうくうき;Udara Pengkondisi, Udara AC, Udara yang Dikondisikan;87;空:くう|調:ちょう|空:くう|気:き
+供給;Kyōkyū;きょうきゅう;Pasokan, Penyediaan, Pemberian;87;供:きょう|給:きゅう
+
+換気設備;Kanki Setsubi;かんきせつび;Peralatan Ventilasi, Sistem Ventilasi, Perlengkapan Ventilasi;89;換:かん|気:き|設:せつ|備:び
+執務環境;Shitsumu Kankyō;しつむかんきょう;Lingkungan Kerja, Kondisi Kerja, Suasana Kerja;89;執:しつ|務:む|環:かん|境:きょう
+整える;Totonoeru;ととのえる;Menata, Merapikan, Menyesuaikan;89;整:ととの
+吸い込み;Suikomi;すいこみ;Penghisapan, Penyerapan, Menyedot;89;吸:す|込:こ
+吐き出す;Hakidasu;はきだす;Meniup, Menghembuskan, Mengeluarkan;89;吐:は|出:だ
+いわゆる;Iwayuru;いわゆる;Yang Dikatakan, Yang Disebut, Yang Umum Dikenal;89;
+換気;Kanki;かんき;Ventilasi, Pengudaraan, Sirkulasi Udara;89;換:かん|気:き
+きちんと;Kichinto;きちんと;Rapi, Teratur, Tertib;89;きちんと
+近年;Kinnen;きんねん;Beberapa Tahun Terakhir, Tahun-tahun Terakhir, Baru-baru ini;89;近:きん|年:ねん
+吐き気;Hakike;はきけ;Mual, Rasa Mual, Rasa Muntah;89;吐:は|気:け
+喉;Nodo;のど;Tenggorokan, Leher, Kerongkongan;89;喉:のど
+不調;Fuchō;ふちょう;Tidak Sehat, Tidak Berfungsi dengan Baik, Gangguan;89;不:ふ|調:ちょう
+訴える;Uttaeru;うったえる;Mengeluh, Menyampaikan, Mengajukan Keluhan;89;訴:うった
+適切な;Tekisetsu na;てきせつな;Tepat, Sesuai, Cocok;89;適:てき|切:せつ
+心懸ける;Kokorogake ru;こころがける;Berusaha, Berupaya, Memperhatikan;89;心:こころ|懸:がけ
+法的に;Hōteki ni;ほうてきに;Secara Hukum, Secara Legal, Secara Resmi;89;法:ほう|的:てき
+建築基準法;Kenchiku Kijun Hō;けんちくきじゅんほう;Undang-Undang Standar Bangunan, Hukum Standar Konstruksi, Peraturan Bangunan;89;建:けん|築:ちく|基:き|準:じゅん|法:ほう
+居室;Kyoshitsu;きょしつ;Ruang Hunian, Ruang Tempat Tinggal, Ruang Keluarga;89;居:きょ|室:しつ
+義務;Gimu;ぎむ;Kewajiban, Tanggung Jawab, Kewajiban Hukum;89;義:ぎ|務:む
+規模;Kibo;きぼ;Skala, Ukuran, Besar;89;規:き|模:ぼ
+構造;Kōzō;こうぞう;Struktur, Konstruksi, Bangunan;89;構:こう|造:ぞう
+手法;Shuhō;しゅほう;Metode, Cara, Teknik;89;手:しゅ|法:ほう
+便所;Benjo;べんじょ;Toilet, Kamar Mandi, WC;89;便:べん|所:じょ
+湯沸室;Yuwakashitsu;ゆわかしつ;Ruang Pemanas Air, Ruang Ketel, Ruang Boiler;89;湯:ゆ|沸:わ|室:しつ
+臭気;Shūki;しゅうき;Bau, Aroma, Bau Tidak Sedap;89;臭:しゅう|気:き
+燃焼;Nenshō;ねんしょう;Pembakaran, Pembakaran, Proses Pembakaran;89;燃:ねん|焼:しょう
+籠る;Komoru;こもる;Terkurung, Terperangkap, Bersembunyi;89;籠:こ
+排風機;Haifūki;はいふうき;Exhaust Fan, Kipas Pembuangan, Alat Penghisap Udara;89;排:はい|風:ふう|機:き
+内部;Naibu;ないぶ;Bagian Dalam, Internal, Di Dalam;89;内:ない|部:ぶ
+埃;Hokori;ほこり;Debu, Serbuk, Kotoran;89;埃:ほこり
+付着;Fuchaku;ふちゃく;Menempel, Melekat, Terpasang;89;付:ふ|着:ちゃく
+能力;Nōryoku;のうりょく;Kemampuan, Kapasitas, Kekuatan;89;能:のう|力:りょく
+木造建築物;Mokuzō Kenchikubutsu;もくぞうけんちくぶつ;Bangunan Kayu, Konstruksi Kayu, Struktur Kayu;89;木:もく|造:ぞう|建:けん|築:ちく|物:ぶつ
+床下換気口;Yukashita Kankikō;ゆかしたかんきこう;Ventilasi Bawah Lantai, Lubang Ventilasi Bawah Lantai, Ventilasi di Bawah Lantai;89;床:ゆか|下:した|換:かん|気:き|口:こう
+湿っている;Shimette iru;しめっている;Basah, Lembab, Berair;89;湿:しめ
+適宜開放;Tekigi Kaihō;てきぎかいほう;Membuka Sesuai Kebutuhan, Membuka Secara Tepat, Membuka Sesuai Keperluan;89;適:てき|宜:ぎ|開:かい|放:ほう
+給気;Kyūki;きゅうき;Pasokan Udara, Pemasukan Udara, Udara Masuk;89;給:きゅう|気:き
+機械換気;Kikai Kanki;きかいかんき;Ventilasi Mekanik, Ventilasi dengan Mesin, Sistem Ventilasi Mekanis;89;機:き|械:かい|換:かん|気:き
+排気;Haiki;はいき;Pembuangan, Buang, Emisi;89;排:はい|気:き
+自然換気;Shizen Kanki;しぜんかんき;Ventilasi Alami, Ventilasi dengan Cara Alami, Sistem Ventilasi Alami;89;自:し|然:ぜん|換:かん|気:き
+種換気;Shu Kanki;しゅかんき;Ventilasi Tipe, Ventilasi Jenis, Tipe Ventilasi;89;種:しゅ|換:かん|気:き
+給気換気;Kyūki Kanki;きゅうきかんき;Ventilasi Pasokan Udara, Ventilasi Pemasukan Udara, Ventilasi Udara Masuk;89;給:きゅう|気:き|換:かん|気:き
+機械排気;Kikai Haiki;きかいはいき;Pembuangan Mekanik, Pembuangan dengan Mesin, Sistem Pembuangan Mekanis;89;機:き|械:かい|排:はい|気:き
+風量;Fūryō;ふうりょう;Volume Udara, Aliran Udara, Jumlah Udara;89;風:ふう|量:りょう
+自然排気;Shizen Haiki;しぜんはいき;Pembuangan Alami, Pembuangan dengan Cara Alami, Sistem Pembuangan Alami;89;自:し|然:ぜん|排:はい|気:き
+方式;Hōshiki;ほうしき;Metode, Sistem, Cara;89;方:ほう|式:しき
+侵入;Shinnyū;しんにゅう;Penyusupan, Masuk, Penetrasi;89;侵:しん|入:にゅう
+環境;Kankyō;かんきょう;Lingkungan, Kondisi Lingkungan, Keadaan Lingkungan;89;環:かん|境:きょう
+空間;Kūkan;くうかん;Ruang, Area, Tempat;89;空:くう|間:かん
+水蒸気;Suijōki;すいじょうき;Uap Air, Uap, Air Panas;89;水:すい|蒸:じょう|気:き
+排出する;Haishutsu suru;はいしゅつする;Membuang, Mengeluarkan, Mengemisikan;89;排:はい|出:しゅつ
