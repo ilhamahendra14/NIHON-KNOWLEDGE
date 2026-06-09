@@ -648,7 +648,6 @@
 室内機;Shitsunai-ki;しつないき;Unit Dalam Ruangan, Unit Indoor;87;室:しつ|内:ない|機:き
 熱交換器;Netsu Kōkanki;ねつこうかんき;Penukar Panas, Heat Exchanger;87;熱:ねつ|交:こう|換:かん|器:き
 排気ガス;Haiki Gasu;はいきがす;Gas Buang, Gas Sisa, Emisi Gas;87;排:はい|気:き
-圧縮機;Asshuku-ki;あっしゅくき;Kompressor, Mesin Pemampat, Alat Pemampat;87;圧:あっ|縮:しゅく|機:き
 室外熱交換器;Shitsugaikōkanki;しつがいこうかんき;Penukar Panas Luar Ruangan, Heat Exchanger Eksternal;87;室:しつ|外:がい|熱:ねつ|交:こう|換:かん|器:き
 居室;Kyoshitsu;きょしつ;Ruang Hunian, Ruang Tempat Tinggal, Ruang Keluarga;87;居:きょ|室:しつ
 空調空気;Kūchō Kūki;くうちょうくうき;Udara Pengkondisi, Udara AC, Udara yang Dikondisikan;87;空:くう|調:ちょう|空:くう|気:き
@@ -668,7 +667,7 @@
 不調;Fuchō;ふちょう;Tidak Sehat, Tidak Berfungsi dengan Baik, Gangguan;89;不:ふ|調:ちょう
 訴える;Uttaeru;うったえる;Mengeluh, Menyampaikan, Mengajukan Keluhan;89;訴:うった
 適切な;Tekisetsu na;てきせつな;Tepat, Sesuai, Cocok;89;適:てき|切:せつ
-心懸ける;Kokorogake ru;こころがける;Berusaha, Berupaya, Memperhatikan;89;心:こころ|懸:がけ
+心懸ける;Kokorogake ru;こころがける;Berusaha, Berupaya, Memperhatikan;89;心:こころ|懸:が
 法的に;Hōteki ni;ほうてきに;Secara Hukum, Secara Legal, Secara Resmi;89;法:ほう|的:てき
 建築基準法;Kenchiku Kijun Hō;けんちくきじゅんほう;Undang-Undang Standar Bangunan, Hukum Standar Konstruksi, Peraturan Bangunan;89;建:けん|築:ちく|基:き|準:じゅん|法:ほう
 居室;Kyoshitsu;きょしつ;Ruang Hunian, Ruang Tempat Tinggal, Ruang Keluarga;89;居:きょ|室:しつ
@@ -677,10 +676,10 @@
 構造;Kōzō;こうぞう;Struktur, Konstruksi, Bangunan;89;構:こう|造:ぞう
 手法;Shuhō;しゅほう;Metode, Cara, Teknik;89;手:しゅ|法:ほう
 便所;Benjo;べんじょ;Toilet, Kamar Mandi, WC;89;便:べん|所:じょ
-湯沸室;Yuwakashitsu;ゆわかしつ;Ruang Pemanas Air, Ruang Ketel, Ruang Boiler;89;湯:ゆ|沸:わ|室:しつ
+湯沸室;Yuwakashitsu;ゆわかしつ;Ruang Pemanas Air, Ruang Ketel, Ruang Boiler;89;湯:ゆ|沸:わか|室:しつ
 臭気;Shūki;しゅうき;Bau, Aroma, Bau Tidak Sedap;89;臭:しゅう|気:き
 燃焼;Nenshō;ねんしょう;Pembakaran, Pembakaran, Proses Pembakaran;89;燃:ねん|焼:しょう
-籠る;Komoru;こもる;Terkurung, Terperangkap, Bersembunyi;89;籠:こ
+籠る;Komoru;こもる;Terkurung, Terperangkap, Bersembunyi;89;籠:こも
 排風機;Haifūki;はいふうき;Exhaust Fan, Kipas Pembuangan, Alat Penghisap Udara;89;排:はい|風:ふう|機:き
 内部;Naibu;ないぶ;Bagian Dalam, Internal, Di Dalam;89;内:ない|部:ぶ
 埃;Hokori;ほこり;Debu, Serbuk, Kotoran;89;埃:ほこり
