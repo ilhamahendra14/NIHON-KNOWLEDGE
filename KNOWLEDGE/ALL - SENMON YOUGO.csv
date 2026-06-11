@@ -814,3 +814,54 @@
 圧力計;Atsuryoku Kei;あつりょくけい;Pengukur Tekanan, Pressure Gauge, Alat Ukur Tekanan;97;圧:あつ|力:りょく|計:けい
 圧力スイッチ;Atsuryoku Suicchi;あつりょくスイッチ;Saklar Tekanan, Pressure Switch, Alat Pengatur Tekanan;97;圧:あつ|力:りょく
 消火ポンプユニット;Shōka Ponpu Yunitto;しょうかポンプユニット;Unit Pompa Pemadam Kebakaran, Unit Pompa Pemadam Api, Sistem Pompa Pemadam Kebakaran;97;消:しょう|火:か|ポンプ|ユニット
+
+一般照明;Ippan Shōmei;いっぱんしょうめい;Penerangan Umum, Pencahayaan Umum, Lampu Umum;109;一般:いっぱん|照:しょう|明:めい
+照明器具;Shōmei Kigu;しょうめいきぐ;Perlengkapan Penerangan, Peralatan Pencahayaan, Lampu;109;照:しょう|明:めい|器:き|具:ぐ
+用途;Yōto;ようと;Penggunaan, Tujuan, Fungsi;109;用:よう|途:と
+明るさ;Akarusa;あかるさ;Kecerahan, Tingkat Kecerahan, Intensitas Cahaya;109;明:あか|るさ
+光源;Kōgen;こうげん;Sumber Cahaya, Sumber Penerangan, Sumber Lampu;109;光:こう|源:げん
+電流;Denryū;でんりゅう;Arus Listrik, Aliran Listrik, Kekuatan Arus;109;電:でん|流:りゅう
+抵抗;Teikō;ていこう;Resistansi, Hambatan, Tahanan;109;抵:てい|抗:こう
+白熱灯;Hakunetsutō;はくねつとう;Lampu Pijar, Incandescent Lamp, Lampu dengan Filamen yang Memanas;109;白:はく|熱:ねつ|灯:とう
+ハロゲン灯;Harogen-tō;ハロゲンとう;Lampu Halogen, Halogen Lamp, Lampu dengan Gas Halogen;109;灯:とう
+放電;Hōden;ほうでん;Pelepasan Listrik, Pelepasan Arus, Discharge;109;放:ほう|電:でん
+蛍光灯;Keikōtō;けいこうとう;Lampu Neon, Lampu Fluoresen, Fluorescent Lamp, Lampu dengan Gas Fluoresen;109;蛍:けい|光:こう|灯:とう
+水銀灯;Suigin-tō;すいぎんとう;Lampu Merkuri, Mercury Lamp, Lampu dengan Gas Merkuri;109;水:すい|銀:ぎん|灯:とう
+ナトリウム灯;Natoriumu-tō;ナトリウムとう;Lampu Natrium, Sodium Lamp, Lampu dengan Gas Natrium;109;灯:とう
+メタルハライド灯;Metaruharaido-tō;メタルハライドとう;Lampu Metal Halide, Metal Halide Lamp, Lampu dengan Gas Metal Halide;109;灯:とう
+半導体;Handōtai;はんどうたい;Semikonduktor, Komponen Elektronik, Alat Semikonduktor;109;半:はん|導:どう|体:たい
+LED灯;LED-tō;LEDとう;Lampu LED, LED Lamp, Lampu dengan Teknologi LED;109;灯:とう
+電球;Denkyū;でんきゅう;Bohlam, Lampu, Bola Lampu;109;電:でん|球:きゅう
+光;Hikari;ひかり;Cahaya, Sinar, Penerangan;109;光:ひかり
+発する;Hassuru;はっする;Menghasilkan, Memancarkan, Mengeluarkan;109;発:はっ
+白熱電球;Hakunetsu Denkyū;はくねつでんきゅう;Bohlam Pijar, Incandescent Bulb, Lampu dengan Filamen yang Memanas;109;白:はく|熱:ねつ|電:でん|球:きゅう
+寿命;Jumyō;じゅみょう;Umur, Masa Pakai, Usia;109;寿:じゅ|命:みょう
+効率;Kōritsu;こうりつ;Efisiensi, Keefektifan, Rasio Efisiensi;109;効:こう|率:りつ
+一部;Ichibu;いちぶ;Bagian, Sebagian, Satu Bagian;109;一:いち|部:ぶ
+生産中止;Seisan Chūshi;せいさんちゅうし;Penghentian Produksi, Henti Produksi, Tidak Diproduksi Lagi;109;生:せい|産:さん|中:ちゅう|止:し
+応じる;Ōjiru;おうじる;Menanggapi, Merespon, Sesuai dengan;109;応:おう
+検討;Kento;けんとう;Pertimbangan, Pembahasan, Evaluasi;109;検:けん|討:とう
+安定器;Anteiki;あんていき;Ballast, Stabilizer, Alat Penstabil;109;安:あん|定:てい|器:き
+一種;Isshu;いっしゅ;Satu Jenis, Tipe, Kategori;109;一:いち|種:しゅ
+変圧器;Hen'atsuki;へんあつき;Transformer, Alat Pengubah Tegangan, Perangkat Transformasi;109;変:へん|圧:あつ|器:き
+内蔵する;Naizō suru;ないぞうする;Tertanam, Terintegrasi, Dibangun di Dalam;109;内:ない|蔵:ぞう
+蛍光管;Keikōkan;けいこうかん;Tabung Fluoresen, Fluorescent Tube, Lampu Tabung Fluoresen;109;蛍:けい|光:こう|管:かん
+点灯する;Tentō suru;てんとうする;Menyalakan, Menghidupkan, Nyalakan;109;点:てん|灯:とう
+グローランプ;Gurōranpu;グローランプ;Glow Lamp, Lampu Glow, Lampu Pemanas untuk Tabung Fluoresen;109;
+グロースタート型;Gurō Sutāto-gata;グロースタートがた;Tipe Glow Start, Sistem Glow Start, Alat Pemanas Tipe Glow Start;109;型:がた
+水銀;Suigin;すいぎん;Merkuri, Mercury;109;水:すい|銀:ぎん
+防止;Bōshi;ぼうし;Pencegahan, Penghindaran, Perlindungan;109;防:ぼう|止:し
+法律;Hōritsu;ほうりつ;Hukum, Undang-Undang, Peraturan;109;法:ほう|律:りつ
+関係;Kankei;かんけい;Hubungan, Keterkaitan, Relasi;109;関:かん|係:けい
+大手各社;Ōte Kakusha;おおてかくしゃ;Perusahaan Besar, Perusahaan Utama, Perusahaan Terkemuka;109;大:おお|手:て|各:かく|社:しゃ
+製造;Seizō;せいぞう;Pembuatan, Produksi,Manufacturing;109;製:せい|造:ぞう
+中止する;Chūshi suru;ちゅうしする;Menghentikan, Membatalkan, Tidak Melanjutkan;109;中:ちゅう|止:し
+解説;Kaisetsu;かいせつ;Penjelasan, Uraian, Keterangan;109;解:かい|説:せつ
+参照する;Sanshō suru;さんしょうする;Merujuk, Mengacu, Referensi;109;参:さん|照:しょう
+フィラメント;Firamento;フィラメント;Filamen, Elemen Pemanas, Bahan yang Memanas dalam Lampu Pijar;109;
+電球発光;Denkyū Hakkō;でんきゅうはっこう;Penerangan dengan Bohlam, Penerangan dengan Lampu Pijar, Cahaya dari Bohlam;109;電:でん|球:きゅう|発:はっ|光:こう
+電子;Denshi;でんし;Elektron, Partikel Elektron, Muatan Negatif;109;電:でん|子:し
+電極;Denkyoku;でんきょく;Elektroda, Kutub, Terminal;109;電:でん|極:きょく
+水銀ガス;Suigin Gasu;すいぎんガス;Gas Merkuri, Merkuri Gas, Gas dengan Kandungan Merkuri;109;水:すい|銀:ぎん|ガス
+紫外線;Shigaisen;しがいせん;Sinar Ultraviolet, UV, Sinar UV;109;紫:し|外:がい|線:せん
+蛍光塗料;Keikō Toryō;けいこうとりょう;Cat Fluoresen, Cat Penerangan, Cat yang Memancarkan Cahaya;109;蛍:けい|光:こう|塗:と|料:りょう
