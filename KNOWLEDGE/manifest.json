@@ -1,6 +1,6 @@
 {
-  "version": "2026.06.11",
-  "last_updated": "2026-06-11T15:20:06.650097Z",
+  "version": "2026.06.15",
+  "last_updated": "2026-06-14T17:15:21.664022Z",
   "files": {
     "ALL - KANJI N3.csv": {
       "sha256": "815a6afc68678c7e944b3fa60dc8a03b65c36cb57ff3d71ac65a65649f5efbc6",
@@ -587,6 +587,11 @@
       "size": 186305,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u523b.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/ALL/\u5247.gif": {
+      "sha256": "925b910a9c1ff2e8826e39ed435b4361f902e251e5765c4a47892c1ee6029851",
+      "size": 380605,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u5247.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/ALL/\u524a.gif": {
       "sha256": "7656fe46e1a41425b83161f13ef1bd32fd42244f62d0e03d7de32b91d5953b46",
       "size": 329871,
@@ -936,6 +941,11 @@
       "sha256": "b91bb7df29b3130abf3125b1a58c02dbbff758e358749ada8188662e427ca745",
       "size": 225341,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u547c.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/ALL/\u547d.gif": {
+      "sha256": "82a3409d1059f44b0dd63c5bacb4cd91e6fa38203475d627952fecccd2b08162",
+      "size": 355338,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u547d.gif"
     },
     "\u66f8\u304d\u65b9_GIF/ALL/\u548c.gif": {
       "sha256": "7547ea7a78a3adb20ff62df0f74c2dabca1eee56cda04bd37d3b949acf0d593e",
@@ -1457,6 +1467,11 @@
       "size": 194700,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u5bfe.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/ALL/\u5bff.gif": {
+      "sha256": "ab85e3d04c1f9bf2da9078d7c193836b89617b48e603544305a55ae61edda947",
+      "size": 298405,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u5bff.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/ALL/\u5c01.gif": {
       "sha256": "672ee0f483b5f0ea8921fbb6ead026fc280c755dd41a3f3448614ab9170e79e2",
       "size": 312733,
@@ -1777,6 +1792,11 @@
       "size": 320861,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u5f85.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/ALL/\u5f8b.gif": {
+      "sha256": "823536cbf11a4473bc54dcd564837085f6d687d3775aa1ca24e95e76327cedc0",
+      "size": 379798,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u5f8b.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/ALL/\u5f8c.gif": {
       "sha256": "a02b8dc28fce571161228eebbf23086c3a9ba9ccd9aa28d9b4ff6fe2ced480cb",
       "size": 503497,
@@ -1997,6 +2017,11 @@
       "size": 276842,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u6295.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/ALL/\u6297.gif": {
+      "sha256": "46381f4be3ddd178d85f1bc798227b5f27520850e1b5aebdbfafa657c71c3965",
+      "size": 290363,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u6297.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/ALL/\u6298.gif": {
       "sha256": "7a6c2c8c5d14c989fa44eef6f57bbee31d7e6d2423217c10e80a59590eeaf753",
       "size": 332574,
@@ -2011,6 +2036,11 @@
       "sha256": "09061fb8a719f5af0231d0c9586f23b4adb683056298c302da76ea970cf552d4",
       "size": 242076,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u62b1.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/ALL/\u62b5.gif": {
+      "sha256": "10565f51a39ea3092b820f2c8444ae8be63dd74aa4eec5254e9876ac0940d651",
+      "size": 372425,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u62b5.gif"
     },
     "\u66f8\u304d\u65b9_GIF/ALL/\u62bc.gif": {
       "sha256": "867c72c91086e25767a3799f184e01dc689545633a50c1fe40a1721ab6038ef9",
@@ -3777,6 +3807,11 @@
       "size": 196041,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u7d05.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/ALL/\u7d10.gif": {
+      "sha256": "4ec62721359171e61d5cffbf45c4f07c7b7b09dbdddf8e18c931947d94fdeae4",
+      "size": 218439,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u7d10.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/ALL/\u7d14.gif": {
       "sha256": "0880caf60691f02ac0c1a42b2dda628c08650a472bdaf119d972c2564c4faf13",
       "size": 384814,
@@ -3796,6 +3831,11 @@
       "sha256": "60131560e6b89805910dda73a46208b28ce9e345345bbd00c92a600d9fc39821",
       "size": 326117,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u7d20.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/ALL/\u7d2b.gif": {
+      "sha256": "7f4eabc3b9197a1ce67cf8b9cf03492f4fce9328017123f3c55d857b86851547",
+      "size": 411643,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u7d2b.gif"
     },
     "\u66f8\u304d\u65b9_GIF/ALL/\u7d30.gif": {
       "sha256": "edb440885757db50e037f7608376b76680df83aaa122864fa4b47192ebbe98da",
@@ -4207,6 +4247,11 @@
       "size": 457896,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u86c7.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/ALL/\u86cd.gif": {
+      "sha256": "c071f0ef61ccf6af63c3529e988c2f82c52a7fc948ac59084be672c822a8b860",
+      "size": 314266,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u86cd.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/ALL/\u8840.gif": {
       "sha256": "57189d67bc29f3ccff7a2ae563b4291a88771ee1162a447ac56b23bf338faaa7",
       "size": 169758,
@@ -4332,6 +4377,11 @@
       "size": 361637,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u8a08.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/ALL/\u8a0e.gif": {
+      "sha256": "1cd10d85010df72500e55b96e5a7e709f04e775be92e6d71ff8a6b6dc77939f9",
+      "size": 268798,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u8a0e.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/ALL/\u8a13.gif": {
       "sha256": "a7c72f2308706c590aee38d4f32d7a465bb8880b6efc4c1710b00d8828a1b086",
       "size": 293673,
@@ -4401,6 +4451,11 @@
       "sha256": "56be28431b8be2fb7d368e127102fc3ac7908026f366f5a43d28bb16c9bd4f5a",
       "size": 329020,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u8a8d.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/ALL/\u8a98.gif": {
+      "sha256": "3d1b8187a9c68626246d9d0bbf83f16d29837bb235835d62a0663afb1249a71f",
+      "size": 315378,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u8a98.gif"
     },
     "\u66f8\u304d\u65b9_GIF/ALL/\u8a9e.gif": {
       "sha256": "67762f02f467ae4eded44dd60a6d2495561f0a712c4593977773bf22991087b1",
@@ -4627,6 +4682,11 @@
       "size": 221503,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u8f03.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/ALL/\u8f1d.gif": {
+      "sha256": "d509cf0d09d0567c235180eb79e70a7ffc63bf2c482a5ab7ef44297906177166",
+      "size": 339337,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u8f1d.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/ALL/\u8f29.gif": {
       "sha256": "4c47c6ef6e8eff02e900cbfd1d2aa78861ae2f4a9d84b0a2f15ce10f19ddb86a",
       "size": 468416,
@@ -4781,6 +4841,11 @@
       "sha256": "c8daa0566d9ad576a0b0b31052077098ac0232bf2301513e73826b971cf0c35f",
       "size": 325395,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u9078.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/ALL/\u907f.gif": {
+      "sha256": "95226011596dcff1b14ae75ecb54be331bef9c0b992859b00e57b2bcb3ec34c5",
+      "size": 325291,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/ALL/\u907f.gif"
     },
     "\u66f8\u304d\u65b9_GIF/ALL/\u9084.gif": {
       "sha256": "d866c3787800c080feaff4008da2aa00c223a8473e51c1d5c4a404d77ac77efc",
@@ -11632,6 +11697,11 @@
       "size": 232676,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u4ed8.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u4ee3.gif": {
+      "sha256": "ce4c855e39369fc79b0146a2b0b9bdc53a26ebe38910de36253f6b9aec1b8c7d",
+      "size": 247304,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u4ee3.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/senmon/\u4ee4.gif": {
       "sha256": "5d1225d3168f732e0bd8738def6d7e1488d7bae23040f875f4ec70602df3ddf8",
       "size": 192648,
@@ -11641,6 +11711,11 @@
       "sha256": "d0b51a999a1f953f1f87ea0e1b54b70f7aa2c31f0e7fe04646d07e44a107c832",
       "size": 124230,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u4ee5.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u4ef6.gif": {
+      "sha256": "5c637f43db6b0a596d264a365f1884a0f44a3f4e10c83df99c5c61bc9fc64f9d",
+      "size": 248591,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u4ef6.gif"
     },
     "\u66f8\u304d\u65b9_GIF/senmon/\u4f1a.gif": {
       "sha256": "6792abd03c841c563f2e38bd42f3707195f9ee5d671b5b6b7cdf5ca0e1fbfb13",
@@ -11707,6 +11782,11 @@
       "size": 385080,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u4fbf.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u4fc2.gif": {
+      "sha256": "7f264ffcf18cd075ed3a8955af4f979559ec4ba9a12e4a864fb237cc53b5c124",
+      "size": 350493,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u4fc2.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/senmon/\u4fdd.gif": {
       "sha256": "59da446ab0e871972bdfa0a78ee109456133b023b2eed6f3ebddf68f81394a28",
       "size": 409765,
@@ -11756,6 +11836,11 @@
       "sha256": "018962134409c88444b98e52e7d63052d27a29f781c6a9f45c5035fed852d904",
       "size": 228312,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u5145.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u5149.gif": {
+      "sha256": "b88ad9943d81377b3eb5e2df7812e3747cda6b782baed62e4ebff34ffc03a2c4",
+      "size": 202108,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u5149.gif"
     },
     "\u66f8\u304d\u65b9_GIF/senmon/\u5165.gif": {
       "sha256": "ca05522cdacc1f595043d2b8641266c61eb6c817e6aad5362ed2749f0410bd93",
@@ -11852,6 +11937,11 @@
       "size": 321914,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u5236.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u5247.gif": {
+      "sha256": "925b910a9c1ff2e8826e39ed435b4361f902e251e5765c4a47892c1ee6029851",
+      "size": 380605,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u5247.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/senmon/\u5264.gif": {
       "sha256": "0537b02ff8850e01a2cd604c8c490769ca6d3970fd014e1c253550e07ccce4b6",
       "size": 431717,
@@ -11907,6 +11997,11 @@
       "size": 190598,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u533a.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u534a.gif": {
+      "sha256": "0ccba2bfcf6eec613e3e670d53254db8b05ca6a7c4adacaa1525e8aaa49d90b0",
+      "size": 188513,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u534a.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/senmon/\u5358.gif": {
       "sha256": "a23792f68ae66e453aa9cc26ea6ba5033331bbbd1488ac2363b50c4c3d09b840",
       "size": 254045,
@@ -11931,6 +12026,11 @@
       "sha256": "61f9fa21e24f79f0c2b10312d5af41905c72bb7c6deae18b116751e95e9b39fd",
       "size": 160605,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u53bb.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u53c2.gif": {
+      "sha256": "01ee7c39f5c32e546e4e92efa001d613e440a0f865731287197ce9d0fb6d1638",
+      "size": 314297,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u53c2.gif"
     },
     "\u66f8\u304d\u65b9_GIF/senmon/\u53c8.gif": {
       "sha256": "c5d9e9b213065d872a360ce9f1b5906d2b9ee61afdd180840c76cba7fb94408a",
@@ -12007,10 +12107,20 @@
       "size": 162415,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u5438.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u544a.gif": {
+      "sha256": "3dd58628003c8b0b0e1b30626590e6cd9980a5ac1317591138d006ac84777806",
+      "size": 247673,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u544a.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/senmon/\u5468.gif": {
       "sha256": "fcf7df40cb7e1930e92bf8a32faa5ba5b89b4e208212698ae9135a8d91e69f94",
       "size": 295270,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u5468.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u547d.gif": {
+      "sha256": "82a3409d1059f44b0dd63c5bacb4cd91e6fa38203475d627952fecccd2b08162",
+      "size": 355338,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u547d.gif"
     },
     "\u66f8\u304d\u65b9_GIF/senmon/\u548c.gif": {
       "sha256": "7547ea7a78a3adb20ff62df0f74c2dabca1eee56cda04bd37d3b949acf0d593e",
@@ -12257,6 +12367,11 @@
       "size": 194700,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u5bfe.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u5bff.gif": {
+      "sha256": "ab85e3d04c1f9bf2da9078d7c193836b89617b48e603544305a55ae61edda947",
+      "size": 298405,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u5bff.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/senmon/\u5c01.gif": {
       "sha256": "672ee0f483b5f0ea8921fbb6ead026fc280c755dd41a3f3448614ab9170e79e2",
       "size": 312733,
@@ -12341,6 +12456,11 @@
       "sha256": "7df457e24b826fc74a5d03254124a605d641f48bcb30ff61410f94a0615133a8",
       "size": 194316,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u5e02.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u5e30.gif": {
+      "sha256": "bb54146485a67a777904cbf536ac72a36dab903758b058bdfb8956850080062a",
+      "size": 519544,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u5e30.gif"
     },
     "\u66f8\u304d\u65b9_GIF/senmon/\u5e38.gif": {
       "sha256": "11a8042181c648d14d4826fff9c52a4b3a27fcd55d4fd312523b183a6be8bc80",
@@ -12427,10 +12547,20 @@
       "size": 307152,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u5f79.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u5f8b.gif": {
+      "sha256": "823536cbf11a4473bc54dcd564837085f6d687d3775aa1ca24e95e76327cedc0",
+      "size": 379798,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u5f8b.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/senmon/\u5fa1.gif": {
       "sha256": "d0cb123a25df440ba7f34677c9a17e1bf93b8855fde4835e25a2463c3ed3689f",
       "size": 520422,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u5fa1.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u5fa9.gif": {
+      "sha256": "14395415780fedef821c7bab128b145b759168d46da9c11cbe9820c03d68aa0a",
+      "size": 538287,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u5fa9.gif"
     },
     "\u66f8\u304d\u65b9_GIF/senmon/\u5fc3.gif": {
       "sha256": "fb0cd7cad5052cdb0a65e3c8bdbfdf262e8c116dc2140fe6e4c410afb2426b63",
@@ -12527,10 +12657,20 @@
       "size": 276842,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u6295.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u6297.gif": {
+      "sha256": "46381f4be3ddd178d85f1bc798227b5f27520850e1b5aebdbfafa657c71c3965",
+      "size": 290363,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u6297.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/senmon/\u629c.gif": {
       "sha256": "fecf1f0595288ab8287b12ee9c8c41dc718e73474007825d281fbba01c44773d",
       "size": 185730,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u629c.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u62b5.gif": {
+      "sha256": "10565f51a39ea3092b820f2c8444ae8be63dd74aa4eec5254e9876ac0940d651",
+      "size": 372425,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u62b5.gif"
     },
     "\u66f8\u304d\u65b9_GIF/senmon/\u62bc.gif": {
       "sha256": "867c72c91086e25767a3799f184e01dc689545633a50c1fe40a1721ab6038ef9",
@@ -12637,6 +12777,11 @@
       "size": 329615,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u6577.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u6599.gif": {
+      "sha256": "a8d0be75c066dea18b003d9d2edd9af4d8024bbced61e600eccd88a77b45c426",
+      "size": 234138,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u6599.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/senmon/\u65ad.gif": {
       "sha256": "234adc1c4a3c3ab5954a2c4276b834d550b640d8438c650939053b963efc446d",
       "size": 263974,
@@ -12671,6 +12816,11 @@
       "sha256": "08df69db279d994546d53f456cc9a5d85b99e7feb6f34aafde351721c2aa9f87",
       "size": 325045,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u6607.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u660e.gif": {
+      "sha256": "9112d5bec512d36a08b773a287d072e1c197714fd2983842cc37d191bd2ee0be",
+      "size": 192064,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u660e.gif"
     },
     "\u66f8\u304d\u65b9_GIF/senmon/\u6613.gif": {
       "sha256": "0cd7fd2d01913a70184c85ed43c095dd84015e6b65133ea9d66784577e7c3a52",
@@ -12926,6 +13076,11 @@
       "sha256": "1d610748f036d90300d1714850f9fd5d1d99f71500ebcf58639a3e91ce29b3a3",
       "size": 214143,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u6c5a.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u6c60.gif": {
+      "sha256": "9ed76be159fb3b4c8118f4ee4d54193db70abcf61f6b701d579ec726beb92b79",
+      "size": 255702,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u6c60.gif"
     },
     "\u66f8\u304d\u65b9_GIF/senmon/\u6cb8.gif": {
       "sha256": "df975c7008d30823e44d83555f18ed32d171c512073619348429ecbc911a4c3a",
@@ -13187,6 +13342,11 @@
       "size": 412428,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u73fe.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u7403.gif": {
+      "sha256": "cb60cb00d272d619d000eab6fdd7d6e8e8e21381ba4339ab5e17e1e4fc055879",
+      "size": 250015,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u7403.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/senmon/\u7406.gif": {
       "sha256": "922cd7c99321670f89904103c49cade9f394b590525b352adc8976d77e5e5789",
       "size": 356877,
@@ -13201,6 +13361,11 @@
       "sha256": "5a373b32e3b874f21762f9b3e792a72147192015bff2bb4cd44cae6332d2e803",
       "size": 138003,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u751f.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u7523.gif": {
+      "sha256": "6c3c82862ea022468051f80fb4fac7599d455f4b0cb2b4695fe08a5980bbfd86",
+      "size": 241483,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u7523.gif"
     },
     "\u66f8\u304d\u65b9_GIF/senmon/\u7528.gif": {
       "sha256": "e9278ff0d258205aef33dfdcf623543e63e85711b4414bdd649aa9bf2f356c4f",
@@ -13236,6 +13401,11 @@
       "sha256": "09ef905b3f3163a1c9eb14bff51b9dece55455c8b31bc96e4f93b867f849f097",
       "size": 234505,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u767a.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u767d.gif": {
+      "sha256": "c4e0ccd6b02423f2d3ecedf0037eb4a5435c4236f7083f74f3a67151cdb06a86",
+      "size": 144625,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u767d.gif"
     },
     "\u66f8\u304d\u65b9_GIF/senmon/\u767e.gif": {
       "sha256": "a782c9392768524e819558c367c45d9b1bf615e2c25946b1a7f4e3343fd33ed9",
@@ -13311,6 +13481,11 @@
       "sha256": "d2c3e9c321e2538f204ee7c44a78c93e0c16b502129b9217623c70309526e336",
       "size": 153239,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u793a.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u793e.gif": {
+      "sha256": "d1686d9c124e24158c91e80973c21033df9685e7b29831cf01a3bb54a0aa1032",
+      "size": 190593,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u793e.gif"
     },
     "\u66f8\u304d\u65b9_GIF/senmon/\u7a0b.gif": {
       "sha256": "aa91789d39613da59ad3aad1b685437e9aaa10300535685a2dccd4dd14835af0",
@@ -13407,10 +13582,20 @@
       "size": 214328,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u7d04.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u7d10.gif": {
+      "sha256": "4ec62721359171e61d5cffbf45c4f07c7b7b09dbdddf8e18c931947d94fdeae4",
+      "size": 218439,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u7d10.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/senmon/\u7d20.gif": {
       "sha256": "60131560e6b89805910dda73a46208b28ce9e345345bbd00c92a600d9fc39821",
       "size": 326117,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u7d20.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u7d2b.gif": {
+      "sha256": "7f4eabc3b9197a1ce67cf8b9cf03492f4fce9328017123f3c55d857b86851547",
+      "size": 411643,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u7d2b.gif"
     },
     "\u66f8\u304d\u65b9_GIF/senmon/\u7d30.gif": {
       "sha256": "edb440885757db50e037f7608376b76680df83aaa122864fa4b47192ebbe98da",
@@ -13426,6 +13611,11 @@
       "sha256": "401752a578fa36f05425438ba6cd5e8afe80c2b715b7143232c29772c0e828cf",
       "size": 236520,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u7d44.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u7d4c.gif": {
+      "sha256": "102cf8850f7bf0776b3d41f67d787998a47d97b2015444ce4a45ff2e0f89e955",
+      "size": 303156,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u7d4c.gif"
     },
     "\u66f8\u304d\u65b9_GIF/senmon/\u7d50.gif": {
       "sha256": "56e647d8edd5fa9f4e8a092b7add60b1590745439e547f7a80da6636a7728a5f",
@@ -13592,6 +13782,11 @@
       "size": 616367,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u821e.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u822c.gif": {
+      "sha256": "7c76bfaec21120f9ad6b26a3bf98082918b8967dae42618115a459a311ee5f48",
+      "size": 250900,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u822c.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/senmon/\u826f.gif": {
       "sha256": "49fee2753d939dddc5d8b731f472b0009bf83e0ce017c14defbaa1f544c6e5ad",
       "size": 239038,
@@ -13627,6 +13822,11 @@
       "size": 241296,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u84c4.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u8535.gif": {
+      "sha256": "ae1277dd3c63b580d5c56b92e5934ffb40260d03cac908b81d39600853d1360b",
+      "size": 306802,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u8535.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/senmon/\u8584.gif": {
       "sha256": "45cee7c9645ad32ff43eb009570e89b53d364213c3aa2bbf15f3310e566d6f11",
       "size": 328550,
@@ -13641,6 +13841,16 @@
       "sha256": "d423c37166c6a6b101bd5a7e949e4506004ac06a03fd18acf2cc98f54ac5a881",
       "size": 457896,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u86c7.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u86cd.gif": {
+      "sha256": "c071f0ef61ccf6af63c3529e988c2f82c52a7fc948ac59084be672c822a8b860",
+      "size": 314266,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u86cd.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u884c.gif": {
+      "sha256": "b319d51368045a80bf2404f047f530893cd8f8a9e242efa61fcbb679292235ff",
+      "size": 181243,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u884c.gif"
     },
     "\u66f8\u304d\u65b9_GIF/senmon/\u8853.gif": {
       "sha256": "622d6acfbf7c9b50570f5d65e1202605a7b9454c68bd9307b7a34ba6a3c36651",
@@ -13717,6 +13927,11 @@
       "size": 361637,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u8a08.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u8a0e.gif": {
+      "sha256": "1cd10d85010df72500e55b96e5a7e709f04e775be92e6d71ff8a6b6dc77939f9",
+      "size": 268798,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u8a0e.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/senmon/\u8a13.gif": {
       "sha256": "a7c72f2308706c590aee38d4f32d7a465bb8880b6efc4c1710b00d8828a1b086",
       "size": 293673,
@@ -13752,6 +13967,11 @@
       "size": 420612,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u8a70.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u8a98.gif": {
+      "sha256": "3d1b8187a9c68626246d9d0bbf83f16d29837bb235835d62a0663afb1249a71f",
+      "size": 315378,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u8a98.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/senmon/\u8a9e.gif": {
       "sha256": "67762f02f467ae4eded44dd60a6d2495561f0a712c4593977773bf22991087b1",
       "size": 248264,
@@ -13761,6 +13981,11 @@
       "sha256": "e193847ce3985eead73b2e9b8aceef5d920b5fa69a87bd47cf7c6003d629f5a7",
       "size": 511924,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u8aa4.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u8aac.gif": {
+      "sha256": "2a827214ad9ad254a76e777125dbcf1266659691972c386d0e43cc98af358f01",
+      "size": 349912,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u8aac.gif"
     },
     "\u66f8\u304d\u65b9_GIF/senmon/\u8abf.gif": {
       "sha256": "00a01238848933023a9d693274140a4400263bc20b9d0f0c063441956c81b86a",
@@ -13832,6 +14057,11 @@
       "size": 539539,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u8de1.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u8def.gif": {
+      "sha256": "4648222a9b7c0a24ee28ef2d750190f762c4e796b5cb373976540bb1bf125bc6",
+      "size": 345264,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u8def.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/senmon/\u8eab.gif": {
       "sha256": "2296fe74ec37726cd4c478b9cbb1138c57d161b7d84fe0f84426d4e21209770e",
       "size": 179412,
@@ -13851,6 +14081,11 @@
       "sha256": "5a3b7129194eac0e0202830c12e743b3b68fce1abccc9f78700ee4b9d1c5aa83",
       "size": 221503,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u8f03.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u8f1d.gif": {
+      "sha256": "d509cf0d09d0567c235180eb79e70a7ffc63bf2c482a5ab7ef44297906177166",
+      "size": 339337,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u8f1d.gif"
     },
     "\u66f8\u304d\u65b9_GIF/senmon/\u8fbc.gif": {
       "sha256": "b335aabbc9c673b77bbd3f243e12d9edf1ada3f527ebb27611ba09f0e3b9f936",
@@ -13887,6 +14122,11 @@
       "size": 257426,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u901a.gif"
     },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u901f.gif": {
+      "sha256": "e5fb15e6cc6ce276d84b07ecdc9817561eff49bf0128b0d02aa705a0646cb5ec",
+      "size": 273231,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u901f.gif"
+    },
     "\u66f8\u304d\u65b9_GIF/senmon/\u9020.gif": {
       "sha256": "9bbb998364f66d7583662d42a56f0aa4fa238b3afe89440f5fecb230db55b67b",
       "size": 229959,
@@ -13911,6 +14151,11 @@
       "sha256": "ff4ed4879f1d9020d051736e26bc2a3efd46235044e25834a6b8b44130b51ad8",
       "size": 308509,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u9069.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u907f.gif": {
+      "sha256": "95226011596dcff1b14ae75ecb54be331bef9c0b992859b00e57b2bcb3ec34c5",
+      "size": 325291,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u907f.gif"
     },
     "\u66f8\u304d\u65b9_GIF/senmon/\u9084.gif": {
       "sha256": "d866c3787800c080feaff4008da2aa00c223a8473e51c1d5c4a404d77ac77efc",
@@ -13956,6 +14201,11 @@
       "sha256": "4f45031d8d9aa7b8bfc73f0332cf049b729b43a1b283214258f67ffbaacfb591",
       "size": 178790,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u91d1.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u9280.gif": {
+      "sha256": "fa048102708c9be400ace7d95ac6f7676ab7aaa70bb804322e82960fe940d44f",
+      "size": 563303,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u9280.gif"
     },
     "\u66f8\u304d\u65b9_GIF/senmon/\u9285.gif": {
       "sha256": "98b63de41b8bc108970e74911aafe20b5cd13a47e46edb656eda469f94c38014",
@@ -14081,6 +14331,11 @@
       "sha256": "24cca2a61915132894ab462d39270b635b7b204700618d998a307d2ab2a98c23",
       "size": 622179,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u96e2.gif"
+    },
+    "\u66f8\u304d\u65b9_GIF/senmon/\u96e3.gif": {
+      "sha256": "f033cc82394b09fb793574039bf77c91067efe4c87a45790c6e249f7f2396598",
+      "size": 335050,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/\u66f8\u304d\u65b9_GIF/senmon/\u96e3.gif"
     },
     "\u66f8\u304d\u65b9_GIF/senmon/\u96e8.gif": {
       "sha256": "8f248a93bf8cb4f1e1138a0576d84ca16980d11918f172a1923aeefbd74bcd1c",
@@ -24217,6 +24472,511 @@
       "size": 39140,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/kanji/\u7b2c6\u90317\u65e5\u76ee-\u8868\u60c5.wav"
     },
+    "Audio/senmon/109-LED\u706f.wav": {
+      "sha256": "8eb130d093363e9784264fd3538c0478726cf79e128d678d0f2222dff0e55327",
+      "size": 53434,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-LED\u706f.wav"
+    },
+    "Audio/senmon/109-\u30b0\u30ed\u30fc\u30b9\u30bf\u30fc\u30c8\u578b.wav": {
+      "sha256": "5a7034cb84d85c0387216a8b2d26996c31c1ce283b16c7ba712b1464ecf63ea8",
+      "size": 63482,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u30b0\u30ed\u30fc\u30b9\u30bf\u30fc\u30c8\u578b.wav"
+    },
+    "Audio/senmon/109-\u30b0\u30ed\u30fc\u30e9\u30f3\u30d7.wav": {
+      "sha256": "c1ab81aa33a2ad4ca848ddde67492a05bd4b5b1189d0b9a0eafdc115b6ae86e6",
+      "size": 47454,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u30b0\u30ed\u30fc\u30e9\u30f3\u30d7.wav"
+    },
+    "Audio/senmon/109-\u30ca\u30c8\u30ea\u30a6\u30e0\u706f.wav": {
+      "sha256": "bc09b492c6f1ab8cc46b6afb2239107f31fc7fcc1fc0cf19b1594a220274cd5f",
+      "size": 49400,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u30ca\u30c8\u30ea\u30a6\u30e0\u706f.wav"
+    },
+    "Audio/senmon/109-\u30cf\u30ed\u30b2\u30f3\u706f.wav": {
+      "sha256": "4796d368457974dc1f528efdbcb7cd6406f09170ebaee38243d10297c7c0dbc4",
+      "size": 47844,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u30cf\u30ed\u30b2\u30f3\u706f.wav"
+    },
+    "Audio/senmon/109-\u30d5\u30a3\u30e9\u30e1\u30f3\u30c8.wav": {
+      "sha256": "77c35e6c6118f2bd7b1c007edc57f76e753c91104c910ace939bc1fd013a4a58",
+      "size": 45048,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u30d5\u30a3\u30e9\u30e1\u30f3\u30c8.wav"
+    },
+    "Audio/senmon/109-\u30e1\u30bf\u30eb\u30cf\u30e9\u30a4\u30c9\u706f.wav": {
+      "sha256": "78e74a1df82e094b83e2d8262f398b4c8e67279b3035a2774522bb37f3da5606",
+      "size": 63690,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u30e1\u30bf\u30eb\u30cf\u30e9\u30a4\u30c9\u706f.wav"
+    },
+    "Audio/senmon/109-\u4e00\u7a2e.wav": {
+      "sha256": "0dd2988df996f24d8cb410b0938576cd113fa8170ec3ddb130488c7b6b75488d",
+      "size": 32770,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u4e00\u7a2e.wav"
+    },
+    "Audio/senmon/109-\u4e00\u822c\u7167\u660e.wav": {
+      "sha256": "44d22ab1bae424d4b54b99db3922619275a16db62031db01ff292d24fccb513d",
+      "size": 54988,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u4e00\u822c\u7167\u660e.wav"
+    },
+    "Audio/senmon/109-\u4e00\u90e8.wav": {
+      "sha256": "6c227753bb7e5ed45c7955018516c1c86088e79c8699e14b6df509082dc7418b",
+      "size": 32804,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u4e00\u90e8.wav"
+    },
+    "Audio/senmon/109-\u4e2d\u6b62\u3059\u308b.wav": {
+      "sha256": "28463acc548e11371cef168427f867a6387e52c248263ce70fb6c7e61ad7da05",
+      "size": 47474,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u4e2d\u6b62\u3059\u308b.wav"
+    },
+    "Audio/senmon/109-\u5149.wav": {
+      "sha256": "22c72761763d3f1258b17f935182e537de393ba115def4d8abc4cd05f0e0233e",
+      "size": 29882,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u5149.wav"
+    },
+    "Audio/senmon/109-\u5149\u6e90.wav": {
+      "sha256": "9286c84278bbdd5b7a944fbf9ee3e6e7528ff017d8e7f6254e8c2bc15f120328",
+      "size": 36978,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u5149\u6e90.wav"
+    },
+    "Audio/senmon/109-\u5185\u8535\u3059\u308b.wav": {
+      "sha256": "ee60370321ccadce6bd5da4a2ac61be5bc7f413fbf4e1ce7728d08103fa084fb",
+      "size": 49136,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u5185\u8535\u3059\u308b.wav"
+    },
+    "Audio/senmon/109-\u52b9\u7387.wav": {
+      "sha256": "7ad243723d9c4ef6845165959ebe30bd4c8ec9ee5c237bdd903bbf9cc032d1f0",
+      "size": 42104,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u52b9\u7387.wav"
+    },
+    "Audio/senmon/109-\u534a\u5c0e\u4f53.wav": {
+      "sha256": "82e0d0a47e0225303b4b376479a43de5ad763dc2c4c9b1a628d6d8b33f9e5c4e",
+      "size": 43308,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u534a\u5c0e\u4f53.wav"
+    },
+    "Audio/senmon/109-\u53c2\u7167\u3059\u308b.wav": {
+      "sha256": "c60ced66c2ab48d47d385ba9493f258078fb6d915080b4a5e2fd34471607c782",
+      "size": 53316,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u53c2\u7167\u3059\u308b.wav"
+    },
+    "Audio/senmon/109-\u5909\u5727\u5668.wav": {
+      "sha256": "cdecf60a5ea24abf3ad78068a1487f282c2e418d48105dd1d612ba456cf1939d",
+      "size": 44378,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u5909\u5727\u5668.wav"
+    },
+    "Audio/senmon/109-\u5927\u624b\u5404\u793e.wav": {
+      "sha256": "3886a2f9b4dfc633c094f6521db77ac3f439c003a21c2fc0498197bd5d984d4c",
+      "size": 51134,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u5927\u624b\u5404\u793e.wav"
+    },
+    "Audio/senmon/109-\u5b89\u5b9a\u5668.wav": {
+      "sha256": "e94e690590f7a9cf12601516f9b8183dcb5e47f41f5e1f038005fd7ab4b2646d",
+      "size": 44002,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u5b89\u5b9a\u5668.wav"
+    },
+    "Audio/senmon/109-\u5bff\u547d.wav": {
+      "sha256": "34b08d2abc9f7b931b4306bbb3f33b57ade5ee446fcb76d8f8202d546b86540a",
+      "size": 37040,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u5bff\u547d.wav"
+    },
+    "Audio/senmon/109-\u5fdc\u3058\u308b.wav": {
+      "sha256": "d60dcf618c06871df489fdcf4fd33828a8608eee7d744982a3bd1c348e720281",
+      "size": 36288,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u5fdc\u3058\u308b.wav"
+    },
+    "Audio/senmon/109-\u62b5\u6297.wav": {
+      "sha256": "aaf7e4399a0bf3bae2b0e463c702fc18a039263f42df8c83f01213b1247e2b1b",
+      "size": 37006,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u62b5\u6297.wav"
+    },
+    "Audio/senmon/109-\u653e\u96fb.wav": {
+      "sha256": "95b3a2a91d73ce8da19184bb22bec4fffd80983a187118b0a5b57a1e990bc57f",
+      "size": 34774,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u653e\u96fb.wav"
+    },
+    "Audio/senmon/109-\u660e\u308b\u3055.wav": {
+      "sha256": "f9d305863bec91ea207ee5cf678ed8dfdd444765a79bb2d5ebc038ab8fe6640e",
+      "size": 39004,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u660e\u308b\u3055.wav"
+    },
+    "Audio/senmon/109-\u691c\u8a0e.wav": {
+      "sha256": "f5c2a11bc6915c7ee25a4538995928f6b977c1c4d7acf2695ec6286d02b4ad04",
+      "size": 35722,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u691c\u8a0e.wav"
+    },
+    "Audio/senmon/109-\u6c34\u9280.wav": {
+      "sha256": "82d0c5cacc03aab7a0eaa6acb467705c628d52a58f6a88bf7689877e9b45a610",
+      "size": 36174,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u6c34\u9280.wav"
+    },
+    "Audio/senmon/109-\u6c34\u9280\u30ac\u30b9.wav": {
+      "sha256": "1b612cd712683d3ed4d42bd2f09b9be9b2920ebcb6b4dc0ed32ad82985127f52",
+      "size": 52958,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u6c34\u9280\u30ac\u30b9.wav"
+    },
+    "Audio/senmon/109-\u6c34\u9280\u706f.wav": {
+      "sha256": "06fc135b64127f17e284f99c271ad4e6ec3ac3a4969a4f53b71da38980d9e95d",
+      "size": 47632,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u6c34\u9280\u706f.wav"
+    },
+    "Audio/senmon/109-\u6cd5\u5f8b.wav": {
+      "sha256": "2f4097ddd94912e2b3587396f5c0a0622c17a81d44fe89b26c469fcb6baf585e",
+      "size": 41016,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u6cd5\u5f8b.wav"
+    },
+    "Audio/senmon/109-\u70b9\u706f\u3059\u308b.wav": {
+      "sha256": "e2ae6b2b8bffe380d10549bdce7bac24da9f12ee399742e9b9c34aa2c2e53538",
+      "size": 47774,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u70b9\u706f\u3059\u308b.wav"
+    },
+    "Audio/senmon/109-\u7167\u660e\u5668\u5177.wav": {
+      "sha256": "286dccf0d1741a0c64fd40ba933c11119565cab1758c740c95ee298f4b1467b9",
+      "size": 52276,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u7167\u660e\u5668\u5177.wav"
+    },
+    "Audio/senmon/109-\u751f\u7523\u4e2d\u6b62.wav": {
+      "sha256": "37dc526df3efdbfcbcdb4a85378252bee1d6c203649d2c9930a51980612f3b6b",
+      "size": 60804,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u751f\u7523\u4e2d\u6b62.wav"
+    },
+    "Audio/senmon/109-\u7528\u9014.wav": {
+      "sha256": "8778083351282bc7b8bb359385467f5c23589da0d3c7b33776f7fd7f909bc413",
+      "size": 32788,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u7528\u9014.wav"
+    },
+    "Audio/senmon/109-\u767a\u3059\u308b.wav": {
+      "sha256": "0e8176b9d39ae9c12e427aa3c0b19423b30df85798ee31ee54870f9175dfe43d",
+      "size": 36392,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u767a\u3059\u308b.wav"
+    },
+    "Audio/senmon/109-\u767d\u71b1\u706f.wav": {
+      "sha256": "ff27e8c6832a88220039b5fb94900455aeedf1e08f24f03d4e8548cda326593a",
+      "size": 47722,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u767d\u71b1\u706f.wav"
+    },
+    "Audio/senmon/109-\u767d\u71b1\u96fb\u7403.wav": {
+      "sha256": "05564a22c5dc6ae7c645e89ee8c0cb794dafc43dc35e98935e867a253e5c3678",
+      "size": 61664,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u767d\u71b1\u96fb\u7403.wav"
+    },
+    "Audio/senmon/109-\u7d2b\u5916\u7dda.wav": {
+      "sha256": "af18c447c548e1f4d0c8b400206bcaa2c5b60cb8df6d2ec985c87da8705cd797",
+      "size": 45324,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u7d2b\u5916\u7dda.wav"
+    },
+    "Audio/senmon/109-\u86cd\u5149\u5857\u6599.wav": {
+      "sha256": "cbaf641bac0cf4e5515f957869e7885e8972e71c122e5a241a3ca573c91e765d",
+      "size": 54660,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u86cd\u5149\u5857\u6599.wav"
+    },
+    "Audio/senmon/109-\u86cd\u5149\u706f.wav": {
+      "sha256": "205c9998c38033b664b2b54e4ff31d302fa5c40a970993713e1e046d6b3fae50",
+      "size": 43158,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u86cd\u5149\u706f.wav"
+    },
+    "Audio/senmon/109-\u86cd\u5149\u7ba1.wav": {
+      "sha256": "2bf23f9b71a96b9b874cd1a2e93c598caf08ec17ec3c2dfdf090fecee91faa04",
+      "size": 46980,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u86cd\u5149\u7ba1.wav"
+    },
+    "Audio/senmon/109-\u88fd\u9020.wav": {
+      "sha256": "173e206cf8b99c59d7fae22cc4d1bb632c1a07cf248fac8983a98eee05b0a4d0",
+      "size": 38340,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u88fd\u9020.wav"
+    },
+    "Audio/senmon/109-\u89e3\u8aac.wav": {
+      "sha256": "2992595b167a24dcbb86c5bd4dddb0db57826e4c1cb89b2360bb779c2e97a6db",
+      "size": 45142,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u89e3\u8aac.wav"
+    },
+    "Audio/senmon/109-\u95a2\u4fc2.wav": {
+      "sha256": "74775d535b173f38b433ca3acf5d97773b583c55816cbef830574623001b0954",
+      "size": 37340,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u95a2\u4fc2.wav"
+    },
+    "Audio/senmon/109-\u9632\u6b62.wav": {
+      "sha256": "676d4edda1a9700f27736aecc38b00bd5dffd8e8326571cf589e9ca2abb3076c",
+      "size": 35930,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u9632\u6b62.wav"
+    },
+    "Audio/senmon/109-\u96fb\u5b50.wav": {
+      "sha256": "7ad5ff4253ac0af86e9867fa63ff67d91ffb1e546d99c071ca6daf266547499d",
+      "size": 36184,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u96fb\u5b50.wav"
+    },
+    "Audio/senmon/109-\u96fb\u6975.wav": {
+      "sha256": "41cd3cac397fc919855c720373b8b8d93bf3945cd05e14adf7f88f851954b513",
+      "size": 42264,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u96fb\u6975.wav"
+    },
+    "Audio/senmon/109-\u96fb\u6d41.wav": {
+      "sha256": "88d5395c9d18ee1cf783a56bd57ce9aaf70b910da79276a15786cc817a870338",
+      "size": 36302,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u96fb\u6d41.wav"
+    },
+    "Audio/senmon/109-\u96fb\u7403.wav": {
+      "sha256": "06fd022bb04fc85e05dfcc8a6ae3c2c6b7aad0dcef92477d2ea36d212e42a938",
+      "size": 37640,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u96fb\u7403.wav"
+    },
+    "Audio/senmon/109-\u96fb\u7403\u767a\u5149.wav": {
+      "sha256": "522dcb66df06cf311a433f253dc95f4e1d157620a3b9e1969e02590e3eeacf95",
+      "size": 58324,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/109-\u96fb\u7403\u767a\u5149.wav"
+    },
+    "Audio/senmon/111-\u4e00\u7b87\u6240.wav": {
+      "sha256": "ef1621c73866ad9b6d6ebbfafa29699b9c54445d4cc6b0803d764670d0ff9976",
+      "size": 38850,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u4e00\u7b87\u6240.wav"
+    },
+    "Audio/senmon/111-\u4e0d\u826f.wav": {
+      "sha256": "4ae1b1bdda7676ff1399e17be529ad006f8e177e7e1ff5403fd0141606f0da26",
+      "size": 32538,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u4e0d\u826f.wav"
+    },
+    "Audio/senmon/111-\u4ee3\u8868\u7684\u306a.wav": {
+      "sha256": "b02b44fb646cff108ef1245ad9e75ffcb3112911c4df95ba25bf1311c09f92c1",
+      "size": 53026,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u4ee3\u8868\u7684\u306a.wav"
+    },
+    "Audio/senmon/111-\u505c\u96fb.wav": {
+      "sha256": "0d45633463e13c55d2e535036439f1bc87cc0b86c521050480e70e35a5e2f88d",
+      "size": 33708,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u505c\u96fb.wav"
+    },
+    "Audio/senmon/111-\u5145\u96fb\u30e2\u30cb\u30bf\u30fc.wav": {
+      "sha256": "15aa67ce45da3dd8b840763db5fcf04a4561bf3f25b16559a33f946ccc7e7019",
+      "size": 59558,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u5145\u96fb\u30e2\u30cb\u30bf\u30fc.wav"
+    },
+    "Audio/senmon/111-\u5145\u96fb\u72b6\u614b.wav": {
+      "sha256": "7f7f9d1b36b4055a98d732bc38396a3e9dff919b6d2a23181ae2014a239cf71e",
+      "size": 55582,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u5145\u96fb\u72b6\u614b.wav"
+    },
+    "Audio/senmon/111-\u5145\u96fb\u88c5\u7f6e.wav": {
+      "sha256": "edf97514cb2ece45c641c42429a7c27f73aea8f8a6542833e3c208a79c8ddc7d",
+      "size": 56844,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u5145\u96fb\u88c5\u7f6e.wav"
+    },
+    "Audio/senmon/111-\u516c\u5171\u65bd\u8a2d\u7528.wav": {
+      "sha256": "bc6f54b320941e60e1c67832fa84d957a23f5e0c70a7c8dbd96d534dbe1f5662",
+      "size": 71104,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u516c\u5171\u65bd\u8a2d\u7528.wav"
+    },
+    "Audio/senmon/111-\u5185\u8535\u578b.wav": {
+      "sha256": "8443e2997d0b1b32864a187f8b7afb15048ba1fea30d714efe245bc974f63a8b",
+      "size": 48144,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u5185\u8535\u578b.wav"
+    },
+    "Audio/senmon/111-\u5185\u8535\u84c4\u96fb\u6c60.wav": {
+      "sha256": "766ad1547eb87e62e065763aa40dbd27560878e8b7b31fb2fc00d2e069aa90b8",
+      "size": 67020,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u5185\u8535\u84c4\u96fb\u6c60.wav"
+    },
+    "Audio/senmon/111-\u5207\u308a\u66ff\u308f\u308b.wav": {
+      "sha256": "53aaed6183b378c83020efd0e21f03c0f318ef214430d908b4e70ab45b2efaa7",
+      "size": 43294,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u5207\u308a\u66ff\u308f\u308b.wav"
+    },
+    "Audio/senmon/111-\u5225\u7f6e\u578b.wav": {
+      "sha256": "f76b717e72164c39e1da5b6d25f7177fe5c046daab708306b179084e109ca83d",
+      "size": 45260,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u5225\u7f6e\u578b.wav"
+    },
+    "Audio/senmon/111-\u5bff\u547d.wav": {
+      "sha256": "34b08d2abc9f7b931b4306bbb3f33b57ade5ee446fcb76d8f8202d546b86540a",
+      "size": 37040,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u5bff\u547d.wav"
+    },
+    "Audio/senmon/111-\u5e38\u6642.wav": {
+      "sha256": "ba0a054f82f9b2da0c3e4976125cac3759416a228970ffe9d2ad29b12c70f5c6",
+      "size": 34784,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u5e38\u6642.wav"
+    },
+    "Audio/senmon/111-\u6b63\u5e38\u306b.wav": {
+      "sha256": "fdc18fa5dbb9aab5394109d125798638dca9621450db0485c1b9581f23c1fcf9",
+      "size": 45280,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u6b63\u5e38\u306b.wav"
+    },
+    "Audio/senmon/111-\u707d\u5bb3.wav": {
+      "sha256": "797e9a4abaf42e653fb3846288fb2c69dc2487ad3b7d0d9bdbf9845ccab6555e",
+      "size": 37044,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u707d\u5bb3.wav"
+    },
+    "Audio/senmon/111-\u70b9\u691c\u30b9\u30a4\u30c3\u30c1.wav": {
+      "sha256": "89ceeba66eb0601a9bc2597349de78b203363a0dbd9935221ec0d2c8a36a501d",
+      "size": 57310,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u70b9\u691c\u30b9\u30a4\u30c3\u30c1.wav"
+    },
+    "Audio/senmon/111-\u70b9\u691c\u7528.wav": {
+      "sha256": "fa25ddd9d046e8f431f39ca338c813d5610c792b7418007a7242f94fa2aafe52",
+      "size": 47048,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u70b9\u691c\u7528.wav"
+    },
+    "Audio/senmon/111-\u70b9\u706f\u3059\u308b.wav": {
+      "sha256": "e2ae6b2b8bffe380d10549bdce7bac24da9f12ee399742e9b9c34aa2c2e53538",
+      "size": 47774,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u70b9\u706f\u3059\u308b.wav"
+    },
+    "Audio/senmon/111-\u7167\u3089\u3057\u51fa\u3059.wav": {
+      "sha256": "f77d88060aae7239075e466baa9ca09f4692ab26d748ead8182c7cbd2d6673ea",
+      "size": 49262,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u7167\u3089\u3057\u51fa\u3059.wav"
+    },
+    "Audio/senmon/111-\u7a0b\u5ea6.wav": {
+      "sha256": "9a8e064f4dc7981836869a03b37338af3bca6063ba04f944e2f08ad73affcaca",
+      "size": 29090,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u7a0b\u5ea6.wav"
+    },
+    "Audio/senmon/111-\u81ea\u52d5\u5fa9\u5e30\u5f62.wav": {
+      "sha256": "48628a62c87a7f54b77ad1b023f2f1d643e3399951279ad9e858313ce97e92bf",
+      "size": 63026,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u81ea\u52d5\u5fa9\u5e30\u5f62.wav"
+    },
+    "Audio/senmon/111-\u84c4\u96fb\u6c60\u5185\u8535\u578b.wav": {
+      "sha256": "2ed3d8ae2e24dbb2b45e3171a05fdc4f7cf6449d6ba8f4d9da4a63241b1d4f56",
+      "size": 77882,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u84c4\u96fb\u6c60\u5185\u8535\u578b.wav"
+    },
+    "Audio/senmon/111-\u8a2d\u3051\u308b.wav": {
+      "sha256": "f78a1504d148c0c90579548542d70ce07eef8281f361a9d639c4909d7d0f1b67",
+      "size": 37702,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u8a2d\u3051\u308b.wav"
+    },
+    "Audio/senmon/111-\u901a\u5e38.wav": {
+      "sha256": "7aa71a83d2afd0aaace136a64affbcbadfb4fea18e1e640a0cb0b3ecb3571561",
+      "size": 39148,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u901a\u5e38.wav"
+    },
+    "Audio/senmon/111-\u901a\u8def.wav": {
+      "sha256": "16948571d36c974dfc42d2baae13707151c45ef2b086d6468147f8ddfdf31034",
+      "size": 32596,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u901a\u8def.wav"
+    },
+    "Audio/senmon/111-\u901f\u3084\u304b\u306b.wav": {
+      "sha256": "01e4dd179092b65c7a87af8c2e334dc86f570b925b2e52a665b1d0dfd65b9d75",
+      "size": 46936,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u901f\u3084\u304b\u306b.wav"
+    },
+    "Audio/senmon/111-\u907f\u96e3.wav": {
+      "sha256": "07b7406aa0f7682610c2c684808739fb218844bb3cb68bc3e50ca3574a83574a",
+      "size": 30310,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u907f\u96e3.wav"
+    },
+    "Audio/senmon/111-\u914d\u7dda.wav": {
+      "sha256": "060e973a9ab8b22f0c5ae9c0ef67c1b9b5154d9fd80be4a077b373d8e6adb465",
+      "size": 36762,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u914d\u7dda.wav"
+    },
+    "Audio/senmon/111-\u975e\u5e38\u7528\u7167\u660e.wav": {
+      "sha256": "c7901ba5401181bf71000d38ba2823b9d84605890071b010758375acbbf6a4ea",
+      "size": 67248,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u975e\u5e38\u7528\u7167\u660e.wav"
+    },
+    "Audio/senmon/111-\u975e\u5e38\u7528\u7167\u660e\u5668\u5177.wav": {
+      "sha256": "d410ae476c5360f5300c77bc2ccaa71f88478d6b182a861902f706843419c5bf",
+      "size": 77816,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/111-\u975e\u5e38\u7528\u7167\u660e\u5668\u5177.wav"
+    },
+    "Audio/senmon/113-\u4e88\u5099\u96fb\u6e90.wav": {
+      "sha256": "9a09b77b3fdb5625b7da036fd91ea82a6763d556bf8865cc39fc536dbc7acd3b",
+      "size": 47770,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/113-\u4e88\u5099\u96fb\u6e90.wav"
+    },
+    "Audio/senmon/113-\u5145\u96fb\u5f0f.wav": {
+      "sha256": "141176741a6d22bc896b7f3592474ccac2a00f31834821601b55c32cfcd4d768",
+      "size": 49754,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/113-\u5145\u96fb\u5f0f.wav"
+    },
+    "Audio/senmon/113-\u5185\u8535\u3059\u308b.wav": {
+      "sha256": "ee60370321ccadce6bd5da4a2ac61be5bc7f413fbf4e1ce7728d08103fa084fb",
+      "size": 49136,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/113-\u5185\u8535\u3059\u308b.wav"
+    },
+    "Audio/senmon/113-\u5b9a\u3081\u308b.wav": {
+      "sha256": "b3b61a5ae3bbc96177d2285bcac94965408a1bc8a36859170473f6ddd8c5b0f0",
+      "size": 37842,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/113-\u5b9a\u3081\u308b.wav"
+    },
+    "Audio/senmon/113-\u5b9a\u683c\u578b\u5668\u5177.wav": {
+      "sha256": "bcfb8b23e8366db4aff2e2c6bfd27252616bb792c759c7449431b8a61b2918d5",
+      "size": 62418,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/113-\u5b9a\u683c\u578b\u5668\u5177.wav"
+    },
+    "Audio/senmon/113-\u5e38\u7528\u96fb\u6e90.wav": {
+      "sha256": "744fff421ebbdd3cb629922b026f12f4cb25c078ce98c2de977ab416170f67b6",
+      "size": 59588,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/113-\u5e38\u7528\u96fb\u6e90.wav"
+    },
+    "Audio/senmon/113-\u64cd\u4f5c\u3059\u308b.wav": {
+      "sha256": "ad564bb515e2575e9a365d8f8beca264827f06cd86ff4b307671602cab0142c0",
+      "size": 47384,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/113-\u64cd\u4f5c\u3059\u308b.wav"
+    },
+    "Audio/senmon/113-\u65bd\u884c\u898f\u5247.wav": {
+      "sha256": "39157a2e80bc092a0a7033ab5ac9613faa1d73eba3ab0157b4ed881c2da608c1",
+      "size": 54476,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/113-\u65bd\u884c\u898f\u5247.wav"
+    },
+    "Audio/senmon/113-\u672c\u4f53\u4e0b\u90e8.wav": {
+      "sha256": "72e5374770e5288187f7cf650e4cd467e88a0585bf49008356dbcf585d88d344",
+      "size": 48472,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/113-\u672c\u4f53\u4e0b\u90e8.wav"
+    },
+    "Audio/senmon/113-\u691c\u67fb\u5831\u544a.wav": {
+      "sha256": "8004947d9f278a5f049613270e8bcf00c99d309b1527f16848c1af74c5916cef",
+      "size": 59750,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/113-\u691c\u67fb\u5831\u544a.wav"
+    },
+    "Audio/senmon/113-\u6d88\u9632\u6cd5.wav": {
+      "sha256": "f25120d1bfa004e1b6daa4949fc2c4a9f4d67bb2c06242310b7ebf4785d7d904",
+      "size": 47804,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/113-\u6d88\u9632\u6cd5.wav"
+    },
+    "Audio/senmon/113-\u70b9\u706f.wav": {
+      "sha256": "5c3fb535ef9acb8be6a7f77707266acf938ff433cfd4cc8f2393b3b40aca31cc",
+      "size": 35888,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/113-\u70b9\u706f.wav"
+    },
+    "Audio/senmon/113-\u78ba\u4fdd.wav": {
+      "sha256": "542eb0358305c8224e3a4b0532709121e5ac82f7502c5fac913522cc6b84b857",
+      "size": 35950,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/113-\u78ba\u4fdd.wav"
+    },
+    "Audio/senmon/113-\u7d10.wav": {
+      "sha256": "a4a17b7fa0f2691a8f18ffdfcc6f17bdf4b5b656c347726ed6edc376ee62d635",
+      "size": 26746,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/113-\u7d10.wav"
+    },
+    "Audio/senmon/113-\u8868\u793a\u9762\u8f1d\u5ea6.wav": {
+      "sha256": "a35492f04389e88a68fbb04178dd4925e8a1e4b2d1aa4a82b23b52d76eb293af",
+      "size": 54660,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/113-\u8868\u793a\u9762\u8f1d\u5ea6.wav"
+    },
+    "Audio/senmon/113-\u8981\u4ef6.wav": {
+      "sha256": "63b7b930a48085623c1d32c16e091d43d7a71629392af208cd08a88a716ebd27",
+      "size": 36238,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/113-\u8981\u4ef6.wav"
+    },
+    "Audio/senmon/113-\u8a98\u5c0e\u706f.wav": {
+      "sha256": "5213cd7e083c03495a401e4c5ee5580c8a700ef5b4f6b9cf983812932ef0a74d",
+      "size": 47240,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/113-\u8a98\u5c0e\u706f.wav"
+    },
+    "Audio/senmon/113-\u9023\u7d9a.wav": {
+      "sha256": "145cd045498403a72a09d9e4898c78a8ce369f1bcf194404b7df6ff5af4d3fd7",
+      "size": 38762,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/113-\u9023\u7d9a.wav"
+    },
+    "Audio/senmon/113-\u907f\u96e3\u7d4c\u8def.wav": {
+      "sha256": "766c018ce6fe95753ff66750ca3fe8e97f9bdbafec42bedd83ba227bfbdde514",
+      "size": 49514,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/113-\u907f\u96e3\u7d4c\u8def.wav"
+    },
+    "Audio/senmon/113-\u9577\u671f\u9593.wav": {
+      "sha256": "d98d086e1a3d52d796068a10e93a2fce768525e6ec2c00a4333e251b40bbfca0",
+      "size": 45306,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/113-\u9577\u671f\u9593.wav"
+    },
     "Audio/senmon/24-\u3057\u307f\u8de1.wav": {
       "sha256": "3d5cb2fbda266412a46dfbbdd62c92719ac49dcf65ccfda58a94b73833f8046d",
       "size": 41768,
@@ -27936,6 +28696,11 @@
       "sha256": "c87a2bcdbebbc98db1df87646d0ad47c180525aa124078f3cc9a9d6ed7e6fe40",
       "size": 50780,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/95-\u6d88\u6e1b\u3059\u308b.wav"
+    },
+    "Audio/senmon/95-\u6d88\u6ec5\u3059\u308b.wav": {
+      "sha256": "b84f543a6a1d15251e8ff0437281a88af01da3b74a7830746f427a15de753ed4",
+      "size": 53164,
+      "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/Audio/senmon/95-\u6d88\u6ec5\u3059\u308b.wav"
     },
     "Audio/senmon/95-\u6d88\u706b\u5668.wav": {
       "sha256": "198a5f8e5e642739f928c1eaf4ff7c691e3773968132f52791a0f5c458983716",
