@@ -895,7 +895,7 @@ LED灯;LED-tō;LEDとう;Lampu LED, LED Lamp, Lampu dengan Teknologi LED;109;灯
 点検スイッチ;Tenken Suicchi;てんけんスイッチ;Saklar Pemeriksaan, Switch Inspeksi, Alat untuk Memeriksa;111;点:てん|検:けん
 自動復帰形;Jidō Fukki-gata;じどうふっきがた;Tipe Pemulihan Otomatis, Sistem Pemulihan Otomatis, Alat dengan Fungsi Pemulihan Otomatis;111;自:じ|動:どう|復:ふ|帰:き|形:がた
 充電モニター;Jūden Monitā;じゅうでんモニター;Monitor Pengisian, Alat Pemantau Pengisian, Sistem Pemantauan Pengisian;111;充:じゅう|電:でん|モニター
-公共施設用;Kōkyō Shisetsu-yō;こうきょうしせつよう;Untuk Fasilitas Umum, Tipe untuk Fasilitas Umum, Alat untuk Fasilitas Umum;111;公共:こうきょう|施設:しせつ|用:よう
+公共施設用;Kōkyō Shisetsu-yō;こうきょうしせつよう;Untuk Fasilitas Umum, Tipe untuk Fasilitas Umum, Alat untuk Fasilitas Umum;111;公:こう|共:きょう|施:し|設:せつ|用:よう
 代表的な;Daihōteki na;だいほうてきな;Representatif, Tipe Umum, Contoh Umum;111;代:だい|表:ひょう|的:てき
 
 誘導灯;Yūdōtō;ゆうどうとう;Lampu Petunjuk, Lampu Panduan, Lampu Evakuasi;113;誘:ゆう|導:どう|灯:とう
@@ -918,3 +918,33 @@ LED灯;LED-tō;LEDとう;Lampu LED, LED Lamp, Lampu dengan Teknologi LED;109;灯
 連続;Renzoku;れんぞく;Kontinu, Berkelanjutan, Terus-Menerus;113;連:れん|続:ぞく
 長期間;Chōkikan;ちょうきかん;Periode Panjang, Jangka Waktu Lama, Durasi Panjang;113;長:ちょう|期:き|間:かん
 定格型器具;Teikaku-gata Kigu;ていかくがたきぐ;Peralatan Tipe Berperingkat, Alat dengan Peringkat Tertentu, Perlengkapan dengan Spesifikasi Tertentu;113;定:てい|格:かく|型:がた|器:き|具:ぐ
+
+コンセント;Konsento;コンセント;Stop Kontak, Soket Listrik, Colokan Listrik;117;
+一般用;Ippan-yō;いっぱんよう;Untuk Umum, Tipe Umum, Alat untuk Penggunaan Umum;117;一:いっ|般:ぱん|用:よう
+電力機器;Denryoku Kiki;でんりょくきき;Peralatan Listrik, Perangkat Listrik, Alat Tenaga Listrik;117;電:でん|力:りょく|機:き|器:き
+専用;Sen'yō;せんよう;Eksklusif, Khusus, Hanya untuk;117;専:せん|用:よう
+差し込み口;Sashikomi Guchi;さしこみぐち;Lubang Colokan, Soket, Tempat Colokan;117;差:さ|込:こ|口:ぐち
+抜け止め式;Nukedome-shiki;ぬけどめしき;Tipe Pengunci, Sistem Pengunci, Alat dengan Fungsi Pengunci;117;抜:ぬ|止:ど|式:しき
+接地端子;Setchi Tanshi;せっちたんし;Terminal Grounding, Terminal Pembumian, Alat untuk Grounding;117;接:せっ|地:ち|端:たん|子:し
+事務機;Jimuki;じむき;Peralatan Kantor, Alat Kantor, Mesin Kantor;117;事:じ|務:む|機:き
+電流;Denryū;でんりゅう;Arus Listrik, Aliran Listrik, Kekuatan Arus;117;電:でん|流:りゅう
+定格;Teikaku;ていかく;Peringkat, Spesifikasi, Rating;117;定:てい|格:かく
+超えない;Koenai;こえない;Tidak Melebihi, Tidak Melampaui, Tidak Melebihi Batas;117;超:こ
+電線;Densen;でんせん;Kabel Listrik, Kabel, Saluran Listrik;117;電:でん|線:せん
+電灯分電盤;Dentō Bundenban;でんとうぶんでんばん;Panel Distribusi Lampu, Panel Distribusi Penerangan, Panel Listrik untuk Lampu;117;電:でん|灯:とう|分:ぶ|電:でん|盤:ばん
+配線用遮断器;Haisen-yō Shadan-ki;はいせんようしゃだんき;Pemutus Sirkuit untuk Pengkabelan, Circuit Breaker untuk Wiring, Alat Pemutus Arus untuk Kabel;117;配:はい|線:せん|用:よう|遮:しゃ|断:だん|器:き
+ブレーカー;Burēkā;ブレーカー;Breaker, Pemutus Arus, Circuit Breaker;117;
+延長する;Enchō suru;えんちょうする;Memperpanjang, Melanjutkan, Menambah Panjang;117;延:えん|長:ちょう
+延長コード;Enchō Kōdo;えんちょうコード;Kabel Perpanjangan, Extension Cord, Kabel Ekstensi;117;延:えん|長:ちょう
+柱;Hashira;はしら;Tiang, Kolom, Pilar;117;柱:はしら
+ステップル;Sutepuru;ステップル;Staple, Penjepit, Alat Penjepit;117;
+釘;Kugi;くぎ;Paku, Paku Kayu, Alat untuk Menancapkan;117;釘:くぎ
+固定する;Kotei suru;こていする;Memperbaiki, Menetapkan, Mengamankan;117;固:こ|定:てい
+好ましい;Konomashii;このましい;Diinginkan, Disukai, Preferensi;117;好:この
+タコ足配線;Takoashi Haisen;たこあしはいせん;Pengkabelan Berbentuk Gurita, Kabel Ekstensi dengan Banyak Cabang, Wiring dengan Banyak Soket;117;足:あし|配:はい|線:せん
+束ねる;Tabaneru;たばねる;Mengikat, Mengumpulkan, Menyusun;117;束:たば
+発熱;Hatsunetsu;はつねつ;Panas, Penghasil Panas, Menghasilkan Panas;117;発:はつ|熱:ねつ
+発火;Hakka;はっか;Pembakaran, Menyala, Terbakar;117;発:はっ|火:か
+増設;Zōsetsu;ぞうせつ;Penambahan, Ekspansi, Pemasangan Tambahan;117;増:ぞう|設:せつ
+依頼;Irai;いらい;Permintaan, Permohonan, Tugas;117;依:い|頼:らい
+回路;Kairo;かいろ;Sirkuit, Rangkaian, Jalur Listrik;117;回:かい|路:ろ
