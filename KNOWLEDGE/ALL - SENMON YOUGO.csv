@@ -948,3 +948,93 @@ LED灯;LED-tō;LEDとう;Lampu LED, LED Lamp, Lampu dengan Teknologi LED;109;灯
 増設;Zōsetsu;ぞうせつ;Penambahan, Ekspansi, Pemasangan Tambahan;117;増:ぞう|設:せつ
 依頼;Irai;いらい;Permintaan, Permohonan, Tugas;117;依:い|頼:らい
 回路;Kairo;かいろ;Sirkuit, Rangkaian, Jalur Listrik;117;回:かい|路:ろ
+
+電灯分電盤;Dentō Bundenban;でんとうぶんでんばん;Panel Distribusi Lampu, Panel Distribusi Penerangan, Panel Listrik untuk Lampu;117;電:でん|灯:とう|分:ぶん|電:でん|盤:ばん
+動力盤;Dōryoku Ban;どうりょくばん;Panel Daya, Panel Listrik untuk Peralatan Berat, Panel Distribusi Tenaga;119;動:どう|力:りょく|盤:ばん
+電灯;Dentō;でんとう;Lampu, Penerangan, Cahaya;119;電:でん|灯:とう
+分配する;Bunpai suru;ぶんぱいする;Mendistribusikan, Membagi, Menyalurkan;119;分:ぶん|配:はい
+規模;Kibo;きぼ;Skala, Ukuran, Besaran;119;規:き|模:ぼ
+配線室;Haisen Shitsu;はいせんしつ;Ruang Kabel, Ruang Pengkabelan, Ruang Wiring;119;配:はい|線:せん|室:しつ
+銅製;Dōsei;どうせい;Terbuat dari Tembaga, Bahan Tembaga, Material Tembaga;119;銅:どう|製:せい
+配線用遮断器;Haisen-yō Shadan-ki;はいせんようしゃだんき;Pemutus Sirkuit untuk Pengkabelan, Circuit Breaker untuk Wiring, Alat Pemutus Arus untuk Kabel;119;配:はい|線:せん|用:よう|遮:しゃ|断:だん|器:き
+漏電遮断器;Rōden Shadan-ki;ろうでんしゃだんき;Pemutus Arus Bocor, Ground Fault Circuit Breaker, Alat Pemutus Arus untuk Kebocoran Listrik;119;漏:ろう|電:でん|遮:しゃ|断:だん|器:き
+電線;Densen;でんせん;Kabel Listrik, Kabel, Saluran Listrik;119;電:でん|線:せん
+銅帯;Dōtai;どうたい;Pita Tembaga, Strip Tembaga, Bahan Tembaga dalam Bentuk Pita;119;銅:どう|帯:たい
+回路毎;Kairo-goto;かいろごと;Setiap Sirkuit, Per Sirkuit, Tiap Jalur Listrik;119;回:かい|路:ろ|毎:ごと
+遮断器;Shadan-ki;しゃだんき;Pemutus Arus, Circuit Breaker, Alat Pemutus Listrik;119;遮:しゃ|断:だん|器:き
+設ける;Mōkeru;もうける;Menyediakan, Menempatkan, Memasang;119;設:もう
+定格;Teikaku;ていかく;Peringkat, Spesifikasi, Rating;119;定:てい|格:かく
+給水設備;Kyūsui Setsubi;きゅうすいせつび;Peralatan Penyediaan Air, Sistem Penyediaan Air, Alat untuk Menyediakan Air;119;給:きゅう|水:すい|設:せつ|備:び
+換気設備;Kanki Setsubi;かんきせつび;Peralatan Ventilasi, Sistem Ventilasi, Alat untuk Ventilasi;119;換:かん|気:き|設:せつ|備:び
+冷暖房設備;Reidanbō Setsubi;れいだんぼうせつび;Peralatan Pendingin dan Pemanas, Sistem AC dan Pemanas, Alat untuk Pendinginan dan Pemanasan;119;冷:れい|暖:だん|房:ぼう|設:せつ|備:び
+基本的な;Kihonteki na;きほんてきな;Dasar, Fundamental, Pokok;119;基本:きほん|的:てき
+構造;Kōzō;こうぞう;Struktur, Konstruksi, Susunan;119;構:こう|造:ぞう
+電源電圧;Dengen Den'atsu;でんげんでんあつ;Tegangan Sumber Daya, Tegangan Listrik, Voltage Power Supply;119;電:でん|源:げん|電:でん|圧:あつ
+盤表面;Ban Hyōmen;ばんひょうめん;Permukaan Panel, Bagian Depan Panel, Muka Panel;119;盤:ばん|表:ひょう|面:めん
+表示ランプ;Hyōji Ranpu;ひょうじランプ;Lampu Indikator, Lampu Penunjuk, Lampu Tampilan;119;表:ひょう|示:じ
+入切スイッチ;Irikiri Suicchi;いりきりスイッチ;Saklar On/Off, Saklar Hidup/Mati, Switch untuk Menyalakan dan Mematikan;119;入:いり|切:きり
+動力;Dōryoku;どうりょく;Tenaga, Daya, Power;119;動:どう|力:りょく
+電灯;Dentō;でんとう;Lampu, Penerangan, Cahaya;119;電:でん|灯:とう
+動力混合分電盤;Dōryoku Kongō Bundenban;どうりょくこんごうぶんでんばん;Panel Distribusi Campuran Tenaga, Panel Distribusi Gabungan, Panel Listrik untuk Tenaga dan Lampu;119;動:どう|力:りょく|混:こん|合:ごう|分:ぶん|電:でん|盤:ばん
+
+配線用遮断器;Haisen-yō Shadan-ki;はいせんようしゃだんき;Pemutus Sirkuit untuk Pengkabelan, Circuit Breaker untuk Wiring, Alat Pemutus Arus untuk Kabel;121;配:はい|線:せん|用:よう|遮:しゃ|断:だん|器:き
+漏電遮断器;Rōden Shadan-ki;ろうでんしゃだんき;Pemutus Arus Bocor, Ground Fault Circuit Breaker, Alat Pemutus Arus untuk Kebocoran Listrik;121;漏:ろう|電:でん|遮:しゃ|断:だん|器:き
+分電盤;Bundenban;ぶんでんばん;Panel Distribusi, Panel Listrik, Panel Pembagi Listrik;121;分:ぶん|電:でん|盤:ばん
+限る;Kagiru;かぎる;Membatasi, Hanya untuk, Terbatas pada;121;限:かぎ
+目安;Meyasu;めやす;Panduan, Acuan, Standar;121;目:め|安:やす
+異常;Ijō;いじょう;Abnormal, Tidak Normal, Keadaan Tidak Biasa;121;異:い|常:じょう
+定格電流;Teikaku Denryū;ていかくでんりゅう;Arus Listrik Berperingkat, Arus Listrik Tertentu, Rating Arus Listrik;121;定:てい|格:かく|電:でん|流:りゅう
+つまみ;Tsumami;つまみ;Tombol, Kenop, Alat untuk Mengoperasikan;121;
+一旦;Ittan;いったん;Sementara, Sekali, Untuk Sementara;121;一:いっ|旦:たん
+戻する;Modosu suru;もどする;Mengembalikan, Kembali, Memulihkan;121;戻:もど
+役入;Yakuiri;やくいり;Fungsi, Peran, Kegunaan;121;役:やく|入:いり
+取り除く;Torinozoku;とりのぞく;Menghilangkan, Menyingkirkan, Membuang;121;取:と|除:のぞ
+漏電する;Rōden suru;ろうでんする;Bocor Listrik, Terjadi Kebocoran Listrik, Arus Bocor;121;漏:ろう|電:でん
+持ち合わせる;Mochiawaseru;もちあわせる;Memiliki, Membawa, Mempunyai;121;持:も|合:あ
+役割;Yakuwari;やくわり;Peran, Fungsi, Tugas;121;役:やく|割:わり
+果たす;Hatasu;はたす;Memenuhi, Melaksanakan, Menjalankan;121;果:は
+復帰ボタン;Fukki Botan;ふっきボタン;Tombol Pemulihan, Tombol Reset, Alat untuk Mengembalikan ke Kondisi Normal;121;復:ふっ|帰:き
+作動試験用;Sadō Shiken-yō;さどうしけんよう;Untuk Uji Operasi, Alat untuk Pengujian Fungsi, Perlengkapan untuk Uji Coba;121;作:さ|動:どう|試:し|験:けん|用:よう
+押し込む;Oshikomu;おしこむ;Menekan, Mendorong, Memasukkan dengan Tekanan;121;押:お|込:こ
+発生する;Hassei suru;はっせいする;Terjadi, Muncul, Timbul;121;発:はっ|生:せい
+再役入する;Saiyakuiri suru;さいやくいりする;Memasukkan Kembali, Mengembalikan, Memulihkan Fungsi;121;再:さい|役:やく|入:いり
+小型漏電ブレーカー;Kogata Rōden Burēkā;こがたろうでんブレーカー;Circuit Breaker Bocor Kecil, Pemutus Arus Bocor Tipe Kecil, Alat Pemutus Arus untuk Kebocoran Listrik dengan Ukuran Kecil;121;小:こ|型:がた|漏:ろう|電:でん
+漏電保護専用;Rōden Hogo Sen'yō;ろうでんほごせんよう;Eksklusif untuk Perlindungan Kebocoran Listrik, Hanya untuk Perlindungan Arus Bocor, Alat Khusus untuk Melindungi dari Kebocoran Listrik;121;漏:ろう|電:でん|保:ほ|護:ご|専:せん|用:よう
+高速型;Kōsoku-gata;こうそくがた;Tipe Kecepatan Tinggi, Sistem Kecepatan Tinggi, Alat dengan Fungsi Kecepatan Tinggi;121;高:こう|速:そく|型:がた
+衝撃波不動型;Shōgekiha Fudō-gata;しょうげきはふどうがた;Tipe Gelombang Kejut Tidak Bergerak, Sistem Gelombang Kejut Statis, Alat dengan Fungsi Gelombang Kejut yang Tidak Bergerak;121;衝:しょう|撃:げき|波:は|不:ふ|動:どう|型:がた
+
+放送設備;Hōsō Setsubi;ほうそうせつび;Peralatan Penyiaran, Sistem Penyiaran, Alat untuk Penyiaran;123;放:ほう|送:そう|設:せつ|備:び
+音声;Onsei;おんせい;Suara, Audio, Bunyi;123;音:おん|声:せい
+音楽;Ongaku;おんがく;Musik, Lagu, Alunan;123;音:おん|楽:がく
+チャイム;Chaimu;チャイム;Bel, Lonceng, Alat untuk Membunyikan;123;
+増幅;Zōfuku;ぞうふく;Amplifikasi, Penguatan, Memperbesar;123;増:ぞう|幅:ふく
+各所;Kakusho;かくしょ;Setiap Tempat, Berbagai Tempat, Tiap Lokasi;123;各:かく|所:しょ
+範囲;Hani;はんい;Lingkup, Cakupan, Area;123;範:はん|囲:い
+放送する;Hōsō suru;ほうそうする;Menyiarakan, Menyiarkan, Melakukan Penyiaran;123;放:ほう|送:そう
+増幅器;Zōfuku-ki;ぞうふくき;Amplifier, Penguat, Alat untuk Memperkuat Sinyal;123;増:ぞう|幅:ふく|器:き
+アンプ;Anpu;アンプ;Amp, Amplifier, Alat untuk Memperkuat Sinyal;123;
+チューナー;Chūnā;チューナー;Tuner, Penyetel, Alat untuk Menyetel Sinyal;123;
+プレーヤー;Purēyā;プレーヤー;Player, Pemutar, Alat untuk Memutar Musik atau Audio;123;
+マイクロホン;Maikurohon;マイクロホン;Microphone, Mikrofon, Alat untuk Merekam atau Menguatkan Suara;123;
+各種;Kakushu;かくしゅ;Berbagai Jenis, Setiap Jenis, Tiap Tipe;123;各:かく|種:しゅ
+主要な;Shuyō na;しゅような;Utama, Penting, Esensial;123;主:しゅ|要:よう
+埃;Hokori;ほこり;Debu, Kotoran, Partikel Kecil;123;埃:ほこり
+こまめな;Komame na;こまめな;Sering, Rajin, Sering Melakukan;123;
+発熱;Hatsunetsu;はつねつ;Panas, Penghasil Panas, Menghasilkan Panas;123;発:はつ|熱:ねつ
+風通し;Kaze Tōshi;かぜとおし;Sirkulasi Udara, Ventilasi, Aliran Udara;123;風:かぜ|通:とお
+音量調節器;Onryō Chōsetsuki;おんりょうちょうせつき;Volume Control, Pengatur Volume, Alat untuk Mengatur Kekuatan Suara;123;音:おん|量:りょう|調:ちょう|節:せつ|器:き
+アッテネーター;Attenētā;アッテネーター;Attenuator, Peredam, Alat untuk Meredam Sinyal;123;
+用途;Yōto;ようと;Penggunaan, Tujuan, Fungsi;123;用:よう|途:と
+規模;Kibo;きぼ;Skala, Ukuran, Besaran;123;規:き|模:ぼ
+予備電源;Yobi Dengen;よびでんげん;Sumber Daya Cadangan, Sumber Listrik Cadangan, Power Supply Cadangan;123;予:よ|備:び|電:でん|源:げん
+内蔵蓄電池;Naizō Chikudenchi;ないぞうちくでんち;Baterai Internal, Baterai Tersimpan, Baterai yang Dibangun di Dalam;123;内:ない|蔵:ぞう|蓄:ちく|電:でん|池:ち
+さらに;Sarā ni;さらに;Lebih Lanjut, Selain Itu, Tambahan;123;
+配線;Haisen;はいせん;Pengkabelan, Wiring, Sistem Kabel;123;配:はい|線:せん
+ラック型;Rakku-gata;ラックがた;Tipe Rak, Sistem Rak, Alat dengan Bentuk Rak;123;型:がた
+壁掛型;Kabe-kake-gata;かべかけがた;Tipe Gantung di Dinding, Sistem Gantung di Dinding, Alat dengan Desain untuk Digantung di Dinding;123;壁:かべ|掛:か|型:がた
+遠隔操作器;Enkaku Sōsa-ki;えんかくそうさき;Alat Pengoperasian Jarak Jauh, Remote Control, Perangkat untuk Mengendalikan dari Jarak Jauh;123;遠:えん|隔:かく|操:そう|作:さ|器:き
+非常用放送設備;Hijō-yō Hōsō Setsubi;ひじょうようほうそうせつび;Peralatan Penyiaran Darurat, Sistem Penyiaran untuk Keadaan Darurat, Alat untuk Penyiaran dalam Situasi Darurat;123;非:ひ|常:じょう|用:よう|放:ほう|送:そう|設:せつ|備:び
+天井埋込型;Tenjō Umekomi-gata;てんじょううめこみがた;Tipe Tertanam di Langit-langit, Sistem Tertanam di Langit-langit, Alat dengan Desain untuk Ditanam di Langit-langit;123;天:てん|井:じょう|埋:うめ|込:こみ|型:がた
+天井露出型;Tenjō Roshutsu-gata;てんじょうろしゅつがた;Tipe Terpasang di Langit-langit, Sistem Terpasang di Langit-langit, Alat dengan Desain untuk Dipasang di Langit-langit;123;天:てん|井:じょう|露:ろ|出:しゅつ|型:がた
+トランペット型;Toranpetto-gata;トランペットがた;Tipe Terompet, Sistem Terompet, Alat dengan Bentuk Terompet;123;型:がた
+非常用スピーカー;Hijō-yō Supīkā;ひじょうようスピーカー;Speaker Darurat, Alat Pengeras Suara untuk Keadaan Darurat, Sistem Pengeras Suara Darurat;123;非:ひ|常:じょう|用:よう
