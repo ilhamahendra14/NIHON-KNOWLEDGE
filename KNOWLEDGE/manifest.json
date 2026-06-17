@@ -1,6 +1,6 @@
 {
   "version": "2026.06.18",
-  "last_updated": "2026-06-17T17:56:59.716435Z",
+  "last_updated": "2026-06-17T18:41:45.430085Z",
   "files": {
     "ALL - KANJI N3.csv": {
       "sha256": "815a6afc68678c7e944b3fa60dc8a03b65c36cb57ff3d71ac65a65649f5efbc6",
@@ -13,8 +13,8 @@
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/ALL - KOSAKATA N3.csv"
     },
     "ALL - SENMON YOUGO.csv": {
-      "sha256": "a3299e7fae879c96c00f1dc50e5218c38e07e9cd4eb8f03c98ead671aa7ae754",
-      "size": 138375,
+      "sha256": "0f550cb8d7695bbaec6b5f2d59480302ffbf0de3c252ab99aeedbbbb82ca70e4",
+      "size": 138372,
       "url": "https://raw.githubusercontent.com/ilhamahendra14/NIHON-KNOWLEDGE/master/KNOWLEDGE/ALL - SENMON YOUGO.csv"
     },
     "Audio/goi_manifest.csv": {

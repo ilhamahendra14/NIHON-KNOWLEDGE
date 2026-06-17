@@ -1195,7 +1195,7 @@ LED灯;LED-tō;LEDとう;Lampu LED, LED Lamp, Lampu dengan Teknologi LED;109;灯
 
 直流電源装置;Chokuryū Dengen Sōchi;ちょくりゅうでんげんそうち;Peralatan Sumber Daya Listrik DC, Sistem Sumber Daya Listrik Arus Searah, Alat untuk Menyediakan Listrik DC;141;直:ちょく|流:りゅう|電:でん|源:げん|装:そう|置:ち
 受変電設備;Juhenden Setsubi;じゅへんでんせつび;Peralatan Transformator dan Distribusi, Sistem Transformator dan Distribusi, Alat untuk Transformasi dan Distribusi Listrik;141;受:じゅ|変:へん|電:でん|設:せつ|備:び
-制御設備;Seigyō Setsubi;せいぎょうせつび;Peralatan Kontrol, Sistem Kontrol, Alat untuk Mengendalikan;141;制:せい|御:ぎょう|設:せつ|備:び
+制御設備;Seigyo Setsubi;せいぎょせつび;Peralatan Kontrol, Sistem Kontrol, Alat untuk Mengendalikan;141;制:せい|御:ぎょ|設:せつ|備:び
 通常;Tsūjō;つうじょう;Normal, Biasa, Kondisi Standar;141;通:つう|常:じょう
 鉛蓄電池;Enchikudenchi;えんちくでんち;Baterai Timbal, Alat Penyimpan Energi Listrik dengan Elektrolit Timbal, Sistem Penyimpanan Energi Listrik dengan Baterai Timbal;141;鉛:えん|蓄:ちく|電:でん|池:ち
 開放型;Kaihō-gata;かいほうがた;Tipe Terbuka, Sistem Terbuka, Alat dengan Desain Terbuka;141;開:かい|放:ほう|型:がた
@@ -1217,18 +1217,18 @@ LED灯;LED-tō;LEDとう;Lampu LED, LED Lamp, Lampu dengan Teknologi LED;109;灯
 蓄電池盤;Chikudenchi-ban;ちくでんちばん;Panel Baterai, Alat untuk Menempatkan Baterai, Sistem untuk Menyimpan Baterai;141;蓄:ちく|電:でん|池:ち|盤:ばん
 アルカリ蓄電池;Arukari Chikudenchi;アルカリちくでんち;Baterai Alkaline, Alat Penyimpan Energi Listrik dengan Elektrolit Alkaline, Sistem Penyimpanan Energi Listrik dengan Baterai Alkaline;141;蓄:ちく|電:でん|池:ち
 
-無停電電源装置;Muteiden Dengen Sōchi;むていでんげんそうち;UPS (Uninterruptible Power Supply), Peralatan Sumber Daya Listrik Tanpa Gangguan, Sistem Sumber Daya Listrik yang Tidak Terganggu, Alat untuk Menyediakan Listrik Tanpa Gangguan;143;無:む|停:てい|電:でん|源:げん|装:そう|置:ち
+無停電電源装置;Muteiden Dengen Sōchi;むていでんげんそうち;UPS (Uninterruptible Power Supply), Peralatan Sumber Daya Listrik Tanpa Gangguan, Sistem Sumber Daya Listrik yang Tidak Terganggu, Alat untuk Menyediakan Listrik Tanpa Gangguan;143;無:む|停:てい|電:でん|電:でん|源:げん|装:そう|置:ち
 断たれる;Tatareru;たたれる;Terputus, Terhenti, Tidak Berfungsi;143;断:た
 商用交流出力;Shōyō Kōryū Shutsuryoku;しょうようこうりゅうしゅつりょく;PLN, Output AC Komersial, Output Arus Bolak-Balik untuk Penggunaan Komersial, Alat untuk Menyediakan Output AC;143;商:しょう|用:よう|交:こう|流:りゅう|出:しゅつ|力:りょく
 交流入力;Kōryū Nyūryoku;こうりゅうにゅうりょく;Input AC, Masukan Arus Bolak-Balik, Alat untuk Menerima Input AC;143;交:こう|流:りゅう|入:にゅう|力:りょく
 交流出力;Kōryū Shutsuryoku;こうりゅうしゅつりょく;Output AC, Keluaran Arus Bolak-Balik, Alat untuk Memberikan Output AC;143;交:こう|流:りゅう|出:しゅつ|力:りょく
 従来;Jūrai;じゅうらい;Konvensional, Tradisional, Cara Lama;143;従:じゅう|来:らい
 計算機設備;Keisanki Setsubi;けいさんきせつび;Peralatan Komputer, Sistem Komputer, Alat untuk Pengolahan Data;143;計:けい|算:さん|機:き|設:せつ|備:び
-監視制御設備;Kanshi Seigyō Setsubi;かんしせいぎょうせつび;Peralatan Kontrol dan Pemantauan, Sistem Kontrol dan Pemantauan, Alat untuk Mengendalikan dan Memantau;143;監:かん|視:し|制:せい|御:ぎょう|設:せつ|備:び
+監視制御設備;Kanshi Seigyo Setsubi;かんしせいぎょせつび;Peralatan Kontrol dan Pemantauan, Sistem Kontrol dan Pemantauan, Alat untuk Mengendalikan dan Memantau;143;監:かん|視:し|制:せい|御:ぎょ|設:せつ|備:び
 故障時;Koshō-ji;こしょうじ;Saat Terjadi Kerusakan, Ketika Terjadi Gangguan, Kondisi Saat Terjadi Masalah;143;故:こ|障:しょう|時:じ
 本体故障時;Hontai Koshō-ji;ほんたいこしょうじ;Saat Terjadi Kerusakan pada Perangkat Utama, Ketika Perangkat Utama Rusak, Kondisi Saat Perangkat Utama Bermasalah;143;本:ほん|体:たい|故:こ|障:しょう|時:じ
 無瞬断;Mushundan;むしゅんだん;Tanpa Gangguan Sekejap, Tidak Ada Pemutusan Sementara, Kondisi Tanpa Gangguan Sementara;143;無:む|瞬:しゅん|断:だん
-切り替え;Kirikae;きりかえ;Beralih, Mengganti, Proses Peralihan;143;切:き|替:り
+切り替え;Kirikae;きりかえ;Beralih, Mengganti, Proses Peralihan;143;切:き|替:か
 通常時;Tsūjō-ji;つうじょうじ;Saat Normal, Kondisi Normal, Waktu Normal;143;通:つう|常:じょう|時:じ
 整流器;Seiryūki;せいりゅうき;Rectifier, Alat Penyearah, Perangkat untuk Menyearahkan Arus Listrik;143;整:せい|流:りゅう|器:き
 インバータ;Inbāta;インバータ;Inverter, Alat Pengubah Arus, Perangkat untuk Mengubah Arus Listrik;143;
