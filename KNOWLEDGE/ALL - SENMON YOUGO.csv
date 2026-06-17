@@ -1074,7 +1074,7 @@ LED灯;LED-tō;LEDとう;Lampu LED, LED Lamp, Lampu dengan Teknologi LED;109;灯
 プリンクール;Purinkūru;プリンクール;Pringle, Alat untuk Memperkuat Sinyal, Sistem untuk Memperkuat Sinyal;129;
 周辺機器;Shūhen Kiki;しゅうへんきき;Perangkat Sekitar, Peralatan Pendukung, Alat Tambahan;129;周:しゅう|辺:へん|機:き|器:き
 共有;Kyōyū;きょうゆう;Berbagi, Bersama, Kolaborasi;129;共:きょう|有:ゆう
-挙げられる;Agerareru;あげられる;Dapat Diberikan, Bisa Diberikan, Contoh yang Bisa Diberikan;129;挙:あげ
+挙げられる;Agerareru;あげられる;Dapat Diberikan, Bisa Diberikan, Contoh yang Bisa Diberikan;129;挙:あ
 有線;Yūsen;ゆうせん;Berkabel, Kabel, Dengan Kabel;129;有:ゆう|線:せん
 無線;Musen;むせん;Nirkabel, Wireless, Tanpa Kabel;129;無:む|線:せん
 通信速度;Tsūshin Sokudo;つうしんそくど;Kecepatan Komunikasi, Kecepatan Transmisi, Laju Komunikasi;129;通:つう|信:しん|速:そく|度:ど
@@ -1113,7 +1113,7 @@ LED灯;LED-tō;LEDとう;Lampu LED, LED Lamp, Lampu dengan Teknologi LED;109;灯
 組み合わせる;Kumiawaseru;くみあわせる;Menggabungkan, Memadukan, Menyatukan;131;組:く|合:あ
 複合式;Fukugō-shiki;ふくごうしき;Tipe Gabungan, Sistem Gabungan, Alat dengan Konfigurasi Gabungan;131;複:ふく|合:ごう|式:しき
 玄関;Genkan;げんかん;Pintu Masuk, Area Masuk, Foyer;131;玄:げん|関:かん
-施設管理者;Shisetsu Kanrisha;しせつかんりしゃ;Manajer Fasilitas, Pengelola Fasilitas, Orang yang Bertanggung Jawab atas Fasilitas;131;施設:しせつ|管理:かんり|者:しゃ
+施設管理者;Shisetsu Kanrisha;しせつかんりしゃ;Manajer Fasilitas, Pengelola Fasilitas, Orang yang Bertanggung Jawab atas Fasilitas;131;施:し|設:せつ|管:かん|理:り|者:しゃ
 防災センサー;Bōsai Sensā;ぼうさいセンサー;Sensor Bencana, Alat Deteksi Bencana, Sistem Sensor untuk Keamanan;131;防:ぼう|災:さい
 各室相互;Kakushitsu Sōgo;かくしつそうご;Setiap Ruangan Saling, Tiap Ruangan Saling, Alat untuk Komunikasi Antar Ruangan;131;各:かく|室:しつ|相:そう|互:ご
 ナースコール;Nāsu Kōru;ナースコール;Nurse Call, Sistem Panggilan Perawat, Alat untuk Memanggil Perawat;131;
@@ -1139,3 +1139,97 @@ LED灯;LED-tō;LEDとう;Lampu LED, LED Lamp, Lampu dengan Teknologi LED;109;灯
 出入力;Shutsunyūryoku;しゅつにゅうりょく;Input/Output, Masukan/Keluaran, Alat untuk Input dan Output;133;出:しゅつ|入:にゅう|力:りょく
 地上;Chijō;ちじょう;Terestrial, Di Bumi, Penyiaran Darat;133;地:ち|上:じょう
 放送用チューナー;Hōsō-yō Chūnā;ほうそうようチューナー;Tuner untuk Penyiaran, Alat Penyetel untuk Broadcast, Sistem Penyetel untuk Siaran;133;放:ほう|送:そう|用:よう
+
+受変電設備;Juhenden Setsubi;じゅへんでんせつび;Peralatan Transformator dan Distribusi, Sistem Transformator dan Distribusi, Alat untuk Transformasi dan Distribusi Listrik;137;受:じゅ|変:へん|電:でん|設:せつ|備:び
+電力送電会社;Denryoku Sōden Kaisha;でんりょくそうでんかいしゃ;Perusahaan Pengiriman Listrik, Perusahaan Transmisi Listrik, Penyedia Layanan Transmisi Listrik;137;電:でん|力:りょく|送:そう|電:でん|会:かい|社:しゃ
+高圧;Kōatsu;こうあつ;Tegangan Tinggi, High Voltage, Kondisi dengan Tegangan Listrik yang Tinggi;137;高:こう|圧:あつ
+配電線;Haiden-sen;はいでんせん;Saluran Distribusi, Jalur Distribusi, Alat untuk Distribusi Listrik;137;配:はい|電:でん|線:せん
+分岐;Bunki;ぶんき;Cabang, Percabangan, Alat untuk Membagi Arus Listrik;137;分:ぶん|岐:き
+構内柱;Kōnai-bashira;こうないばしら;Tiang di Dalam Area, Tiang Internal, Struktur Penyangga di Area;137;構:こう|内:ない|柱:ばしら
+引き込む;Hikikomu;ひきこむ;Menarik Masuk, Menghubungkan, Memasukkan;137;引:ひ|込:こ
+変圧器;Hen'atsuki;へんあつき;Transformator, Alat untuk Mengubah Tegangan Listrik, Perangkat Transformasi Listrik;137;変:へん|圧:あつ|器:き
+動力用;Dōryoku-yō;どうりょくよう;Untuk Daya, Untuk Tenaga, Alat untuk Kebutuhan Daya;137;動:どう|力:りょく|用:よう
+変圧;Hen'atsu;へんあつ;Transformasi Tegangan, Perubahan Tegangan, Proses Mengubah Tegangan Listrik;137;変:へん|圧:あつ
+責任分界点;Sekinin Bunkai-ten;せきにんぶんかいてん;Titik Batas Tanggung Jawab, Titik Pemisah Tanggung Jawab, Batas Tanggung Jawab;137;責:せき|任:にん|分:ぶん|界:かい|点:てん
+避雷器;Hiraiki;ひらいき;Surge Arrester, Alat Penangkal Petir, Perangkat untuk Melindungi dari Lonjakan Listrik;137;避:ひ|雷:らい|器:き
+高圧開閉器;Kōatsu Kaiheiki;こうあつかいへいき;Switch Tegangan Tinggi, Alat Pemutus Tegangan Tinggi, Perangkat untuk Mengendalikan Tegangan Tinggi;137;高:こう|圧:あつ|開:かい|閉:へい|器:き
+低圧開閉器;Teiatsu Kaiheiki;ていあつかいへいき;Switch Tegangan Rendah, Alat Pemutus Tegangan Rendah, Perangkat untuk Mengendalikan Tegangan Rendah;137;低:てい|圧:あつ|開:かい|閉:へい|器:き
+高圧負荷開閉器;Kōatsu Fuka Kaiheiki;こうあつふかかいへいき;Switch Beban Tegangan Tinggi, Alat Pemutus Beban Tegangan Tinggi, Perangkat untuk Mengendalikan Beban pada Tegangan Tinggi;137;高:こう|圧:あつ|負:ふ|荷:か|開:かい|閉:へい|器:き
+電力ヒューズ;Denryoku Hyūzu;でんりょくヒューズ;Sekring Listrik, Fuse, Alat untuk Melindungi dari Arus Berlebih;137;電:でん|力:りょく
+単相;Tansō;たんそう;Fasa Tunggal, Single Phase, Sistem Listrik dengan Satu Fasa;137;単:たん|相:そう
+電力用コンデンサ;Denryoku-yō Kondensa;でんりょくようコンデンサ;Kapasitor untuk Listrik, Alat Penyimpan Energi Listrik, Perangkat untuk Menyimpan Muatan Listrik;137;電:でん|力:りょく|用:よう
+三相;Sansō;さんそう;Fasa Tiga, Three Phase, Sistem Listrik dengan Tiga Fasa;137;三:さん|相:そう
+低圧配電盤;Teiatsu Haidenban;ていあつはいでんばん;Panel Distribusi Tegangan Rendah, Panel Listrik Tegangan Rendah, Alat untuk Distribusi Listrik dengan Tegangan Rendah;137;低:てい|圧:あつ|配:はい|電:でん|盤:ばん
+電灯回路配電用遮断器;Dentō Kairo Haiden-yō Shadan-ki;でんとうかいろはいでんようしゃだんき;Pemutus Sirkuit untuk Distribusi Penerangan, Alat Pemutus untuk Sirkuit Lampu, Perangkat untuk Melindungi Sirkuit Penerangan;137;電:でん|灯:とう|回:かい|路:ろ|配:はい|電:でん|用:よう|遮:しゃ|断:だん|器:き
+キュービクル;Kyūbikuru;キュービクル;Cubicle, Ruang Tertutup untuk Peralatan Listrik, Alat untuk Menempatkan Peralatan Listrik;137;
+
+自家発電設備;Jikahatsuden Setsubi;じかはつでんせつび;Peralatan Pembangkit Listrik Mandiri, Sistem Pembangkit Listrik Sendiri, Alat untuk Menghasilkan Listrik secara Mandiri;139;自:じ|家:か|発:はつ|電:でん|設:せつ|備:び
+最小限;Saishōgen;さいしょうげん;Minimum, Paling Sedikit, Batas Terendah;139;最:さい|小:しょう|限:げん
+非常照明;Hijō Shōmei;ひじょうしょうめい;Penerangan Darurat, Lampu Darurat, Sistem Penerangan untuk Keadaan Darurat;139;非:ひ|常:じょう|照:しょう|明:めい
+普段;Fudan;ふだん;Biasanya, Sehari-hari, Kondisi Normal;139;普:ふ|段:だん
+稼働する;Kadō suru;かどうする;Beroperasi, Berfungsi, Bekerja;139;稼:か|働:どう
+能力;Nōryoku;のうりょく;Kapasitas, Kemampuan, Daya;139;能:のう|力:りょく
+試運転;Shiunten;しうんてん;Uji Coba Operasi, Test Run, Proses Pengujian;139;試:し|運:うん|転:てん
+整備;Seibi;せいび;Pemeliharaan, Perawatan, Proses Merawat dan Memelihara;139;整:せい|備:び
+構成する;Kōsei suru;こうせいする;Menyusun, Membentuk, Mengorganisasi;139;構:こう|成:せい
+主要な;Shuyō na;しゅような;Utama, Penting, Esensial;139;主:しゅ|要:よう
+発電機;Hatsudenki;はつでんき;Generator, Alat untuk Menghasilkan Listrik, Perangkat Pembangkit Listrik;139;発:はつ|電:でん|機:き
+冷却装置;Reikyaku Sōchi;れいきゃくそうち;Peralatan Pendingin, Sistem Pendingin, Alat untuk Mendinginkan;139;冷:れい|却:きゃく|装:そう|置:ち
+燃料タンク;Nenryō Tanku;ねんりょうタンク;Tangki Bahan Bakar, Alat Penyimpan Bahan Bakar, Sistem untuk Menyimpan Bahan Bakar;139;燃:ねん|料:りょう
+同様;Dōyō;どうよう;Sama, Serupa, Mirip;139;同:どう|様:よう
+始動;Shidō;しどう;Start, Memulai, Proses Memulai;139;始:し|動:どう
+圧縮空気;Asshuku Kūki;あっしゅくくうき;Udara Terkompresi, Kompresor Udara, Alat untuk Menghasilkan Udara Terkompresi;139;圧:あっ|縮:しゅく|空:くう|気:き
+発電機;Hatsudenki;はつでんき;Generator, Alat untuk Menghasilkan Listrik, Perangkat Pembangkit Listrik;139;発:はつ|電:でん|機:き
+機関;Kikan;きかん;Mesin, Motor, Perangkat Penggerak;139;機:き|関:かん
+重油;Jūyu;じゅうゆ;Minyak Berat, Bahan Bakar Minyak Berat, Alat untuk Bahan Bakar Minyak Berat;139;重:じゅう|油:ゆ
+軽油;Keiyu;けいゆ;Minyak Ringan, Bahan Bakar Minyak Ringan, Alat untuk Bahan Bakar Minyak Ringan;139;軽:けい|油:ゆ
+乗用車;Jōyōsha;じょうようしゃ;Mobil Penumpang, Kendaraan Pribadi, Alat Transportasi untuk Penumpang;139;乗:じょう|用:よう|車:しゃ
+都市ガス;Toshi Gasu;としガス;Gas Kota, Gas Alam, Alat untuk Gas yang Digunakan di Perkotaan;139;都:と|市:し
+ガスタービン;Gasutābin;ガスタービン;Gas Turbine, Turbin Gas, Alat untuk Menghasilkan Tenaga dari Gas;139;
+想像する;Sōzō suru;そうぞうする;Membayangkan, Mengimajinasikan, Berpikir tentang;139;想:そう|像:ぞう
+液体燃料;Ekitai Nenryō;えきたいねんりょう;Bahan Bakar Cair, Alat untuk Bahan Bakar dalam Bentuk Cair, Sistem untuk Menyimpan Bahan Bakar Cair;139;液:えき|体:たい|燃:ねん|料:りょう
+両方;Ryōhō;りょうほう;Keduanya, Dua-duanya, Baik Satu maupun Lain;139;両:りょう|方:ほう
+搭載する;Tōsai suru;とうさいする;Memasang, Menginstal, Menempatkan;139;搭:とう|載:さい
+防油堤;Bōyutei;ぼうゆてい;Tanggul Penahan Minyak, Alat untuk Mencegah Tumpahan Minyak, Sistem untuk Menahan Minyak;139;防:ぼう|油:ゆ|堤:てい
+配管ピット;Haikan Pitto;はいかんピット;Pipa Pit, Lubang Pipa, Alat untuk Menempatkan Pipa;139;配:はい|管:かん
+
+直流電源装置;Chokuryū Dengen Sōchi;ちょくりゅうでんげんそうち;Peralatan Sumber Daya Listrik DC, Sistem Sumber Daya Listrik Arus Searah, Alat untuk Menyediakan Listrik DC;141;直:ちょく|流:りゅう|電:でん|源:げん|装:そう|置:ち
+受変電設備;Juhenden Setsubi;じゅへんでんせつび;Peralatan Transformator dan Distribusi, Sistem Transformator dan Distribusi, Alat untuk Transformasi dan Distribusi Listrik;141;受:じゅ|変:へん|電:でん|設:せつ|備:び
+制御設備;Seigyō Setsubi;せいぎょうせつび;Peralatan Kontrol, Sistem Kontrol, Alat untuk Mengendalikan;141;制:せい|御:ぎょう|設:せつ|備:び
+通常;Tsūjō;つうじょう;Normal, Biasa, Kondisi Standar;141;通:つう|常:じょう
+鉛蓄電池;Enchikudenchi;えんちくでんち;Baterai Timbal, Alat Penyimpan Energi Listrik dengan Elektrolit Timbal, Sistem Penyimpanan Energi Listrik dengan Baterai Timbal;141;鉛:えん|蓄:ちく|電:でん|池:ち
+開放型;Kaihō-gata;かいほうがた;Tipe Terbuka, Sistem Terbuka, Alat dengan Desain Terbuka;141;開:かい|放:ほう|型:がた
+密閉型;Mippei-gata;みっぺいがた;Tipe Tertutup, Sistem Tertutup, Alat dengan Desain Tertutup;141;密:みっ|閉:ぺい|型:がた
+バッテリー液;Batterī-eki;バッテリー液;Cairan Baterai, Elektrolit Baterai, Alat untuk Mengisi Baterai;141;液:えき
+蒸留水;Jōryūsui;じょうりゅうすい;Air Distilasi, Air Murni, Alat untuk Menghasilkan Air Distilasi;141;蒸:じょう|留:りゅう|水:すい
+補給する;Hokyū suru;ほきゅうする;Mengisi Ulang, Menyediakan, Memasok;141;補:ほ|給:きゅう
+性能;Seinō;せいのう;Kinerja, Performa, Kemampuan;141;性:せい|能:のう
+低下する;Teika suru;ていかする;Menurun, Turun, Berkurang;141;低:てい|下:か
+使用状態;Shiyō Jōtai;しようじょうたい;Kondisi Penggunaan, Status Penggunaan, Alat untuk Menilai Kondisi Penggunaan;141;使:し|用:よう|状:じょう|態:たい
+目安;Meyasu;めやす;Panduan, Acuan, Alat untuk Menilai;141;目:め|安:やす
+著しい;Ichijirushii;いちじるしい;Signifikan, Mencolok, Sangat Terlihat;141;著:いちじる
+保守;Hoshu;ほしゅ;Pemeliharaan, Perawatan, Proses Merawat dan Memelihara;141;保:ほ|守:しゅ
+負荷;Fuka;ふか;Beban, Beban, Alat untuk Menilai Beban;141;負:ふ|荷:か
+整流器盤;Seiryūki-ban;せいりゅうきばん;Panel Penyearah, Alat untuk Menyearahkan Arus Listrik, Sistem untuk Menyearahkan Listrik;141;整:せい|流:りゅう|器:き|盤:ばん
+保護装置;Hogo Sōchi;ほごそうち;Peralatan Perlindungan, Sistem Perlindungan, Alat untuk Melindungi;141;保:ほ|護:ご|装:そう|置:ち
+表示装置;Hyōji Sōchi;ひょうじそうち;Peralatan Tampilan, Sistem Tampilan, Alat untuk Menampilkan Informasi;141;表:ひょう|示:じ|装:そう|置:ち
+負荷電圧補償装置;Fuka Den'atsu Hokyō Sōchi;ふかでんあつほきょうそうち;Peralatan Kompensasi Tegangan Beban, Sistem Kompensasi Tegangan untuk Beban, Alat untuk Menyeimbangkan Tegangan Beban;141;負:ふ|荷:か|電:でん|圧:あつ|補:ほ|償:きょう|装:そう|置:ち
+蓄電池盤;Chikudenchi-ban;ちくでんちばん;Panel Baterai, Alat untuk Menempatkan Baterai, Sistem untuk Menyimpan Baterai;141;蓄:ちく|電:でん|池:ち|盤:ばん
+アルカリ蓄電池;Arukari Chikudenchi;アルカリちくでんち;Baterai Alkaline, Alat Penyimpan Energi Listrik dengan Elektrolit Alkaline, Sistem Penyimpanan Energi Listrik dengan Baterai Alkaline;141;蓄:ちく|電:でん|池:ち
+
+無停電電源装置;Muteiden Dengen Sōchi;むていでんげんそうち;UPS (Uninterruptible Power Supply), Peralatan Sumber Daya Listrik Tanpa Gangguan, Sistem Sumber Daya Listrik yang Tidak Terganggu, Alat untuk Menyediakan Listrik Tanpa Gangguan;143;無:む|停:てい|電:でん|源:げん|装:そう|置:ち
+断たれる;Tatareru;たたれる;Terputus, Terhenti, Tidak Berfungsi;143;断:た
+商用交流出力;Shōyō Kōryū Shutsuryoku;しょうようこうりゅうしゅつりょく;PLN, Output AC Komersial, Output Arus Bolak-Balik untuk Penggunaan Komersial, Alat untuk Menyediakan Output AC;143;商:しょう|用:よう|交:こう|流:りゅう|出:しゅつ|力:りょく
+交流入力;Kōryū Nyūryoku;こうりゅうにゅうりょく;Input AC, Masukan Arus Bolak-Balik, Alat untuk Menerima Input AC;143;交:こう|流:りゅう|入:にゅう|力:りょく
+交流出力;Kōryū Shutsuryoku;こうりゅうしゅつりょく;Output AC, Keluaran Arus Bolak-Balik, Alat untuk Memberikan Output AC;143;交:こう|流:りゅう|出:しゅつ|力:りょく
+従来;Jūrai;じゅうらい;Konvensional, Tradisional, Cara Lama;143;従:じゅう|来:らい
+計算機設備;Keisanki Setsubi;けいさんきせつび;Peralatan Komputer, Sistem Komputer, Alat untuk Pengolahan Data;143;計:けい|算:さん|機:き|設:せつ|備:び
+監視制御設備;Kanshi Seigyō Setsubi;かんしせいぎょうせつび;Peralatan Kontrol dan Pemantauan, Sistem Kontrol dan Pemantauan, Alat untuk Mengendalikan dan Memantau;143;監:かん|視:し|制:せい|御:ぎょう|設:せつ|備:び
+故障時;Koshō-ji;こしょうじ;Saat Terjadi Kerusakan, Ketika Terjadi Gangguan, Kondisi Saat Terjadi Masalah;143;故:こ|障:しょう|時:じ
+本体故障時;Hontai Koshō-ji;ほんたいこしょうじ;Saat Terjadi Kerusakan pada Perangkat Utama, Ketika Perangkat Utama Rusak, Kondisi Saat Perangkat Utama Bermasalah;143;本:ほん|体:たい|故:こ|障:しょう|時:じ
+無瞬断;Mushundan;むしゅんだん;Tanpa Gangguan Sekejap, Tidak Ada Pemutusan Sementara, Kondisi Tanpa Gangguan Sementara;143;無:む|瞬:しゅん|断:だん
+切り替え;Kirikae;きりかえ;Beralih, Mengganti, Proses Peralihan;143;切:き|替:り
+通常時;Tsūjō-ji;つうじょうじ;Saat Normal, Kondisi Normal, Waktu Normal;143;通:つう|常:じょう|時:じ
+整流器;Seiryūki;せいりゅうき;Rectifier, Alat Penyearah, Perangkat untuk Menyearahkan Arus Listrik;143;整:せい|流:りゅう|器:き
+インバータ;Inbāta;インバータ;Inverter, Alat Pengubah Arus, Perangkat untuk Mengubah Arus Listrik;143;
+負荷;Fuka;ふか;Beban, Beban, Alat untuk Menilai Beban;143;負:ふ|荷:か
