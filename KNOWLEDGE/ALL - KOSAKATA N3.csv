@@ -1,14 +1,14 @@
 ﻿日本語;Romaji;Cara Baca;インドネシア語;第～週;～日目;Hari ke-;Furigana Segment
-キッチン・台所;kitchin・daidokoro;キッチン・だいどころ;dapur [KB];第1週;1日目;Hari ke-1;台:だい|所:どころ
+キッチン・台所;kitchin, daidokoro;キッチン・だいどころ;dapur [KB];第1週;1日目;Hari ke-1;台:だい|所:どくろ
 冷蔵庫;reizōko;れいぞうこ;kulkas [KB];第1週;1日目;Hari ke-1;冷:れい|蔵:ぞう|庫:こ
 ワイングラス;waingurasu;ワイングラス;gelas wine [KB];第1週;1日目;Hari ke-1;
 電子レンジ;denshirenji;でんしレンジ;microwave [KB];第1週;1日目;Hari ke-1;電:でん|子:し
 コーヒーカップ;kōhīkappu;コーヒーカップ;cangkir kopi [KB];第1週;1日目;Hari ke-1;
-ガスレンジ, ガスコンロ;gasurenji, gasukonro;ガスレンジ, ガスコンロ;kompor [KB];第1週;1日目;Hari ke-1;
+ガスレンジ・ガスコンロ;gasurenji, gasukonro;ガスレンジ・ガスコンロ;kompor gas [KB];第1週;1日目;Hari ke-1;
 ガラスのコップ;garasu no koppu;ガラスのコップ;gelas kaca [KB];第1週;1日目;Hari ke-1;
-湯のみ(茶わん);yunomi(chawan);ゆのみ(ちゃわん);gelas air, teh [KB];第1週;1日目;Hari ke-1;湯:ゆ|茶:ちゃ
+湯のみ;yunomi;ゆのみ;gelas air, teh [KB];第1週;1日目;Hari ke-1;湯:ゆ
 茶わん;chawan;ちゃわん;mangkuk kecil [KB];第1週;1日目;Hari ke-1;茶:ちゃ
-居間・リビング;ima・ribingu;いま・リビング;living room [KB];第1週;1日目;Hari ke-1;居:い|間:ま
+居間・リビング;ima, ribingu;いま・リビング;ruang tamu [KB];第1週;1日目;Hari ke-1;居:い|間:ま
 窓ガラス;madogarasu;まどガラス;kaca jendela [KB];第1週;1日目;Hari ke-1;窓:まど
 レバー;rebā;レバー;tuas (putaran) keran [KB];第1週;1日目;Hari ke-1;
 流し;nagashi;ながし;sink (bak wastafel) [KB];第1週;1日目;Hari ke-1;流:なが
@@ -18,7 +18,8 @@
 床;yuka;ゆか;lantai [KB];第1週;1日目;Hari ke-1;床:ゆか
 コンセント;konsento;コンセント;stop kontak, stopkontak [KB];第1週;1日目;Hari ke-1;
 天井;tenjō;てんじょう;atap (langit-langit), plafon [KB];第1週;1日目;Hari ke-1;天:てん|井:じょう
-じゅうたん, カーペット;jūtan, kāpetto;じゅうたん, カーペット;karpet [KB];第1週;1日目;Hari ke-1;
+じゅうたん;jūtan;じゅうたん;karpet [KB];第1週;1日目;Hari ke-1;
+カーペット;kāpetto;カーペット;karpet [KB];第1週;1日目;Hari ke-1;
 エアコン;eakon;エアコン;air conditioner, pendingin ruangan [KB];第1週;1日目;Hari ke-1;
 コード;kōdo;コード;kabel [KB];第1週;1日目;Hari ke-1;
 水道の蛇口をひねる;suidō no jaguchi wo hineru;すいどうのじゃぐちをひねる;memutar air keran, memutar keran air;第1週;1日目;Hari ke-1;水:すい|道:どう|蛇:じゃ|口:ぐち
@@ -35,10 +36,11 @@
 じゅうたんを敷く;jūtan wo shiku;じゅうたんをしく;menggelar karpet;第1週;1日目;Hari ke-1;敷:し
 部屋を暖める;heya wo atatameru;へやをあたためる;menghangatkan ruangan;第1週;1日目;Hari ke-1;部:へ|屋:や|暖:あたた
 暖房をつける;danbō wo tsukeru;だんぼうをつける;menyalakan penghangat;第1週;1日目;Hari ke-1;暖:だん|房:ぼう
-冷房(クーラー)が効いている;reibō (kūrā) ga kiite iru;れいぼう(クーラー)がきいている;dinginnya (AC) terasa;第1週;1日目;Hari ke-1;冷:れい|房:ぼう|効:き
+冷房が効いている・クーラーが効いている;reibō ga kiite iru, kūrā ga kiite iru;れいぼうがきいている・クーラーがきいている;AC-nya dingin;第1週;1日目;Hari ke-1;冷:れい|房:ぼう|効:き|効:き
 日当たりがいい;hiatari ga ii;ひあたりがいい;terkena sinar matahari;第1週;1日目;Hari ke-1;日:ひ|当:あ
 日当たりが悪い;hiatari ga warui;ひあたりがわるい;tidak terkena sinar matahari;第1週;1日目;Hari ke-1;日:ひ|当:あ|悪:わる
-大さじ;taisaji;たいさじ;takaran sendok makan [KB];第1週;2日目;Hari ke-2;大:たい
+
+大さじ;ōsaji;おおさじ;takaran sendok makan [KB];第1週;2日目;Hari ke-2;大:おお
 小さじ;kosaji;こさじ;takaran sendok teh [KB];第1週;2日目;Hari ke-2;小:こ
 1カップ;1kappu;1カップ;satu gelas [KB];第1週;2日目;Hari ke-2;
 1リットル;1rittoru;1りっとる;satu liter [KB];第1週;2日目;Hari ke-2;
@@ -53,16 +55,17 @@
 夕食のおかず;yūshoku no okazu;ゆうしょくのおかず;lauk makan malam [KB];第1週;2日目;Hari ke-2;夕:ゆう|食:しょく
 栄養のバランスを考える;eiyō no baransu wo kangaeru;えいようのばらんすをかんがえる;memikirkan keseimbangan nutrisi;第1週;2日目;Hari ke-2;栄:えい|養:よう|考:かんが
 カロリーが高い食品;karorī ga takai shokuhin;かろりーがたかいしょくひん;bahan makanan berkalori tinggi [KB];第1週;2日目;Hari ke-2;高:たか|食:しょく|品:ひん
-はかりで量る;hakari de hakaru;はかりではかる;mengukur dengan timbangan;第1週;2日目;Hari ke-2;量:はか
+秤で量る;hakari de hakaru;はかりではかる;mengukur dengan timbangan;第1週;2日目;Hari ke-2;秤:はかり|量:はか
 塩を少々入れる;shio wo shōshō ireru;しおをしょうしょういれる;memasukkan sedikit garam;第1週;2日目;Hari ke-2;塩:しお|少:しょう|々:しょう|入:い
 皮をむく;kawa wo muku;かわをむく;mengupas kulit;第1週;2日目;Hari ke-2;皮:かわ
-材料を刻む;zairyō wo kizamu;ざいりょうをきざむ;memotong kecil-kecil, mencincang, mengiris halus;第1週;2日目;Hari ke-2;材:ざい|料:りょう|刻:きざ
+材料を刻む;zairyō wo kizamu;ざいりょうをきざむ;memotong bahan makanan menjadi potongan kecil, mencincang bahan makanan;第1週;2日目;Hari ke-2;材:ざい|料:りょう|刻:きざ
 大きめに切る;ōkime ni kiru;おおきめにきる;memotong agak besar;第1週;2日目;Hari ke-2;大:おお|切:き
 3センチ幅に切る;3 senchi haba ni kiru;3せんちはばにきる;memotong dengan lebar 3 cm;第1週;2日目;Hari ke-2;幅:はば|切:き
 みそ汁がぬるくなる;misoshiru ga nuruku naru;みそしるがぬるくなる;miso soup-nya menjadi kurang hangat (suhu menurun), sup miso-nya menjadi hangat-hangat kuku;第1週;2日目;Hari ke-2;汁:しる
 ラップでくるむ;rappu de kurumu;ラップでくるむ;membungkus dengan plastik wrap;第1週;2日目;Hari ke-2;
 (アルミ)ホイル;(arumi)hoiru;(アルミ)ホイル;aluminium foil [KB];第1週;2日目;Hari ke-2;
-ラップをかぶせる, かける;rappu wo kabuseru, kakeru;ラップをかぶせる, かける;menutupi dengan plastik wrap;第1週;2日目;Hari ke-2;
+ラップを被せる・ラップを掛ける;rappu wo kabuseru, rappu wo kakeru;ラップをかぶせる・ラップをかける;membungkus dengan plastik wrap;第1週;2日目;Hari ke-2;被:かぶ|掛:か
+
 鍋;nabe;なべ;panci [KB];第1週;3日目;Hari ke-3;鍋:なべ
 蓋;futa;ふた;tutup [KB];第1週;3日目;Hari ke-3;蓋:ふた
 お玉;otama;おたま;centongan [KB];第1週;3日目;Hari ke-3;玉:たま
@@ -85,23 +88,24 @@
 炒める;itameru;いためる;menumis;第1週;3日目;Hari ke-3;炒:いた
 混ぜる;mazeru;まぜる;mencampur;第1週;3日目;Hari ke-3;混:ま
 焦げる;kogeru;こげる;gosong, hangus;第1週;3日目;Hari ke-3;焦:こ
-ひっくり返す, 裏返す;hikkurikaesu, urakaesu;ひっくりかえす, うらかえす;membalikkan, membalik;第1週;3日目;Hari ke-3;裏:うら|返:かえ
+ひっくり返す・裏返す;hikkurikaesu, uragaesu;ひっくりかえす・うらがえす;membalikkan, membalik;第1週;3日目;Hari ke-3;返:かえ|裏:うら|返:がえ
 味をつける;aji wo tsukeru;あじをつける;memberi rasa;第1週;3日目;Hari ke-3;味:あじ
 塩を加える;shio wo kuwaeru;しおをくわえる;menambahkan garam;第1週;3日目;Hari ke-3;塩:しお|加:くわ
-こしょうを振る;koshō wo furu;こしょうをふる;menaburi lada;第1週;3日目;Hari ke-3;振:ふ
-味見をする, 味を見る;ajimi wo suru, aji wo miru;あじみをする, あじをみる;mencicipi rasa;第1週;3日目;Hari ke-3;味:あじ|見:み|味:あじ|見:み
+胡椒を振る;koshō wo furu;こしょうをふる;menaburi lada;第1週;3日目;Hari ke-3;胡:こ|椒:しょう|振:ふ
+味見をする・味を見る;ajimi wo suru, aji wo miru;あじみをする・あじをみる;mencicipi rasa;第1週;3日目;Hari ke-3;味:あじ|見:み|味:あじ|見:み
 味が濃い;aji ga koi;あじがこい;rasanya pekat, tajam, rasanya kuat, pekat;第1週;3日目;Hari ke-3;味:あじ|濃:こ
 味が薄い;aji ga usui;あじがうすい;rasanya hambar, ringan, rasanya tawar, hambar;第1週;3日目;Hari ke-3;味:あじ|薄:うす
 辛い;karai;からい;pedas, panas, asin (tergantung konteks);第1週;3日目;Hari ke-3;辛:から
 塩からい;shiokarai;しおからい;asin;第1週;3日目;Hari ke-3;塩:しお
 酸っぱい;suppai;すっぱい;asam;第1週;3日目;Hari ke-3;酸:す
-できあがる, できあがり;dekiagaru, dekiagari;できあがる, できあがり;selesai, siap disajikan;第1週;3日目;Hari ke-3;
+できあがる・できあがり;dekiagaru, dekiagari;できあがる・できあがり;selesai, sudah jadi;第1週;3日目;Hari ke-3;
+
 エプロン;epuron;エプロン;apron [KB];第1週;4日目;Hari ke-4;
 箒;hōki;ほうき;sapu [KB];第1週;4日目;Hari ke-4;箒:ほうき
 塵取り;chiritori;ちりとり;pengki, serok sampah [KB];第1週;4日目;Hari ke-4;塵:ちり|取:と
 雑巾;zōkin;ぞうきん;kain lap, kain pel [KB];第1週;4日目;Hari ke-4;雑:ぞう|巾:きん
 バケツ;baketsu;バケツ;ember [KB];第1週;4日目;Hari ke-4;
-エプロンをする, かける, つける;epuron wo suru, kakeru, tsukeru;エプロンをする, かける, つける;memakai apron;第1週;4日目;Hari ke-4;
+エプロンをする・エプロンをかける・エプロンをつける;epuron wo suru, epuron wo kakeru, epuron wo tsukeru;エプロンをする・エプロンをかける・エプロンをつける;mengenakan apron;第1週;4日目;Hari ke-4;
 ソファーをどける;sofā wo dokeru;ソファーをどける;meminggirkan, memindahkan sofa;第1週;4日目;Hari ke-4;
 （～が）どく;(~ ga) doku;（～が）どく;minggir, menyingkir, menyingkir, minggir;第1週;4日目;Hari ke-4;
 部屋を散らかす;heya wo chirakasu;へやをちらかす;membuat ruangan jadi berantakan;第1週;4日目;Hari ke-4;部:へ|屋:や|散:ち
@@ -111,30 +115,32 @@
 ジュースをこぼす;jūsu wo kobosu;ジュースをこぼす;menumpahkan jus;第1週;4日目;Hari ke-4;
 こぼれる;koboreru;こぼれる;tumpah;第1週;4日目;Hari ke-4;
 埃が積もる;hokori ga tsumoru;ほこりがつもる;debu menumpuk (dari atas), debu terakumulasi;第1週;4日目;Hari ke-4;埃:ほこり|積:つ
-埃がたまる;hokori ga tamaru;ほこりがたまる;debu menumpuk (dari banyak arah), debu berkumpul, debu mengendap;第1週;4日目;Hari ke-4;埃:ほこり
+埃が溜まる;hokori ga tamaru;ほこりがたまる;debu menumpuk (dari banyak arah), debu berkumpul, debu mengendap;第1週;4日目;Hari ke-4;埃:ほこり|溜:た
 埃を取る;hokori wo toru;ほこりをとる;mengambil, membersihkan debu;第1週;4日目;Hari ke-4;埃:ほこり|取:と
 掃除機をかける;sōjiki wo kakeru;そうじきをかける;membersihkan dengan vacuum cleaner;第1週;4日目;Hari ke-4;掃:そう|除:じ|機:き
-ほうきで掃く;hōki de haku;ほうきではく;menyapu dengan sapu;第1週;4日目;Hari ke-4;掃:は
+箒で掃く;hōki de haku;ほうきではく;menyapu dengan sapu;第1週;4日目;Hari ke-4;箒:ほうき|掃:は
 水をくむ;mizu wo kumu;みずをくむ;mengambil air;第1週;4日目;Hari ke-4;水:みず
-ぞうきんをしぼる;zōkin wo shiboru;ぞうきんをしぼる;memeras kain lap, memeras kain pel;第1週;4日目;Hari ke-4;
-ぬらす;nurasu;ぬらす;membasahi;第1週;4日目;Hari ke-4;
-床をふく;yuka wo fuku;ゆかをふく;mengelap lantai;第1週;4日目;Hari ke-4;床:ゆか
-ふきんで食器をふく;fukin de shokki wo fuku;ふきんでしょっきをふく;mengelap alat makan dengan kain lap;第1週;4日目;Hari ke-4;食:しょっ|器:き
-台ふきんでテーブルをふく;daifukin de tēburu wo fuku;だいふきんでテーブルをふく;mengelap meja dengan lap meja;第1週;4日目;Hari ke-4;台:だい
-家具をみがく;kagu wo migaku;かぐをみがく;menggosok, memoles furnitur;第1週;4日目;Hari ke-4;家:か|具:ぐ
-ブラシでこする;burashi de kosuru;ブラシでこする;menggosok dengan sikat;第1週;4日目;Hari ke-4;
+雑巾を絞る;zōkin wo shiboru;ぞうきんをしぼる;memeras kain lap, memeras kain pel;第1週;4日目;Hari ke-4;
+濡らす;nurasu;ぬらす;membasahi;第1週;4日目;Hari ke-4;濡:ぬ
+床を拭く;yuka wo fuku;ゆかをふく;mengelap lantai;第1週;4日目;Hari ke-4;床:ゆか|拭:ふ
+布巾で食器を拭く;fukin de shokki wo fuku;ふきんでしょっきをふく;mengelap peralatan makan dengan lap;第1週;4日目;Hari ke-4;布:ふ|巾:きん|食:しょく|器:き|拭:ふ
+台布巾でテーブルを拭く;daifukin de tēburu wo fuku;だいふきんでテーブルをふく;mengelap meja dengan lap meja;第1週;4日目;Hari ke-4;台:だい|布:ふ|巾:きん|拭:ふ
+家具を磨く;kagu wo migaku;かぐをみがく;memoles perabotan, mengilapkan perabotan;第1週;4日目;Hari ke-4;家:か|具:ぐ|磨:み
+ブラシで擦る;burashi de kosuru;ブラシでこする;menggosok dengan sikat;第1週;4日目;Hari ke-4;擦:こす
 ゴミを分ける;gomi wo wakeru;ゴミをわける;memisahkan sampah;第1週;4日目;Hari ke-4;分:わ
-面倒くさい, 面倒だ;mendōkusai, mendōda;めんどうくさい, めんどうだ;merepotkan;第1週;4日目;Hari ke-4;面:めん|倒:どう|面:めん|倒:どう
-スリッパをそろえる;surippa wo soroeru;スリッパをそろえる;merapikan sandal;第1週;4日目;Hari ke-4;
-物置にしまう;mo no oki ni shimau;ものおきにしまう;menyimpan di tempat penyimpanan;第1週;4日目;Hari ke-4;物:もの|置:おき
+面倒くさい;mendōkusai;めんどうくさい;merepotkan;第1週;4日目;Hari ke-4;面:めん|倒:どう
+面倒だ;mendōda;めんどうだ;merepotkan;第1週;4日目;Hari ke-4;面:めん|倒:どう
+スリッパを揃える;surippa wo soroeru;スリッパをそろえる;mengatur sandal, menyusun sandal;第1週;4日目;Hari ke-4;揃:そろ
+物置に仕舞う;mono oki ni shimau;ものおきにしまう;menyimpan di gudang, menyimpan di tempat penyimpanan;第1週;4日目;Hari ke-4;物:もの|置:お|仕:し|舞:ま
 生ゴミ;namagomi;なまゴミ;sampah dapur, sampah organik [KB];第1週;4日目;Hari ke-4;生:なま
 燃えるゴミ;moeru gomi;もえるゴミ;sampah yang bisa dibakar [KB];第1週;4日目;Hari ke-4;燃:も
 燃えないゴミ;moenai gomi;もえないゴミ;sampah yang tidak bisa dibakar [KB];第1週;4日目;Hari ke-4;燃:も
+
 溜まる;tamaru;たまる;menumpuk, berkumpul;第1週;5日目;Hari ke-5;溜:た
 溜める;tameru;ためる;menumpukkan;第1週;5日目;Hari ke-5;溜:た
-ぬれている;nurete iru;ぬれている;basah, lembab;第1週;5日目;Hari ke-5;
-しめっている;shimette iru;しめっている;lembab (belum kering), agak basah;第1週;5日目;Hari ke-5;
-ぬらす;nurasu;ぬらす;membasahi;第1週;5日目;Hari ke-5;
+濡れている;nurete iru;ぬれている;basah, lembab;第1週;5日目;Hari ke-5;濡:ぬ
+湿っている;shimette iru;しめっている;lembab (belum kering), agak basah;第1週;5日目;Hari ke-5;湿:しめ
+濡らす;nurasu;ぬらす;membasahi;第1週;5日目;Hari ke-5;濡:ぬ
 乾く;kawaku;かわく;kering, tidak basah;第1週;5日目;Hari ke-5;乾:かわ
 真っ白に仕上がる;masshiro ni shiagaru;まっしろにしあがる;menjadi putih bersih, menjadi putih bersih (hasil cucian);第1週;5日目;Hari ke-5;真:ま|白:しろ|仕:し|上:あ
 干す;hosu;ほす;menjemur;第1週;5日目;Hari ke-5;干:ほ
@@ -143,20 +149,23 @@
 服を汚す;fuku wo yogosu;ふくをよごす;mengotori pakaian, membuat kotor;第1週;5日目;Hari ke-5;服:ふく|汚:よご
 汚れ;yogore;よごれ;kotoran, noda [KB];第1週;5日目;Hari ke-5;汚:よご
 そでが真っ黒に汚れる;sode ga makkuro ni yogoreru;そでがまっくろによごれる;lengan bajunya jadi sangat kotor sampai hitam pekat;第1週;5日目;Hari ke-5;真:ま|黒:くろ|汚:よご
-(洗濯用, 台所用)洗剤を入れる;(sentakuyō, daidokoroyō)senzai wo ireru;(せんたくよう, だいどころよう)せんざいをいれる;memasukkan deterjen (untuk cucian atau dapur);第1週;5日目;Hari ke-5;洗:せん|濯:たく|用:よう|台:だいど|所:ころ|用:よう|洗:せん|剤:ざい|入:い
+洗濯用洗剤を入れる;sentakuyō senzai wo ireru;せんたくよう せんざいをいれる;memasukkan deterjen untuk cucian;第1週;5日目;Hari ke-5;洗:せん|濯:たく|用:よう|洗:せん|剤:ざい|入:い
+台所用洗剤を入れる;daidokoroyō senzai wo ireru;だいどころよう せんざいをいれる;memasukkan deterjen untuk dapur;第1週;5日目;Hari ke-5;台:だいど|所:ころ|用:よう|洗:せん|剤:ざい|入:い
 スーツをクリーニングに出す;sūtsu wo kurīningu ni dasu;スーツをクリーニングにだす;mencuci jas di laundry, membawa jas ke laundry;第1週;5日目;Hari ke-5;出:だ
 コインランドリーで洗濯をする;koinrandorī de sentaku wo suru;コインランドリーでせんたくをする;mencuci menggunakan koin laundry, mencuci di laundromat;第1週;5日目;Hari ke-5;洗:せん|濯:たく
 タオルを干す;taoru wo hosu;タオルをほす;menjemur handuk;第1週;5日目;Hari ke-5;干:ほ
-服をつるす;fuku wo tsurusu;ふくをつるす;menggantung baju;第1週;5日目;Hari ke-5;服:ふく
-ワイシャツにアイロンをかける;waishatsu ni airon wo kakeru;ワイシャツにアイロンをかける;menyeterika baju, menyetrika kemeja;第1週;5日目;Hari ke-5;
-しわを伸ばす;shiwa wo nobasu;しわをのばす;meluruskan kerutan, merapikan baju kusut;第1週;5日目;Hari ke-5;伸:の
-しわが伸びる;shiwa ga nobiru;しわがのびる;kusutnya hilang, kerutannya lurus;第1週;5日目;Hari ke-5;伸:の
+服を吊るす;fuku wo tsurusu;ふくをつるす;menggantung baju;第1週;5日目;Hari ke-5;服:ふく|吊:つ
+ワイシャツにアイロンを掛ける;waishatsu ni airon wo kakeru;ワイシャツにアイロンをかける;menyeterika baju, menyetrika kemeja;第1週;5日目;Hari ke-5;掛:か
+皺を伸ばす;shiwa wo nobasu;しわをのばす;meluruskan kerutan, merapikan baju kusut;第1週;5日目;Hari ke-5;皺:しわ|伸:の
+皺が伸びる;shiwa ga nobiru;しわがのびる;kusutnya hilang, kerutannya lurus;第1週;5日目;Hari ke-5;皺:しわ|伸:の
 ウールのセーターが縮む;ūru no sētā ga chijimu;ウールのセーターがちぢむ;sweater berbahan wool mengkerut;第1週;5日目;Hari ke-5;縮:ちぢ
 ジーンズの色が落ちる;jīnzu no iro ga ochiru;ジーンズのいろがおちる;warna jeans luntur;第1週;5日目;Hari ke-5;色:いろ|落:お
+
 かわいらしい;kawairashī;かわいらしい;lucu, imut, menggemaskan;第1週;6日目;Hari ke-6;
 かわいそうな;kawaisō na;かわいそうな;kasihan;第1週;6日目;Hari ke-6;
 行儀がいい;gyōgi ga ii;ぎょうぎがいい;berperilaku baik, sopan;第1週;6日目;Hari ke-6;行:ぎょう|儀:ぎ
-利口な, かしこい;rikō na, kashikoi;りこうな, かしこい;pintar, cerdas, pandai;第1週;6日目;Hari ke-6;利:り|口:こう
+利口な;rikō na;りこうな;pintar, cerdas;第1週;6日目;Hari ke-6;利:り|口:こう
+かしこい;kashikoi;かしこい;pintar, cerdas;第1週;6日目;Hari ke-6;
 人懐っこい;hito natsukkoi;ひとなつっこい;ramah, mudah akrab dengan orang;第1週;6日目;Hari ke-6;人:ひと|懐:なつ
 わがままな;wagamama na;わがままな;egois;第1週;6日目;Hari ke-6;
 生意気な;namaiki na;なまいきな;sombong, lancang;第1週;6日目;Hari ke-6;生:なま|意:い|気:き
@@ -171,42 +180,49 @@
 かわいがる;kawaigaru;かわいがる;menyayangi;第1週;6日目;Hari ke-6;
 抱っこする;dakko suru;だっこする;menggendong (mendekap);第1週;6日目;Hari ke-6;抱:だ
 腕に抱く;ude ni daku;うでにだく;memeluk di lengan;第1週;6日目;Hari ke-6;腕:うで|抱:だ
-育児, 子育て;ikuji, kosodate;いくじ, こそだて;mendidik, mengasuh anak;第1週;6日目;Hari ke-6;育:いく|児:じ|子:こ|育:そだ
+育児;ikuji;いくじ;pendidikan anak;第1週;6日目;Hari ke-6;育:いく|児:じ
+子育て;kosodate;こそだて;mengasuh anak;第1週;6日目;Hari ke-6;子:こ|育:そだ
 えらい;erai;えらい;hebat;第1週;6日目;Hari ke-6;
-幼児, おさない子ども;yōji, osanai kodomo;ようじ, おさないこども;anak kecil (balita);第1週;6日目;Hari ke-6;幼:よう|児:じ|子:こ
-子どもが成長する;kodomo ga seichō suru;こどもがせいちょうする;anak tumbuh (besar);第1週;6日目;Hari ke-6;子:こ|成:せい|長:ちょう
+幼児;yōji;ようじ;anak kecil, balita;第1週;6日目;Hari ke-6;幼:よう|児:じ
+幼い子供;osanai kodomo;おさないこども;anak kecil, balita;第1週;6日目;Hari ke-6;幼:おさな|子:こ|供:ども
+子供が成長する;kodomo ga seichō suru;こどもがせいちょうする;anak tumbuh (besar);第1週;6日目;Hari ke-6;子:こ|供:ども|成:せい|長:ちょう
 わがままに育つ;wagamama ni sodatsu;わがままにそだつ;tumbuh besar jadi anak yang egois;第1週;6日目;Hari ke-6;育:そだ
-頭をなでる;atama wo naderu;あたまをなでる;membelai kepala;第1週;6日目;Hari ke-6;頭:あたま
-お尻をたたく, ぶつ;oshiri wo tataku, butsu;おしりをたたく, ぶつ;memukul pantat;第1週;6日目;Hari ke-6;尻:しり
+頭を撫でる;atama wo naderu;あたまをなでる;membelai kepala;第1週;6日目;Hari ke-6;頭:あたま|撫:な
+お尻を叩く;oshiri wo tataku;おしりをたたく;menepuk pantat, memukul pantat;第1週;6日目;Hari ke-6;尻:しり|叩:たた
+お尻をぶつ;oshiri wo butsu;おしりをぶつ;memukul pantat;第1週;6日目;Hari ke-6;尻:しり
 悪戯をする;itazura wo suru;いたずらをする;melakukan hal nakal, iseng, jahil;第1週;6日目;Hari ke-6;悪:いた|戯:ずら
 悪戯な;itazura na;いたずらな;iseng, nakal;第1週;6日目;Hari ke-6;悪:いた|戯:ずら
-手をつなぐ;te wo tsunagu;てをつなぐ;menggandeng tangan;第1週;6日目;Hari ke-6;手:て
-手をはなす;te wo hanasu;てをはなす;melepaskan tangan;第1週;6日目;Hari ke-6;手:て
-子どもが迷子になる;kodomo ga maigo ni naru;こどもがまいごになる;anak tersesat, hilang;第1週;6日目;Hari ke-6;子:こ|迷:まい|子:ご
-子どもが母親の後をついていく;kodomo ga hahaoya no ato wo tsuite iku;こどもがははおやのあとをついていく;anak mengikuti di belakang ibunya;第1週;6日目;Hari ke-6;子:こ|母:はは|親:おや|後:あと
+手を繋ぐ;te wo tsunagu;てをつなぐ;menggandeng tangan;第1週;6日目;Hari ke-6;手:て|繋:つな
+手を離す;te wo hanasu;てをはなす;melepaskan tangan;第1週;6日目;Hari ke-6;手:て|離:はな
+子供が迷子になる;kodomo ga maigo ni naru;こどもがまいごになる;anak tersesat, hilang;第1週;6日目;Hari ke-6;子:こ|供:ども|迷:まい|子:ご
+子供が母親の後をついていく;kodomo ga hahaoya no ato wo tsuite iku;こどもがははおやのあとをついていく;anak mengikuti di belakang ibunya;第1週;6日目;Hari ke-6;子:こ|供:ども|母:はは|親:おや|後:あと
 犬を飼う;inu wo kau;いぬをかう;memelihara anjing;第1週;6日目;Hari ke-6;犬:いぬ|飼:か
-散歩に連れていく;sanpo ni tsureteiku;さんぽにつれていく;mengajak jalan-jalan;第1週;6日目;Hari ke-6;散:さん|歩:ぽ|連:つ
-えさをやる, 与える;esa wo yaru, ataeru;えさをやる, あたえる;memberi makan (hewan);第1週;6日目;Hari ke-6;与:あた
-昨日;kinō;きのう;kemarin;第2週;1日目;Hari ke-7;昨:き|日:のう
-今日;kyō;きょう;hari ini;第2週;1日目;Hari ke-7;今:きょ|日:う
-明日;ashita;あした;besok;第2週;1日目;Hari ke-7;明:あ|日:した
-一昨日;issakujitsu;いっさくじつ;dua hari lalu;第2週;1日目;Hari ke-7;一:いっ|昨:さく|日:じつ
-さきおととい;sakiototoi;さきおととい;tiga hari lalu;第2週;1日目;Hari ke-7;
-あさって;asatte;あさって;lusa;第2週;1日目;Hari ke-7;
-しあさって;shiasatte;しあさって;3 hari kedepan;第2週;1日目;Hari ke-7;
-元日, 元旦;ganjitsu, gantan;がんじつ, がんたん;hari pertama tahun baru (1 Januari);第2週;1日目;Hari ke-7;元:がん|日:じつ|元:がん|旦:たん
-上旬, 初旬;jōjun, shojun;じょうじゅん, しょじゅん;awal bulan (10 hari pertama);第2週;1日目;Hari ke-7;上:じょう|旬:じゅん|初:しょ|旬:じゅん
+散歩に連れて行く;sanpo ni tsurete iku;さんぽにつれていく;mengajak jalan-jalan (anjing);第1週;6日目;Hari ke-6;散:さん|歩:ぽ|連:つ|行:い
+餌をやる・餌を与える;esa wo yaru, esa wo ataeru;えさをやる・えさをあたえる;memberi makan (hewan peliharaan), memberi makan (hewan peliharaan);第1週;6日目;Hari ke-6;餌:えさ|餌:えさ|与:あた
+
+昨日・昨日;kinō, sakujitsu;きのう・さくじつ;kemarin;第2週;1日目;Hari ke-7;昨:き|日:のう|昨:さく|日:じつ
+今日・今日;kyō, konnichi;きょう・こんにち;hari ini;第2週;1日目;Hari ke-7;今日:きょう|今:こん|日:にち
+明日・明日・明日;ashita, myōnichi, asu;あした・みょうにち・あす;besok;第2週;1日目;Hari ke-7;明日:あした❘明日:みょう|日:にち|明日:あす
+一昨日・一昨日;ototoi, issakujitsu;おととい・いっさくじつ;dua hari lalu;第2週;1日目;Hari ke-7;一昨日:おととい|一:いっ|昨:さく|日:じつ
+一昨昨日・一昨昨日;sakiototoi, issakusakujitsu;さきおととい・さきおととい;tiga hari lalu;第2週;1日目;Hari ke-7;一昨昨日:さきおととい|一:いっ|昨:さく|日:じつ
+明後日・明後日;asatte, myōgonichi;あさって・みょうごにち;lusa;第2週;1日目;Hari ke-7;明後日:あさって|明:みょう|後:ご|日:にち
+明々後日・明々後日;shiasatte, myōmyōgonichi;しあさって・みょうみょうごにち;tiga hari lagi;第2週;1日目;Hari ke-7;明々後日:しあさって|明:みょう|々:みょう|後:ご|日:にち
+元日・元旦;ganjitsu, gantan;がんじつ・がんたん;hari pertama tahun baru (1 Januari);第2週;1日目;Hari ke-7;元:がん|日:じつ|元:がん|旦:たん
+上旬・初旬;jōjun, shojun;じょうじゅん・しょじゅん;awal bulan (10 hari pertama);第2週;1日目;Hari ke-7;上:じょう|旬:じゅん|初:しょ|旬:じゅん
 中旬;chūjun;ちゅうじゅん;tengah bulan (10 hari kedua);第2週;1日目;Hari ke-7;中:ちゅう|旬:じゅん
 下旬;gejun;げじゅん;akhir bulan (10 hari terakhir);第2週;1日目;Hari ke-7;下:げ|旬:じゅん
 月始め;tsukihajime;つきはじめ;awal bulan;第2週;1日目;Hari ke-7;月:つき|始:はじ
 月末;getsumatsu;げつまつ;akhir bulan;第2週;1日目;Hari ke-7;月:げつ|末:まつ
 平日;heijitsu;へいじつ;hari kerja, hari biasa;第2週;1日目;Hari ke-7;平:へい|日:じつ
-祝日, 祭日;shukujitsu, saijitsu;しゅくじつ, さいじつ;hari libur nasional;第2週;1日目;Hari ke-7;祝:しゅく|日:じつ|祭:さい|日:じつ
-昨年, 一昨年;sakunen, issakunen;さくねん, いっさくねん;tahun lalu, dua tahun lalu;第2週;1日目;Hari ke-7;昨:さく|年:ねん|一:いっ|昨:さく|年:ねん
+祝日・祭日;shukujitsu, saijitsu;しゅくじつ・さいじつ;hari libur nasional;第2週;1日目;Hari ke-7;祝:しゅく|日:じつ|祭:さい|日:じつ
+昨年;sakunen;さくねん;tahun lalu;第2週;1日目;Hari ke-7;昨:さく|年:ねん
+一昨年;issakunen;いっさくねん;dua tahun lalu;第2週;1日目;Hari ke-7;一:いっ|昨:さく|年:ねん
 再来年;sarainen;さらいねん;dua tahun ke depan;第2週;1日目;Hari ke-7;再:さら|来:い|年:ねん
-先月, 先々月;sengetsu, sensengetsu;せんげつ, せんせんげつ;bulan lalu, dua bulan lalu;第2週;1日目;Hari ke-7;先:せん|月:げつ|先:せん|々:せん|月:げつ
+先月;sengetsu;せんげつ;bulan lalu;第2週;1日目;Hari ke-7;先:せん|月:げつ
+先々月;sensengetsu;せんせんげつ;dua bulan lalu;第2週;1日目;Hari ke-7;先:せん|々:せん|月:げつ
 再来月;saraigetsu;さらいげつ;dua bulan ke depan;第2週;1日目;Hari ke-7;再:さら|来:い|月:げつ
-先週, 先々週;senshū, sensenshū;せんしゅう, せんせんしゅう;minggu lalu, dua minggu lalu;第2週;1日目;Hari ke-7;先:せん|週:しゅう|先:せん|々:せん|週:しゅう
+先週;senshū;せんしゅう;minggu lalu;第2週;1日目;Hari ke-7;先:せん|週:しゅう
+先々週;sensenshū;せんせんしゅう;dua minggu lalu;第2週;1日目;Hari ke-7;先:せん|々:せん|週:しゅう
 再来週;saraishū;さらいしゅう;dua minggu ke depan;第2週;1日目;Hari ke-7;再:さ|来:らい|週:しゅう
 先日;senjitsu;せんじつ;beberapa hari lalu;第2週;1日目;Hari ke-7;先:せん|日:じつ
 年末年始;nenmatsunenshi;ねんまつねんし;akhir & awal tahun;第2週;1日目;Hari ke-7;年:ねん|末:まつ|年:ねん|始:し
@@ -220,16 +236,17 @@
 変更する;henkō suru;へんこうする;mengubah;第2週;1日目;Hari ke-7;変:へん|更:こう
 ずらす;zurasu;ずらす;menggeser;第2週;1日目;Hari ke-7;
 旅行会社に申し込む;ryokōgaisha ni mōshikomu;りょこうがいしゃにもうしこむ;mendaftar ke agen perjalanan wisata;第2週;1日目;Hari ke-7;旅:りょ|行:こう|会:がい|社:しゃ|申:もう|込:こ
-荷物をつめる;nimotsu wo tsumeru;にもつをつめる;mengemas barang;第2週;1日目;Hari ke-7;荷:に|物:もつ
+荷物を詰める;nimotsu wo tsumeru;にもつをつめる;mengemas barang;第2週;1日目;Hari ke-7;荷:に|物:もつ|詰:つ
 海外旅行;kaigairyokō;かいがいりょこう;wisata internasional [KB];第2週;1日目;Hari ke-7;海:かい|外:がい|旅:りょ|行:こう
 国内旅行;kokunairyokō;こくないりょこう;wisata domestik [KB];第2週;1日目;Hari ke-7;国:こく|内:ない|旅:りょ|行:こう
 温泉;onsen;おんせん;pemandian air panas, onsen [KB];第2週;1日目;Hari ke-7;温:おん|泉:せん
-2泊3日;2haku3 ni chi;2はく3にち;3 hari 2 malam;第2週;1日目;Hari ke-7;泊:はく|日:にち
+2泊3日;nihaku mikka;にはくみっか;perjalanan 3 hari 2 malam;第2週;1日目;Hari ke-7;泊:はく|日:か
 日帰り;higaeri;ひがえり;perjalanan pulang-pergi (sehari saja), perjalanan pulang pergi dalam sehari;第2週;1日目;Hari ke-7;日:ひ|帰:がえ|り:り
 旅館;ryokan;りょかん;penginapan tradisional Jepang, ryokan [KB];第2週;1日目;Hari ke-7;旅:りょ|館:かん
 宿泊する;shukuhaku suru;しゅくはくする;menginap;第2週;1日目;Hari ke-7;宿:しゅく|泊:はく
-階段を上る, 上がる;kaidan wo noboru, agaru;かいだんをのぼる, あがる;naik tangga;第2週;2日目;Hari ke-8;階:かい|段:だん|上:のぼ|上:あ
-階段を下る, 下りる;kaidan wo kudaru, oriru;かいだんをくだる, おりる;turun (menuruni) tangga;第2週;2日目;Hari ke-8;階:かい|段:だん|下:くだ|下:お
+
+階段を上る・階段を上がる;kaidan wo noboru, kaidan wo agaru;かいだんをのぼる・かいだんをあがる;naik tangga;第2週;2日目;Hari ke-8;階:かい|段:だん|上:のぼ|階:かい|段:だん|上:あ
+階段を下る・階段を下りる;kaidan wo kudaru, kaidan wo oriru;かいだんをくだる・かいだんをおりる;turun tangga;第2週;2日目;Hari ke-8;階:かい|段:だん|下:くだ|階:かい|段:だん|下:お
 上りエスカレーター;nobori esukarētā;のぼりエスカレーター;eskalator naik;第2週;2日目;Hari ke-8;上:のぼ
 下りエスカレーター;kudari esukarētā;くだりエスカレーター;eskalator turun;第2週;2日目;Hari ke-8;下:くだ
 上り電車;nobori densha;のぼりでんしゃ;sebutan untuk kereta dari daerah menuju ke pusat kota Tokyo, kereta menuju pusat kota [KB];第2週;2日目;Hari ke-8;上:のぼ|電:でん|車:しゃ
@@ -254,8 +271,10 @@
 改札口を通る;kaisatsuguchi wo tōru;かいさつぐちをとおる;melewati gerbang pemeriksaan tiket;第2週;2日目;Hari ke-8;改:かい|札:さつ|口:ぐち|通:とお
 切符を払い戻す;kippu wo haraimodosu;きっぷをはらいもどす;refund tiket, mengembalikan tiket dan menerima uang kembali;第2週;2日目;Hari ke-8;切:きっ|符:ぷ|払:はら|戻:もど
 払い戻し;haraimodoshi;はらいもどし;refund, pengembalian uang;第2週;2日目;Hari ke-8;払:はら|戻:もど
+
 (プラット) ホームが混雑している;(puratto) hōmugakonzatsushiteiru;(プラット) ホームがこんざつしている;platformnya penuh (jadi susah diatur);第2週;3日目;Hari ke-9;混:こん|雑:ざつ
-白線, 黄色い線の内側に下がる;hakusen, kīroisen no uchigawa ni sagaru;はくせん, きいろいせんのうちがわにさがる;mundur kedalam sisi garis putih, kuning;第2週;3日目;Hari ke-9;白:はく|線:せん|黄:き|色:いろ|線:せん|内:うち|側:がわ|下:さ
+白線の内側に下がる;hakusen no uchigawa ni sagaru;はくせんのうちがわにさがる;menjauh ke dalam garis putih;第2週;3日目;Hari ke-9;白:はく|線:せん|内:うち|側:がわ|下:さ
+黄色い線の内側に下がる;kīroisen no uchigawa ni sagaru;きいろいせんのうちがわにさがる;menjauh ke dalam garis kuning;第2週;3日目;Hari ke-9;黄:き|色:いろ|線:せん|内:うち|側:がわ|下:さ
 特急が通過する;tokkyū ga tsūka suru;とっきゅうがつうかする;kereta express akan lewat;第2週;3日目;Hari ke-9;特:とっ|急:きゅう|通:つう|過:か
 乗車する;jōsha suru;じょうしゃする;naik kereta;第2週;3日目;Hari ke-9;乗:じょう|車:しゃ
 下車する;gesha suru;げしゃする;turun kereta;第2週;3日目;Hari ke-9;下:げ|車:しゃ
@@ -263,12 +282,12 @@
 電車はがらがらだ;densha wa garagara da;でんしゃはがらがらだ;kereta sedikit penumpang (kosong);第2週;3日目;Hari ke-9;電:でん|車:しゃ
 空っぽ;karappo;からっぽ;kosong;第2週;3日目;Hari ke-9;空:から
 満員電車で通勤する;man'in densha de tsūkin suru;まんいんでんしゃでつうきんする;pulang-pergi kantor menggunakan kereta penuh penumpang;第2週;3日目;Hari ke-9;満:まん|員:いん|電:でん|車:しゃ|通:つう|勤:きん
-電車がゆれる;densha ga yureru;でんしゃがゆれる;keretanya bergoyang;第2週;3日目;Hari ke-9;電:でん|車:しゃ
+電車が揺れる;densha ga yureru;でんしゃがゆれる;keretanya bergoyang;第2週;3日目;Hari ke-9;電:でん|車:しゃ|揺:ゆ
 始発(電車);shihatsu (densha);しはつ(でんしゃ);kereta pertama (pemberangkatan awal);第2週;3日目;Hari ke-9;始:し|発:はつ|電:でん|車:しゃ
 終電(電車);shūden (densha);しゅうでん(でんしゃ);kereta terakhir;第2週;3日目;Hari ke-9;終:しゅう|電:でん|電:でん|車:しゃ
 始発駅から乗る;shihatsuekikara no ru;しはつえきからのる;naik dari stasiun awal;第2週;3日目;Hari ke-9;始:し|発:はつ|駅:えき|乗:の
 終点で降りる;shūten de oriru;しゅうてんでおりる;turun di pemberhentian terakhir;第2週;3日目;Hari ke-9;終:しゅう|点:てん|降:お
-急行から各駅停車に乗り換える;kyūkōkarakakuekiteisha ni no rikaeru;きゅうこうからかくえきていしゃにのりかえる;pindah (transit) dari express ke kereta lokal;第2週;3日目;Hari ke-9;急:きゅう|行:こう|各:かく|駅:えき|停:てい|車:しゃ|乗:の|換:か
+急行から各駅停車に乗り換える;kyūkō kara kakuekiteisha ni no rikaeru;きゅうこうからかくえきていしゃにのりかえる;pindah (transit) dari express ke kereta lokal;第2週;3日目;Hari ke-9;急:きゅう|行:こう|各:かく|駅:えき|停:てい|車:しゃ|乗:の|換:か
 乗り換え;norikae;のりかえ;pindah kereta;第2週;3日目;Hari ke-9;乗:の|換:か
 乗り遅れる;noriokureru;のりおくれる;ketinggalan kereta;第2週;3日目;Hari ke-9;乗:の|遅:おく
 乗り過ごす;norisugosu;のりすごす;terlewat stasiun karena kebablasan;第2週;3日目;Hari ke-9;乗:の|過:す
@@ -282,6 +301,7 @@
 体に不自由な人;karada ni fujiyū na hito;からだにふじゆうなひと;orang dengan keterbatasan fisik (difabel);第2週;3日目;Hari ke-9;体:からだ|不:ふ|自:じ|由:ゆう|人:ひと
 痴漢に会う;chikan ni au;ちかんにあう;mengalami pelecehan (di kendaraan umum);第2週;3日目;Hari ke-9;痴:ち|漢:かん|会:あ
 駅の売店;eki no baiten;えきのばいてん;kios di stasiun;第2週;3日目;Hari ke-9;駅:えき|売:ばい|店:てん
+
 運転免許証;untenmenkyoshō;うんてんめんきょしょう;SIM;第2週;4日目;Hari ke-10;運:うん|転:てん|免:めん|許:きょ|証:しょう
 ドライブをする;doraibu wo suru;どらいぶをする;menyetir;第2週;4日目;Hari ke-10;
 レンタカーを借りる;rentakā wo kariru;れんたかーをかりる;menyewa mobil rental;第2週;4日目;Hari ke-10;借:か
@@ -300,28 +320,29 @@
 カーナビ;kānabi;カーナビ;sistem navigasi mobil (GPS) [KB];第2週;4日目;Hari ke-10;
 ワイパー;waipā;ワイパー;wiper (penghapus kaca) [KB];第2週;4日目;Hari ke-10;
 サイドミラー;saidomirā;サイドミラー;kaca spion samping [KB];第2週;4日目;Hari ke-10;
-シートベルトをしめる;shītoberuto wo shimeru;シートベルトをしめる;memakai sabuk pengaman;第2週;4日目;Hari ke-10;
-エンジンをかける;enjin wo kakeru;エンジンをかける;menyalakan mesin;第2週;4日目;Hari ke-10;
+シートベルトを締める;shītoberuto wo shimeru;シートベルトをしめる;memakai sabuk pengaman;第2週;4日目;Hari ke-10;締:し
+エンジンを掛ける;enjin wo kakeru;エンジンをかける;menyalakan mesin;第2週;4日目;Hari ke-10;掛:か
 バックミラーで確認(を)する;bakkumirā de kakunin (wo) suru;バックミラーでかくにん(を)する;memastikan dengan kaca spion dalam;第2週;4日目;Hari ke-10;確:かく|認:にん
-ハンドルをにぎる;handoru wo nigiru;ハンドルをにぎる;memegang setir;第2週;4日目;Hari ke-10;
-アクセルをふむ;akuseru wo fumu;アクセルをふむ;menginjak pedal gas;第2週;4日目;Hari ke-10;
-ブレーキをかける;burēki wo kakeru;ブレーキをかける;mengerem;第2週;4日目;Hari ke-10;
+ハンドルを握る;handoru wo nigiru;ハンドルをにぎる;memegang setir;第2週;4日目;Hari ke-10;握:にぎ
+アクセルを踏む;akuseru wo fumu;アクセルをふむ;menginjak pedal gas;第2週;4日目;Hari ke-10;踏:ふ
+ブレーキを掛ける;burēki wo kakeru;ブレーキをかける;mengerem;第2週;4日目;Hari ke-10;掛:か
 急ブレーキ;kyūburēki;きゅうブレーキ;rem mendadak;第2週;4日目;Hari ke-10;急:きゅう
-ライトをつける;raito wo tsukeru;ライトをつける;menyalakan lampu (mobil);第2週;4日目;Hari ke-10;
+ライトを点ける;raito wo tsukeru;ライトをつける;menyalakan lampu (mobil);第2週;4日目;Hari ke-10;点:つ
 ワイパーを動かす;waipā wo ugokasu;ワイパーをうごかす;menggerakkan wiper;第2週;4日目;Hari ke-10;動:うご
 ガソリンスタンドに寄る;gasorinsutando ni yoru;ガソリンスタンドによる;mampir ke pom bensin;第2週;4日目;Hari ke-10;寄:よ
 高速道路に乗る;kōsokudōro ni noru;こうそくどうろにのる;naik, masuk ke jalan tol;第2週;4日目;Hari ke-10;高:こう|速:そく|道:どう|路:ろ|乗:の
 タイヤがパンクする;taiya ga panku suru;タイヤがパンクする;ban kempes, bocor;第2週;4日目;Hari ke-10;
+
 一方通行;ippōtsūkō;いっぽうつうこう;jalan satu arah;第2週;5日目;Hari ke-11;一:いっ|方:ぽう|通:つう|行:こう
 通行止め;tsūkōdome;つうこうどめ;jalan ditutup;第2週;5日目;Hari ke-11;通:つう|行:こう|止:ど
 工事中;kōjichū;こうじちゅう;sedang ada pengerjaan;第2週;5日目;Hari ke-11;工:こう|事:じ|中:ちゅう
 踏切;fumikiri;ふみきり;perlintasan kereta api;第2週;5日目;Hari ke-11;踏:ふみ|切:きり
 横断歩道;ōdanhodō;おうだんほどう;zebra cross;第2週;5日目;Hari ke-11;横:おう|断:だん|歩:ほ|道:どう
 交差点;kōsaten;こうさてん;perempatan;第2週;5日目;Hari ke-11;交:こう|差:さ|点:てん
-バス停, バスの停留所;basutei, basu no teiryūjo;バスてい, バスのていりゅうじょ;halte bus;第2週;5日目;Hari ke-11;停:てい|停:てい|留:りゅう|所:じょ
+バス停・バスの停留所;basutei, basu no teiryūjo;バスてい・バスのていりゅうじょ;halte bus;第2週;5日目;Hari ke-11;停:てい|停:てい|留:りゅう|所:じょ
 線路;senro;せんろ;jalur kereta;第2週;5日目;Hari ke-11;線:せん|路:ろ
 四つ角;yotsukado;よつかど;perempatan jalan;第2週;5日目;Hari ke-11;四:よ|角:かど
-回り道 (をする), 遠回り (をする);mawarimichi ( wo suru), tōmawari ( wo suru);まわりみち (をする), とおまわり (をする);mengambil jalan memutar (semakin jauh);第2週;5日目;Hari ke-11;回:まわ|道:みち|遠:とお|回:まわ
+回り道 (をする)・遠回り (をする);mawarimichi ( wo suru), tōmawari ( wo suru);まわりみち (をする)・とおまわり (をする);mengambil jalan memutar (semakin jauh);第2週;5日目;Hari ke-11;回:まわ|道:みち|遠:とお|回:まわ
 近道 (をする);chikamichi ( wo suru);ちかみち (をする);mengambil jalan pintas;第2週;5日目;Hari ke-11;近:ちか|道:みち
 突き当りを左に曲がる;tsukiatari wo hidari ni magaru;つきあたりをひだりにまがる;mentok belok kiri;第2週;5日目;Hari ke-11;突:つ|当:あた|左:ひだり|曲:ま
 バスが停車する;basu ga teisha suru;バスがていしゃする;busnya berhenti;第2週;5日目;Hari ke-11;停:てい|車:しゃ
@@ -334,15 +355,15 @@
 車をぶつける;kuruma wo butsukeru;くるまをぶつける;menabrakkan mobil;第2週;5日目;Hari ke-11;車:くるま
 車がぶつかる;kuruma ga butsukaru;くるまがぶつかる;mobilnya bertabrakan;第2週;5日目;Hari ke-11;車:くるま
 猫を轢く;neko wo hiku;ねこをひく;melindas kucing;第2週;5日目;Hari ke-11;猫:ねこ|轢:ひ
-猫が車にひかれる;neko ga kuruma ni hikareru;ねこがくるまにひかれる;kucing terlindas mobil;第2週;5日目;Hari ke-11;猫:ねこ|車:くるま
-交通事故にあう;kōtsūjiko ni au;こうつうじこにあう;mengalami kecelakaan lalu lintas;第2週;5日目;Hari ke-11;交:こう|通:つう|事:じ|故:こ
+猫が車に轢かれる;neko ga kuruma ni hikareru;ねこがくるまにひかれる;kucing terlindas mobil;第2週;5日目;Hari ke-11;猫:ねこ|車:くるま|轢:ひ
+交通事故に遭う;kōtsūjiko ni au;こうつうじこにあう;mengalami kecelakaan lalu lintas;第2週;5日目;Hari ke-11;交:こう|通:つう|事:じ|故:こ|遭:あ
 車に気をつける;kuruma ni ki wo tsukeru;くるまにきをつける;hati-hati terhadap mobil;第2週;5日目;Hari ke-11;車:くるま|気:き
-ななめに横断する;naname ni ōdan suru;ななめにおうだんする;menyeberang secara miring, diagonal;第2週;5日目;Hari ke-11;横:おう|断:だん
+斜めに横断する;naname ni ōdan suru;ななめにおうだんする;menyeberang secara miring, diagonal;第2週;5日目;Hari ke-11;斜:なな|横:おう|断:だん
 道路を横切る;dōro wo yokogiru;どうろをよこぎる;memotong, menyeberangi jalan;第2週;5日目;Hari ke-11;道:どう|路:ろ|横:よこ|切:ぎ
 信号;shingō;しんごう;lampu lalu lintas;第2週;5日目;Hari ke-11;信:しん|号:ごう
-道路が渋滞している, 混んでいる;dōro ga jūtai shite iru, konde iru;どうろがじゅうたいしている, こんでいる;jalanan macet, ramai;第2週;5日目;Hari ke-11;道:どう|路:ろ|渋:じゅう|滞:たい|混:こ
+道路が渋滞している・道路が混んでいる;dōro ga jūtai shiteiru, dōro ga kondeiru;どうろがじゅうたいしている・どうろがこんでいる;jalanan macet;第2週;5日目;Hari ke-11;道:どう|路:ろ|渋:じゅう|滞:たい|道:どう|路:ろ|混:こん
 道路がすいている;dōro ga suiteiru;どうろがすいている;jalanan kosong;第2週;5日目;Hari ke-11;道:どう|路:ろ
-渋滞;jūtai;じゅうたい;macet;第2週;5日目;Hari ke-11;渋:じゅう|滞:たい
+
 窓口で両替をする;madoguchi de ryōgae wo suru;まどぐちでりょうがえをする;menukar uang di loket bank;第2週;6日目;Hari ke-12;窓:まど|口:ぐち|両:りょう|替:がえ
 預金する;yokin suru;よきんする;mendepositokan uang;第2週;6日目;Hari ke-12;預:よ|金:きん
 銀行にお金を預ける;ginkō ni okane wo azukeru;ぎんこうにおかねをあずける;menitipkan uang di bank;第2週;6日目;Hari ke-12;銀:ぎん|行:こう|金:かね|預:あず
@@ -356,24 +377,25 @@
 電話代;denwadai;でんわだい;biaya telepon;第2週;6日目;Hari ke-12;電:でん|話:わ|代:だい
 商品の代金を払う;shōhin no daikin wo harau;しょうひんのだいきんをはらう;membayar biaya, harga barang;第2週;6日目;Hari ke-12;商:しょう|品:ひん|代:だい|金:きん|払:はら
 送金する;sōkin suru;そうきんする;mengirim uang;第2週;6日目;Hari ke-12;送:そう|金:きん
-仕送りする;shiokuri suru;しおくりする;mengirim uang saku (bulanan);第2週;6日目;Hari ke-12;仕:し|送:おく|り:り
-手数料がかかる;tesūryō ga kakaru;てすうりょうがかかる;dikenakan biaya admin, komisi;第2週;6日目;Hari ke-12;手:て|数:すう|料:りょう
-送料がかかる;sōryō ga kakaru;そうりょうがかかる;dikenakan biaya pengiriman (ongkir);第2週;6日目;Hari ke-12;送:そう|料:りょう
+仕送りする;shiokuri suru;しおくりする;mengirim uang saku (bulanan);第2週;6日目;Hari ke-12;仕:し|送:おく
+手数料が掛かる;tesūryō ga kakaru;てすうりょうがかかる;dikenakan biaya admin, komisi;第2週;6日目;Hari ke-12;手:て|数:すう|料:りょう|掛:か
+送料が掛かる;sōryō ga kakaru;そうりょうがかかる;dikenakan biaya pengiriman (ongkir);第2週;6日目;Hari ke-12;送:そう|料:りょう|掛:か
 あて先;atesaki;あてさき;alamat yang dituju;第2週;6日目;Hari ke-12;先:さき
 あて名;atena;あてな;nama penerima;第2週;6日目;Hari ke-12;名:な
 差出人;sashidashinin;さしだしにん;pengirim;第2週;6日目;Hari ke-12;差:さし|出:だし|人:にん
 手紙を速達で出す;tegami wo sokutatsu de dasu;てがみをそくたつでだす;mengirim surat dengan layanan ekspres;第2週;6日目;Hari ke-12;手:て|紙:がみ|速:そく|達:たつ|出:だ
 銀行の本店;ginkō no honten;ぎんこうのほんてん;kantor pusat bank;第2週;6日目;Hari ke-12;銀:ぎん|行:こう|本:ほん|店:てん
 家賃を振り込む;yachin wo furikomu;やちんをふりこむ;mentransfer biaya sewa properti;第2週;6日目;Hari ke-12;家:や|賃:ちん|振:ふ|込:こ
-給料を引き出す, 下ろす;kyūryō wo hikidasu, orosu;きゅうりょうをひきだす, おろす;mengambil gaji;第2週;6日目;Hari ke-12;給:きゅう|料:りょう|引:ひ|出:だ|下:お
-お金をためる, 貯金する;okane wo tameru, chokin suru;おかねをためる, ちょきんする;mengumpulkan uang, menabung;第2週;6日目;Hari ke-12;金:かね|貯:ちょ|金:きん
+給料を引き出す・給料を下ろす;kyūryō wo hikidasu, kyūryō wo orosu;きゅうりょうをひきだす・きゅうりょうをおろす;mengambil gaji;第2週;6日目;Hari ke-12;給:きゅう|料:りょう|引:ひ|出:だ|給:きゅう|料:りょう|下:お
+お金を貯める・お金を貯金する;okane wo tameru, okane wo chokin suru;おかねをためる・おかねをちょきんする;menabung uang;第2週;6日目;Hari ke-12;金:かね|貯:た|金:かね|貯:ちょ|金:きん
 通帳記入をする;tsūchō kinyū wo suru;つうちょうきにゅうをする;buku tabungan;第2週;6日目;Hari ke-12;通:つう|帳:ちょう|記:き|入:にゅう
 キャッシュカード;kyasshukādo;きゃっしゅカード;kartu ATM [KB];第2週;6日目;Hari ke-12;
 サイン;sain;さいん;tanda tangan [KB];第2週;6日目;Hari ke-12;
-はんこ, 印鑑;hanko, inkan;はんこ, いんかん;stampel (tanda tangan);第2週;6日目;Hari ke-12;印:いん|鑑:かん
-紙幣, お札;shihei, osatsu;しへい, おさつ;uang kertas;第2週;6日目;Hari ke-12;紙:し|幣:へい|札:さつ
+判子・印鑑;hanko, inkan;はんこ・いんかん;stampel (tanda tangan);第2週;6日目;Hari ke-12;判:はん|子:こ|印:いん|鑑:かん
+紙幣・お札;shihei, osatsu;しへい・おさつ;uang kertas;第2週;6日目;Hari ke-12;紙:し|幣:へい|札:さつ
 百円玉;hyakuentama;ひゃくえんたま;uang 100yen;第2週;6日目;Hari ke-12;百:ひゃく|円:えん|玉:たま
 硬貨;kōka;こうか;uang logam;第2週;6日目;Hari ke-12;硬:こう|貨:か
+
 交際する/付き合う;kōsai suru/tsukiau;こうさいする/つきあう;berpacaran;第3週;1日目;Hari ke-13;交:こう|際:さい|付:つ|合:あ
 喧嘩する;kenka suru;けんかする;bertengkar, berkelahi, cekcok;第3週;1日目;Hari ke-13;喧:けん|嘩:か
 仲直りする;nakanaori suru;なかなおりする;baikan, berdamai;第3週;1日目;Hari ke-13;仲:なか|直:なお
