@@ -1,11 +1,11 @@
 {
     "version":  "0.1.2",
     "notes":  "Kotoba Flashcard v0.1.2",
-    "pub_date":  "2026-07-07T00:37:51Z",
+    "pub_date":  "2026-07-06T17:39:03Z",
     "platforms":  {
                       "windows-x86_64":  {
                                              "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdTRzYVRGdVMvaDYwdCs1YlRiRktxa3l0eU5peGtFWWlGN3QwUnRKVkI3UGFsbHBub091Tzk1ZjBLbkFyMEc5eTRvdTJuVGptNVMxeXl5OFk0SkdaQjdxM0FFK3ZDMFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzU5NDcxCWZpbGU6S290b2JhIEZsYXNoY2FyZF8wLjEuMl94NjQtc2V0dXAuZXhlCjVYUjN1ZFFIRmtNVmFlRW42ZUpuMDN3Q0xwcndGMU9TMldlaldRczJNelp2VHQ1cGliZGpURmJKTGFnSGIyTlFuNDFlZHpjc0tVNDlOajFvM3dNV0N3PT0K",
-                                             "url":  "https://github.com/ilhamahendra14/NIHON-KNOWLEDGE/releases/download/v0.1.2/Kotoba%20Flashcard_0.1.2_x64-setup.exe"
+                                             "url":  "https://github.com/ilhamahendra14/NIHON-KNOWLEDGE/releases/download/v0.1.2/Kotoba.Flashcard_0.1.2_x64-setup.exe"
                                          }
                   }
 }
