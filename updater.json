@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.3",
-    "notes":  "Kotoba Flashcard v0.1.3",
-    "pub_date":  "2026-07-07T00:53:31Z",
+    "version":  "0.1.2",
+    "notes":  "Kotoba Flashcard v0.1.2",
+    "pub_date":  "2026-07-07T00:58:32Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdTRzYVRGdVMvaDdKMDFVTWVLb1pZN0Qxa0RDekJ5aWNlbEd6aEhQNUh5UlpNSXA1c2pVU3h1c1IyUnRQOTh3QVVKUTg1dVI0NTZiNDkxTGZRZGM3UGpUdXVGNzMxOWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzYwNDExCWZpbGU6S290b2JhIEZsYXNoY2FyZF8wLjEuM194NjQtc2V0dXAuZXhlClVWamtnemJIZFRNbzdsWVJNZTFXMXBuUGgxbGhSMUJyNGNwZHBzVzlpT1dnTlRaUmdqaXlSNXI4TFJNNVhmRTYyS1dLSktGbnRCcjlWR01WS0orMkJnPT0K",
-                                             "url":  "https://github.com/ilhamahendra14/NIHON-KNOWLEDGE/releases/download/v0.1.3/Kotoba.Flashcard_0.1.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdTRzYVRGdVMvaDU4MTgrUmtPSStvVk5mZVVaMFFRTW1DV0tmRFlFd3pPaTVoZ0pCeC9FSlM0OWJ5Q0U0OVYrK0JGb1I3eDU0c211UzZxd2ZtL1pCQnJMSFZSQW4ydUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzYwNzEyCWZpbGU6S290b2JhIEZsYXNoY2FyZF8wLjEuMl94NjQtc2V0dXAuZXhlCnYxNE8veENKWElvb3dnK0p4c0NiVi9UczVFM3k0K0VSY1NlVjFPVzFObU8va2VpUEIxMFlDcTRVSFphdSt4b0hFZDdhcGZGak9oOEUwT2UxeDRNK0JBPT0K",
+                                             "url":  "https://github.com/ilhamahendra14/NIHON-KNOWLEDGE/releases/download/v0.1.2/Kotoba.Flashcard_0.1.2_x64-setup.exe"
                                          }
                   }
 }
