@@ -1,0 +1,26 @@
+﻿日本語;Romaji;Cara Baca;インドネシア語;Custom Name;Furigana Segment
+通行止;tsūkō dome;つうこうどめ;jalan ditutup total (semua dilarang lewat);交通;通:つう|行:こう|止:どめ
+車両通行止;sharyō tsūkō dome;しゃりょうつうこうどめ;kendaraan dilarang lewat (pejalan kaki boleh);交通;車:しゃ|両:りょう|通:つう|行:こう|止:どめ
+車両進入禁止;sharyō shin-nyū kinshi;しゃりょうしんにゅうきんし;kendaraan dilarang masuk (jalan satu arah dari sisi ini);交通;車:しゃ|両:りょう|進:しん|入:にゅう|禁:きん|止:し
+二輪の自動車以外の自動車通行止;nirin no jidōsha igai no jidōsha tsūkōdome;にりんのじどうしゃいがいのじどうしゃつうこうどめ;motor boleh, mobil dilarang lewat;交通;二:に|輪:りん|自:じ|動:どう|車:しゃ|以:い|外:がい|自:じ|動:どう|車:しゃ|通:つう|行:こう|止:どめ
+二輪の自動車・原動機付き自転車通行止;nirin no jidōsha gendōkitsuki jitensha tsūkōdome;にりんのじどうしゃげんどうきつきじてんしゃつうこうどめ;motor dan moped dilarang lewat;交通;二:に|輪:りん|自:じ|動:どう|車:しゃ|原:げん|動:どう|機:き|付:つ|自:じ|転:てん|車:しゃ|通:つう|行:こう|止:どめ
+自転車通行止;jitensha tsūkōdome;じてんしゃつうこうどめ;sepeda dilarang lewat;交通;自:じ|転:てん|車:しゃ|通:つう|行:こう|止:どめ
+指定方向外進行禁止;shitei hōkō gai shinkō kinshi;していほうこうがいしんこうきんし;hanya boleh ke arah yang ditunjuk panah;交通;指:し|定:てい|方:ほう|向:こう|外:がい|進:しん|行:こう|禁:きん|止:し
+転回禁止;tenkai kinshi;てんかいきんし;dilarang putar balik (U-turn);交通;転:てん|回:かい|禁:きん|止:し
+追い越しのための右側はみ出し通行禁止;oikoshi no tame no migigawa hamidashi tsūkōkinshi;おいこしのためのみぎがわはみだしつうこうきんし;dilarang menyalip dengan keluar jalur kanan;交通;追:お|越:こ|右:みぎ|側:がわ|出:だ|通:つう|行:こう|禁:きん|止:し
+駐停車禁止;chūteisha kinshi;ちゅうていしゃきんし;dilarang parkir maupun berhenti sejenak;交通;駐:ちゅう|停:てい|車:しゃ|禁:きん|止:し
+停車禁止;teisha kinshi;ていしゃきんし;dilarang berhenti sejenak;交通;停:てい|車:しゃ|禁:きん|止:し
+重量制限;jūryō seigen;じゅうりょうせいげん;batas berat kendaraan (kendaraan terlalu berat dilarang);交通;重:じゅう|量:りょう|制:せい|限:げん
+高さ制限;takasa seigen;たかさせいげん;batas tinggi kendaraan (kendaraan terlalu tinggi dilarang);交通;高:たか|制:せい|限:げん
+最大幅;saidai haba;さいだいはば;batas lebar kendaraan (kendaraan terlalu lebar dilarang);交通;最:さい|大:だい|幅:はば
+最高速度;saikō sokudo;さいこうそくど;batas kecepatan maksimum;交通;最:さい|高:こう|速:そく|度:ど
+自動車専用;jidōsha sen-yō;じどうしゃせんよう;khusus kendaraan bermotor (jalan tol, expressway);交通;自:じ|動:どう|車:しゃ|専:せん|用:よう
+自転車専用;jitensha sen-yō;じてんしゃせんよう;khusus sepeda;交通;自:じ|転:てん|車:しゃ|専:せん|用:よう
+歩行者専用;hokōsha sen-yō;ほこうしゃせんよう;khusus pejalan kaki;交通;歩:ほ|行:こう|者:しゃ|専:せん|用:よう
+自転車および歩行者専用;jitensha oyobi hokōsha sen-yō;じてんしゃおよびほこうしゃせんよう;khusus sepeda dan pejalan kaki;交通;自:じ|転:てん|車:しゃ|歩:ほ|行:こう|者:しゃ|専:せん|用:よう
+一方通行;ippō tsūkō;いっぽうつうこう;jalan satu arah;交通;一:いっ|方:ほう|通:つう|行:こう
+徐行;jokō;じょこう;wajib pelan (bisa berhenti kapan saja);交通;徐:じょ|行:こう
+一時停止;ichiji teishi;いちじていし;wajib berhenti sejenak di garis stop;交通;一:いち|時:じ|停:てい|止:し
+横断歩道;ōdan hodō;おうだんほどう;zebra cross, penyeberangan pejalan kaki;交通;横:おう|断:だん|歩:ほ|道:どう
+自転車横断帯;jitensha ōdantai;じてんしゃおうだんたい;lajur penyeberangan khusus sepeda;交通;自:じ|転:てん|車:しゃ|横:おう|断:だん|帯:たい
+横断歩道・自転車横断帯;ōdan hodō jitensha ōdantai;おうだんほどうじてんしゃおうだんたい;zebra cross + lajur penyeberangan sepeda (gabungan);交通;横:おう|断:だん|歩:ほ|道:どう|自:じ|転:てん|車:しゃ|横:おう|断:だん|帯:たい
